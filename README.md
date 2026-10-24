@@ -1,4 +1,6 @@
 # 🚀 Social Media Influence Analysis for Kenya's 2027 Election Campaign
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/3e0c04d2-f263-4710-8ef5-e9c1d8e6e9af" />
+
 - 📢 Can a single viral campaign message influence an entire election network?
 - This project uses **Agent-Based Modeling (ABM)** and **Social Network Analysis** in MATLAB to simulate how political campaign messages spread across social media during Kenya's 2027 election. 🇰🇪📱
 
