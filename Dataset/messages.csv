@@ -1,0 +1,101 @@
+MessageID,Candidate,Topic,Platform,Format,Tone,Language,Virality,SeedUser,ReleaseDay,Headline
+M001,Candidate B,Jobs,Facebook,Image/Meme,Hopeful,English,0.546,U0376,23,[Synthetic] Candidate B: promise of youth jobs and apprenticeships
+M002,Civic/Neutral,Corruption,Facebook,Text post,Informational,English,0.402,U0695,8,[Synthetic] Civic explainer on corruption
+M003,Candidate C,Healthcare,Facebook,Short video,Attack,Sheng,0.636,U1574,30,[Synthetic] Candidate C: commitment to fix SHA rollout and hospital stocks
+M004,Candidate B,Healthcare,YouTube,Text post,Informational,Sheng,0.323,U0687,7,[Synthetic] Candidate B: pledge on affordable clinics
+M005,Candidate C,Corruption,Facebook,Image/Meme,Humour,Kiswahili,0.429,U1069,12,[Synthetic] Candidate C: vow to prosecute misuse of public funds
+M006,Candidate C,Jobs,WhatsApp,Text post,Informational,Sheng,0.364,U1321,11,[Synthetic] Candidate C: promise of youth jobs and apprenticeships
+M007,Candidate B,Jobs,TikTok,Short video,Informational,Kiswahili,0.482,U0239,28,[Synthetic] Candidate B: plan to support small traders (jua kali)
+M008,Candidate C,Infrastructure,YouTube,Image/Meme,Attack,English,0.563,U1548,17,[Synthetic] Candidate C: plan for rural electricity
+M009,Candidate A,Cost of Living,WhatsApp,Short video,Hopeful,English,0.272,U1487,18,[Synthetic] Candidate A: pledge on cutting taxes on basic goods
+M010,Candidate B,Jobs,WhatsApp,Short video,Informational,English,0.437,U1156,2,[Synthetic] Candidate B: promise of youth jobs and apprenticeships
+M011,Candidate A,Corruption,TikTok,Image/Meme,Hopeful,Kiswahili,0.199,U1537,11,[Synthetic] Candidate A: vow to prosecute misuse of public funds
+M012,Civic/Neutral,Jobs,WhatsApp,Short video,Humour,English,0.603,U1365,2,[Synthetic] Civic explainer on jobs
+M013,Candidate A,Jobs,Facebook,Image/Meme,Hopeful,English,0.289,U0282,21,[Synthetic] Candidate A: promise of youth jobs and apprenticeships
+M014,Candidate B,Cost of Living,TikTok,Short video,Informational,Sheng,0.531,U1831,15,[Synthetic] Candidate B: plan to lower food and fuel prices
+M015,Candidate B,Jobs,WhatsApp,Short video,Humour,English,0.578,U0262,22,[Synthetic] Candidate B: plan to support small traders (jua kali)
+M016,Candidate C,Jobs,YouTube,Image/Meme,Attack,Sheng,0.564,U0040,25,[Synthetic] Candidate C: promise of youth jobs and apprenticeships
+M017,Civic/Neutral,Corruption,Facebook,Image/Meme,Hopeful,English,0.482,U1229,13,[Synthetic] Civic explainer on corruption
+M018,Candidate A,Cost of Living,Facebook,Image/Meme,Humour,English,0.493,U0928,17,[Synthetic] Candidate A: pledge on cutting taxes on basic goods
+M019,Candidate B,Cost of Living,Facebook,Image/Meme,Informational,English,0.581,U1918,14,[Synthetic] Candidate B: pledge on cutting taxes on basic goods
+M020,Candidate C,Education,WhatsApp,Text post,Informational,Kiswahili,0.386,U0126,10,[Synthetic] Candidate C: plan on school fees and HELB loans
+M021,Civic/Neutral,Education,WhatsApp,Text post,Hopeful,Sheng,0.298,U0756,18,[Synthetic] Civic explainer on education
+M022,Civic/Neutral,Jobs,Facebook,Text post,Humour,Kiswahili,0.506,U1224,24,[Synthetic] Civic explainer on jobs
+M023,Civic/Neutral,Cost of Living,Facebook,Short video,Informational,English,0.678,U0129,3,[Synthetic] Civic explainer on cost of living
+M024,Candidate B,Corruption,WhatsApp,Short video,Attack,Kiswahili,0.604,U0414,9,[Synthetic] Candidate B: vow to prosecute misuse of public funds
+M025,Candidate A,Jobs,TikTok,Short video,Informational,English,0.68,U0192,8,[Synthetic] Candidate A: promise of youth jobs and apprenticeships
+M026,Candidate A,Jobs,Facebook,Voice note,Informational,English,0.398,U1980,4,[Synthetic] Candidate A: plan to support small traders (jua kali)
+M027,Candidate C,Cost of Living,WhatsApp,Text post,Humour,Kiswahili,0.442,U0680,13,[Synthetic] Candidate C: pledge on cutting taxes on basic goods
+M028,Candidate A,Jobs,WhatsApp,Short video,Attack,Kiswahili,0.72,U0511,29,[Synthetic] Candidate A: plan to support small traders (jua kali)
+M029,Civic/Neutral,Cost of Living,Facebook,Image/Meme,Hopeful,Kiswahili,0.374,U1321,14,[Synthetic] Civic explainer on cost of living
+M030,Candidate C,Jobs,WhatsApp,Short video,Informational,English,0.32,U1734,6,[Synthetic] Candidate C: plan to support small traders (jua kali)
+M031,Candidate A,Jobs,TikTok,Image/Meme,Attack,Sheng,0.496,U1743,13,[Synthetic] Candidate A: plan to support small traders (jua kali)
+M032,Candidate A,Healthcare,TikTok,Voice note,Informational,English,0.428,U0184,21,[Synthetic] Candidate A: pledge on affordable clinics
+M033,Candidate A,Cost of Living,YouTube,Text post,Attack,Kiswahili,0.305,U0928,15,[Synthetic] Candidate A: pledge on cutting taxes on basic goods
+M034,Candidate C,Healthcare,TikTok,Short video,Attack,Kiswahili,0.789,U0293,6,[Synthetic] Candidate C: commitment to fix SHA rollout and hospital stocks
+M035,Candidate B,Corruption,Facebook,Short video,Informational,Kiswahili,0.444,U0407,16,[Synthetic] Candidate B: call for open county budgets
+M036,Civic/Neutral,Education,WhatsApp,Image/Meme,Hopeful,English,0.307,U0585,19,[Synthetic] Civic explainer on education
+M037,Candidate B,Jobs,TikTok,Short video,Attack,Kiswahili,0.573,U0114,30,[Synthetic] Candidate B: promise of youth jobs and apprenticeships
+M038,Civic/Neutral,Cost of Living,TikTok,Short video,Attack,Kiswahili,0.668,U0414,10,[Synthetic] Civic explainer on cost of living
+M039,Candidate B,Cost of Living,Facebook,Short video,Informational,Kiswahili,0.581,U0590,23,[Synthetic] Candidate B: pledge on cutting taxes on basic goods
+M040,Civic/Neutral,Jobs,WhatsApp,Text post,Attack,Kiswahili,0.608,U1213,21,[Synthetic] Civic explainer on jobs
+M041,Candidate C,Infrastructure,Facebook,Image/Meme,Attack,Kiswahili,0.532,U0754,18,[Synthetic] Candidate C: plan for rural electricity
+M042,Candidate A,Education,Facebook,Text post,Humour,English,0.374,U0599,1,[Synthetic] Candidate A: plan on school fees and HELB loans
+M043,Candidate B,Corruption,WhatsApp,Voice note,Informational,English,0.368,U1517,25,[Synthetic] Candidate B: vow to prosecute misuse of public funds
+M044,Candidate B,Education,YouTube,Text post,Attack,English,0.271,U1318,29,[Synthetic] Candidate B: pledge on school feeding and bursaries
+M045,Civic/Neutral,Healthcare,Facebook,Text post,Attack,English,0.224,U0559,15,[Synthetic] Civic explainer on healthcare
+M046,Candidate A,Infrastructure,TikTok,Short video,Informational,Sheng,0.344,U1384,8,[Synthetic] Candidate A: plan for rural electricity
+M047,Candidate C,Cost of Living,Facebook,Image/Meme,Hopeful,English,0.376,U0317,14,[Synthetic] Candidate C: pledge on cutting taxes on basic goods
+M048,Candidate A,Healthcare,TikTok,Short video,Attack,English,0.779,U1193,26,[Synthetic] Candidate A: commitment to fix SHA rollout and hospital stocks
+M049,Candidate B,Jobs,X,Image/Meme,Humour,Sheng,0.554,U0698,24,[Synthetic] Candidate B: plan to support small traders (jua kali)
+M050,Candidate A,Cost of Living,TikTok,Short video,Attack,Kiswahili,0.743,U0721,4,[Synthetic] Candidate A: plan to lower food and fuel prices
+M051,Candidate A,Cost of Living,WhatsApp,Short video,Informational,Kiswahili,0.496,U1575,16,[Synthetic] Candidate A: plan to lower food and fuel prices
+M052,Candidate B,Jobs,Facebook,Image/Meme,Attack,English,0.441,U2000,3,[Synthetic] Candidate B: plan to support small traders (jua kali)
+M053,Candidate A,Cost of Living,YouTube,Text post,Informational,English,0.238,U1533,18,[Synthetic] Candidate A: pledge on cutting taxes on basic goods
+M054,Civic/Neutral,Infrastructure,Facebook,Short video,Attack,Sheng,0.649,U0609,12,[Synthetic] Civic explainer on infrastructure
+M055,Candidate A,Jobs,WhatsApp,Text post,Humour,Kiswahili,0.595,U0757,27,[Synthetic] Candidate A: promise of youth jobs and apprenticeships
+M056,Candidate B,Education,Facebook,Short video,Informational,Kiswahili,0.258,U0205,15,[Synthetic] Candidate B: pledge on school feeding and bursaries
+M057,Candidate B,Cost of Living,Facebook,Short video,Hopeful,English,0.622,U0475,28,[Synthetic] Candidate B: pledge on cutting taxes on basic goods
+M058,Candidate A,Healthcare,TikTok,Short video,Hopeful,Sheng,0.519,U0330,11,[Synthetic] Candidate A: pledge on affordable clinics
+M059,Candidate B,Education,TikTok,Image/Meme,Humour,Sheng,0.548,U0580,19,[Synthetic] Candidate B: plan on school fees and HELB loans
+M060,Candidate A,Infrastructure,WhatsApp,Image/Meme,Informational,Kiswahili,0.424,U1167,15,[Synthetic] Candidate A: promise on feeder roads and water access
+M061,Candidate B,Cost of Living,WhatsApp,Text post,Hopeful,Sheng,0.455,U1050,1,[Synthetic] Candidate B: pledge on cutting taxes on basic goods
+M062,Candidate B,Cost of Living,TikTok,Short video,Attack,English,0.697,U0289,14,[Synthetic] Candidate B: plan to lower food and fuel prices
+M063,Candidate C,Cost of Living,TikTok,Short video,Attack,Sheng,0.392,U0298,8,[Synthetic] Candidate C: pledge on cutting taxes on basic goods
+M064,Candidate A,Jobs,YouTube,Short video,Attack,Kiswahili,0.753,U0405,17,[Synthetic] Candidate A: promise of youth jobs and apprenticeships
+M065,Candidate A,Healthcare,Facebook,Short video,Hopeful,Sheng,0.449,U0460,6,[Synthetic] Candidate A: pledge on affordable clinics
+M066,Candidate C,Jobs,TikTok,Short video,Informational,English,0.405,U0757,16,[Synthetic] Candidate C: promise of youth jobs and apprenticeships
+M067,Candidate B,Infrastructure,TikTok,Voice note,Informational,Kiswahili,0.311,U1226,1,[Synthetic] Candidate B: promise on feeder roads and water access
+M068,Candidate A,Cost of Living,X,Voice note,Hopeful,Sheng,0.46,U0068,27,[Synthetic] Candidate A: pledge on cutting taxes on basic goods
+M069,Candidate A,Corruption,WhatsApp,Image/Meme,Humour,Kiswahili,0.583,U0126,3,[Synthetic] Candidate A: call for open county budgets
+M070,Civic/Neutral,Corruption,YouTube,Text post,Humour,Sheng,0.6,U0238,23,[Synthetic] Civic explainer on corruption
+M071,Candidate A,Jobs,TikTok,Image/Meme,Humour,Kiswahili,0.509,U1244,30,[Synthetic] Candidate A: promise of youth jobs and apprenticeships
+M072,Candidate B,Healthcare,YouTube,Voice note,Informational,English,0.266,U1302,19,[Synthetic] Candidate B: commitment to fix SHA rollout and hospital stocks
+M073,Candidate B,Jobs,Facebook,Text post,Hopeful,Kiswahili,0.378,U0321,14,[Synthetic] Candidate B: plan to support small traders (jua kali)
+M074,Candidate B,Corruption,X,Text post,Informational,Sheng,0.179,U1101,12,[Synthetic] Candidate B: vow to prosecute misuse of public funds
+M075,Candidate B,Cost of Living,WhatsApp,Text post,Hopeful,Sheng,0.378,U1213,7,[Synthetic] Candidate B: plan to lower food and fuel prices
+M076,Candidate B,Jobs,YouTube,Text post,Hopeful,Sheng,0.251,U1572,14,[Synthetic] Candidate B: plan to support small traders (jua kali)
+M077,Candidate A,Jobs,Facebook,Short video,Informational,English,0.587,U1826,30,[Synthetic] Candidate A: promise of youth jobs and apprenticeships
+M078,Candidate A,Cost of Living,Facebook,Image/Meme,Hopeful,English,0.663,U1052,21,[Synthetic] Candidate A: pledge on cutting taxes on basic goods
+M079,Candidate A,Healthcare,WhatsApp,Voice note,Hopeful,English,0.317,U1502,7,[Synthetic] Candidate A: pledge on affordable clinics
+M080,Candidate A,Cost of Living,TikTok,Short video,Humour,Sheng,0.468,U0289,16,[Synthetic] Candidate A: plan to lower food and fuel prices
+M081,Civic/Neutral,Cost of Living,Facebook,Short video,Humour,English,0.475,U1585,21,[Synthetic] Civic explainer on cost of living
+M082,Candidate B,Corruption,Facebook,Image/Meme,Informational,Sheng,0.431,U1885,11,[Synthetic] Candidate B: vow to prosecute misuse of public funds
+M083,Candidate A,Jobs,WhatsApp,Text post,Hopeful,Kiswahili,0.376,U1306,28,[Synthetic] Candidate A: plan to support small traders (jua kali)
+M084,Candidate B,Education,WhatsApp,Short video,Hopeful,Kiswahili,0.649,U0240,4,[Synthetic] Candidate B: plan on school fees and HELB loans
+M085,Candidate A,Corruption,WhatsApp,Short video,Attack,Kiswahili,0.669,U0475,12,[Synthetic] Candidate A: call for open county budgets
+M086,Candidate A,Healthcare,WhatsApp,Short video,Hopeful,English,0.655,U0633,26,[Synthetic] Candidate A: pledge on affordable clinics
+M087,Candidate A,Jobs,Facebook,Text post,Attack,English,0.552,U0232,16,[Synthetic] Candidate A: promise of youth jobs and apprenticeships
+M088,Candidate B,Education,X,Text post,Hopeful,Sheng,0.265,U0580,14,[Synthetic] Candidate B: pledge on school feeding and bursaries
+M089,Candidate B,Jobs,Facebook,Image/Meme,Attack,English,0.765,U0239,27,[Synthetic] Candidate B: promise of youth jobs and apprenticeships
+M090,Candidate A,Jobs,Facebook,Voice note,Hopeful,Kiswahili,0.314,U0085,25,[Synthetic] Candidate A: promise of youth jobs and apprenticeships
+M091,Civic/Neutral,Healthcare,WhatsApp,Short video,Attack,Sheng,0.58,U1667,30,[Synthetic] Civic explainer on healthcare
+M092,Civic/Neutral,Jobs,WhatsApp,Voice note,Attack,English,0.612,U1164,14,[Synthetic] Civic explainer on jobs
+M093,Candidate B,Education,X,Image/Meme,Informational,Kiswahili,0.542,U0453,3,[Synthetic] Candidate B: pledge on school feeding and bursaries
+M094,Candidate A,Jobs,WhatsApp,Short video,Humour,English,0.482,U1696,27,[Synthetic] Candidate A: promise of youth jobs and apprenticeships
+M095,Candidate C,Education,TikTok,Short video,Humour,Sheng,0.512,U0906,3,[Synthetic] Candidate C: plan on school fees and HELB loans
+M096,Civic/Neutral,Healthcare,WhatsApp,Image/Meme,Informational,Sheng,0.202,U1332,9,[Synthetic] Civic explainer on healthcare
+M097,Candidate A,Cost of Living,WhatsApp,Short video,Humour,Kiswahili,0.449,U0969,7,[Synthetic] Candidate A: pledge on cutting taxes on basic goods
+M098,Civic/Neutral,Cost of Living,X,Text post,Hopeful,Kiswahili,0.265,U1084,27,[Synthetic] Civic explainer on cost of living
+M099,Candidate A,Cost of Living,WhatsApp,Text post,Humour,Sheng,0.679,U1552,25,[Synthetic] Candidate A: plan to lower food and fuel prices
+M100,Candidate A,Cost of Living,TikTok,Voice note,Hopeful,English,0.445,U1160,8,[Synthetic] Candidate A: plan to lower food and fuel prices

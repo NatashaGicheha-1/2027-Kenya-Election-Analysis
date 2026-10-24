@@ -1,0 +1,2001 @@
+UserID,County,AgeGroup,PrimaryPlatform,PoliticalInterest,TopIssue,TrustLevel,SharingProbability,CandidatePreference,IsInfluencer,Followers,Following,Exposed
+U0001,Nairobi,60+,Facebook,High,Cost of Living,0.51,0.193,Candidate C,0,4,15,0
+U0002,Kiambu,25-34,Facebook,Medium,Cost of Living,0.513,0.35,Candidate A,0,3,1,0
+U0003,Nairobi,45-59,Facebook,Low,Jobs,0.328,0.304,Undecided,0,5,7,0
+U0004,Nakuru,18-24,WhatsApp,Low,Corruption,0.448,0.333,Candidate B,0,15,10,0
+U0005,Nakuru,25-34,Facebook,Low,Jobs,0.314,0.166,Candidate A,0,4,1,0
+U0006,Machakos,60+,YouTube,High,Corruption,0.918,0.774,Candidate B,0,11,16,0
+U0007,Kiambu,35-44,WhatsApp,Medium,Jobs,0.438,0.23,Candidate B,0,1,4,0
+U0008,Meru,35-44,WhatsApp,Low,Healthcare,0.469,0.338,Candidate C,0,4,6,0
+U0009,Kakamega,35-44,WhatsApp,High,Healthcare,0.598,0.95,Undecided,0,6,7,0
+U0010,Nairobi,45-59,Facebook,Medium,Education,0.326,0.195,Candidate A,0,2,5,0
+U0011,Nairobi,45-59,WhatsApp,High,Healthcare,0.692,0.645,Candidate A,0,3,6,0
+U0012,Kiambu,45-59,X,High,Cost of Living,0.826,0.383,Undecided,0,4,5,0
+U0013,Uasin Gishu,25-34,TikTok,Medium,Corruption,0.489,0.177,Candidate C,0,10,5,0
+U0014,Nairobi,35-44,Facebook,Medium,Jobs,0.576,0.112,Candidate A,0,2,12,0
+U0015,Nyeri,18-24,WhatsApp,Medium,Jobs,0.234,0.693,Candidate B,0,6,7,0
+U0016,Machakos,35-44,WhatsApp,High,Corruption,0.523,0.438,Candidate B,0,17,9,0
+U0017,Machakos,35-44,WhatsApp,Medium,Jobs,0.867,0.289,Candidate B,0,1,2,0
+U0018,Nairobi,35-44,WhatsApp,High,Corruption,0.478,0.894,Candidate A,0,7,10,0
+U0019,Kakamega,45-59,Facebook,High,Healthcare,0.603,0.263,Candidate A,0,7,6,0
+U0020,Machakos,35-44,WhatsApp,Low,Jobs,0.572,0.201,Candidate B,0,1,4,0
+U0021,Uasin Gishu,25-34,WhatsApp,Low,Healthcare,0.44,0.107,Candidate A,0,4,3,0
+U0022,Nairobi,60+,YouTube,High,Cost of Living,0.79,0.214,Candidate B,0,1,6,0
+U0023,Nairobi,60+,YouTube,High,Healthcare,0.625,0.469,Candidate A,0,1,2,0
+U0024,Nyeri,35-44,WhatsApp,Medium,Cost of Living,0.292,0.17,Candidate C,0,23,8,0
+U0025,Mombasa,60+,WhatsApp,Medium,Cost of Living,0.568,0.39,Candidate A,0,3,8,0
+U0026,Kiambu,35-44,TikTok,Medium,Jobs,0.428,0.289,Undecided,0,1,5,0
+U0027,Nairobi,25-34,TikTok,Low,Corruption,0.492,0.196,Candidate B,0,1,3,0
+U0028,Meru,25-34,X,Low,Jobs,0.635,0.218,Candidate B,0,2,4,0
+U0029,Uasin Gishu,25-34,WhatsApp,Low,Jobs,0.654,0.046,Candidate B,0,1,4,0
+U0030,Nairobi,60+,WhatsApp,Medium,Cost of Living,0.68,0.079,Candidate B,0,10,4,0
+U0031,Machakos,35-44,Facebook,Low,Cost of Living,0.55,0.218,Candidate A,0,3,9,0
+U0032,Nairobi,25-34,Facebook,High,Jobs,0.718,0.195,Undecided,0,1,2,0
+U0033,Machakos,45-59,Facebook,Medium,Corruption,0.33,0.306,Candidate C,0,7,11,0
+U0034,Nairobi,60+,WhatsApp,Medium,Cost of Living,0.558,0.151,Candidate A,0,7,6,0
+U0035,Nyeri,18-24,TikTok,Medium,Healthcare,0.392,0.057,Undecided,0,3,6,0
+U0036,Nairobi,60+,Facebook,Low,Jobs,0.809,0.246,Candidate A,0,1,3,0
+U0037,Kiambu,60+,TikTok,High,Corruption,0.677,0.104,Candidate B,0,8,17,0
+U0038,Meru,60+,TikTok,Low,Cost of Living,0.378,0.315,Candidate B,0,1,3,0
+U0039,Meru,18-24,Facebook,Medium,Cost of Living,0.399,0.109,Candidate A,0,1,6,0
+U0040,Nairobi,35-44,Facebook,Medium,Jobs,0.399,0.15,Candidate A,0,16,6,0
+U0041,Nairobi,18-24,Facebook,Medium,Cost of Living,0.277,0.232,Undecided,0,2,4,0
+U0042,Kiambu,35-44,WhatsApp,High,Cost of Living,0.514,0.141,Candidate A,0,7,7,0
+U0043,Nairobi,45-59,TikTok,Medium,Infrastructure,0.192,0.168,Candidate B,0,5,8,0
+U0044,Machakos,18-24,TikTok,Low,Education,0.724,0.244,Undecided,0,4,3,0
+U0045,Kiambu,45-59,Facebook,Medium,Education,0.792,0.174,Undecided,0,9,4,0
+U0046,Meru,35-44,WhatsApp,High,Healthcare,0.368,0.086,Undecided,0,4,4,0
+U0047,Nyeri,45-59,Facebook,High,Cost of Living,0.697,0.371,Candidate B,0,4,7,0
+U0048,Machakos,18-24,Facebook,Medium,Jobs,0.65,0.256,Undecided,0,6,9,0
+U0049,Kiambu,18-24,WhatsApp,High,Healthcare,0.419,0.348,Candidate C,0,5,5,0
+U0050,Machakos,45-59,Facebook,Low,Education,0.413,0.091,Candidate A,0,4,5,0
+U0051,Kisumu,25-34,WhatsApp,Medium,Education,0.362,0.697,Candidate A,0,0,2,0
+U0052,Nakuru,25-34,Facebook,Low,Jobs,0.515,0.01,Candidate A,0,3,6,0
+U0053,Kakamega,18-24,TikTok,Medium,Jobs,0.403,0.501,Candidate C,0,3,12,0
+U0054,Kiambu,25-34,Facebook,High,Jobs,0.416,0.333,Candidate C,0,6,15,0
+U0055,Meru,45-59,X,Low,Cost of Living,0.439,0.453,Candidate C,0,6,9,0
+U0056,Nairobi,25-34,WhatsApp,Medium,Cost of Living,0.27,0.421,Candidate A,0,8,7,0
+U0057,Machakos,45-59,WhatsApp,Medium,Corruption,0.634,0.437,Undecided,0,6,4,0
+U0058,Uasin Gishu,25-34,WhatsApp,Medium,Cost of Living,0.222,0.138,Undecided,0,5,15,0
+U0059,Machakos,25-34,X,High,Cost of Living,0.705,0.471,Undecided,0,1,5,0
+U0060,Nairobi,60+,Facebook,High,Jobs,0.338,0.631,Candidate A,0,5,7,0
+U0061,Nairobi,45-59,WhatsApp,Low,Jobs,0.414,0.071,Undecided,0,3,7,0
+U0062,Kisumu,45-59,TikTok,Low,Jobs,0.416,0.119,Undecided,0,4,3,0
+U0063,Meru,25-34,WhatsApp,Medium,Cost of Living,0.739,0.502,Candidate B,0,1,4,0
+U0064,Nairobi,35-44,WhatsApp,Low,Corruption,0.505,0.079,Candidate A,0,15,4,0
+U0065,Kisumu,60+,YouTube,Medium,Healthcare,0.382,0.284,Candidate A,0,10,9,0
+U0066,Kakamega,60+,WhatsApp,Medium,Jobs,0.268,0.701,Candidate A,0,8,6,0
+U0067,Nakuru,45-59,WhatsApp,High,Cost of Living,0.632,0.504,Undecided,0,0,5,0
+U0068,Mombasa,35-44,WhatsApp,Medium,Education,0.434,0.502,Candidate B,0,2,7,0
+U0069,Kakamega,25-34,TikTok,Medium,Education,0.321,0.391,Undecided,0,2,5,0
+U0070,Machakos,45-59,Facebook,High,Healthcare,0.307,0.084,Candidate C,0,0,2,0
+U0071,Kiambu,18-24,Facebook,Medium,Cost of Living,0.651,0.401,Undecided,0,4,7,0
+U0072,Nairobi,60+,Facebook,High,Cost of Living,0.642,0.354,Candidate A,0,3,8,0
+U0073,Nairobi,18-24,WhatsApp,Medium,Cost of Living,0.395,0.184,Candidate A,0,2,5,0
+U0074,Meru,18-24,Facebook,Low,Jobs,0.752,0.289,Candidate B,0,0,5,0
+U0075,Nakuru,35-44,TikTok,Low,Healthcare,0.407,0.142,Candidate C,0,3,3,0
+U0076,Machakos,45-59,WhatsApp,High,Cost of Living,0.343,0.243,Candidate B,0,4,6,0
+U0077,Kakamega,25-34,Facebook,Medium,Cost of Living,0.467,0.38,Candidate C,0,3,5,0
+U0078,Meru,45-59,Facebook,Medium,Jobs,0.711,0.058,Candidate B,0,1,3,0
+U0079,Kiambu,45-59,Facebook,Medium,Jobs,0.498,0.243,Undecided,0,0,4,0
+U0080,Nairobi,35-44,TikTok,Low,Education,0.525,0.204,Candidate A,0,7,8,0
+U0081,Meru,60+,X,High,Cost of Living,0.545,0.449,Candidate B,0,4,9,0
+U0082,Meru,25-34,X,High,Cost of Living,0.612,0.95,Candidate A,0,2,5,0
+U0083,Nairobi,60+,WhatsApp,Medium,Healthcare,0.445,0.196,Candidate A,0,3,3,0
+U0084,Kakamega,35-44,YouTube,Medium,Healthcare,0.466,0.398,Undecided,0,2,5,0
+U0085,Kiambu,18-24,Facebook,Low,Cost of Living,0.567,0.014,Undecided,0,14,16,0
+U0086,Nyeri,18-24,Facebook,Medium,Jobs,0.566,0.194,Candidate C,0,3,6,0
+U0087,Nairobi,25-34,TikTok,Medium,Cost of Living,0.561,0.415,Candidate A,0,2,5,0
+U0088,Kakamega,35-44,Facebook,Medium,Cost of Living,0.269,0.342,Candidate B,0,4,5,0
+U0089,Kiambu,45-59,WhatsApp,Medium,Education,0.767,0.113,Undecided,0,1,5,0
+U0090,Kakamega,45-59,Facebook,High,Corruption,0.394,0.37,Undecided,0,4,5,0
+U0091,Machakos,25-34,Facebook,High,Jobs,0.537,0.721,Candidate C,0,1,6,0
+U0092,Mombasa,25-34,Facebook,Low,Education,0.17,0.129,Candidate A,0,2,5,0
+U0093,Nairobi,45-59,Facebook,High,Jobs,0.631,0.72,Candidate A,0,4,4,0
+U0094,Kakamega,45-59,WhatsApp,High,Infrastructure,0.806,0.267,Candidate A,0,7,6,0
+U0095,Machakos,45-59,WhatsApp,High,Jobs,0.432,0.416,Candidate A,0,73,28,0
+U0096,Meru,18-24,WhatsApp,Medium,Jobs,0.578,0.167,Candidate B,0,1,8,0
+U0097,Nyeri,35-44,Facebook,Low,Cost of Living,0.429,0.373,Undecided,0,2,4,0
+U0098,Kakamega,35-44,TikTok,Low,Education,0.638,0.359,Candidate C,0,5,6,0
+U0099,Meru,25-34,WhatsApp,Medium,Cost of Living,0.436,0.873,Candidate C,0,3,12,0
+U0100,Nairobi,35-44,WhatsApp,Medium,Healthcare,0.495,0.045,Candidate A,0,4,4,0
+U0101,Nairobi,25-34,X,Medium,Corruption,0.458,0.138,Undecided,0,6,7,0
+U0102,Nairobi,35-44,TikTok,Medium,Corruption,0.524,0.126,Undecided,0,8,14,0
+U0103,Kiambu,25-34,WhatsApp,Low,Jobs,0.459,0.241,Undecided,0,6,1,0
+U0104,Nairobi,35-44,Facebook,High,Jobs,0.68,0.457,Candidate A,0,12,10,0
+U0105,Kakamega,18-24,TikTok,Medium,Cost of Living,0.577,0.489,Undecided,0,9,6,0
+U0106,Nairobi,35-44,YouTube,Low,Cost of Living,0.515,0.162,Undecided,0,0,2,0
+U0107,Kakamega,25-34,TikTok,Low,Cost of Living,0.568,0.215,Undecided,0,7,4,0
+U0108,Nairobi,18-24,Facebook,Low,Cost of Living,0.512,0.114,Undecided,0,1,4,0
+U0109,Kisumu,25-34,WhatsApp,High,Cost of Living,0.534,0.799,Candidate C,0,0,5,0
+U0110,Nairobi,35-44,Facebook,Low,Cost of Living,0.416,0.101,Candidate A,0,2,1,0
+U0111,Nairobi,25-34,WhatsApp,Medium,Education,0.486,0.341,Candidate A,0,6,6,0
+U0112,Kakamega,25-34,X,Low,Corruption,0.43,0.08,Undecided,0,59,20,0
+U0113,Nairobi,45-59,X,Low,Cost of Living,0.227,0.164,Candidate A,0,6,3,0
+U0114,Kakamega,45-59,YouTube,High,Jobs,0.425,0.183,Undecided,0,16,5,0
+U0115,Nairobi,35-44,Facebook,Medium,Infrastructure,0.344,0.326,Candidate A,0,4,5,0
+U0116,Mombasa,25-34,WhatsApp,Medium,Cost of Living,0.389,0.453,Candidate A,0,3,12,0
+U0117,Mombasa,25-34,Facebook,Medium,Corruption,0.586,0.275,Candidate B,0,6,6,0
+U0118,Nakuru,25-34,WhatsApp,Low,Cost of Living,0.329,0.162,Candidate B,0,5,3,0
+U0119,Nairobi,60+,TikTok,Medium,Cost of Living,0.437,0.331,Undecided,0,4,1,0
+U0120,Kiambu,25-34,TikTok,Medium,Corruption,0.493,0.488,Undecided,0,3,2,0
+U0121,Mombasa,18-24,YouTube,Medium,Education,0.377,0.19,Candidate B,0,5,5,0
+U0122,Nairobi,60+,WhatsApp,High,Jobs,0.614,0.668,Candidate B,0,6,6,0
+U0123,Nyeri,18-24,Facebook,Medium,Jobs,0.578,0.321,Undecided,0,10,7,0
+U0124,Kakamega,25-34,WhatsApp,High,Jobs,0.543,0.672,Candidate A,0,3,5,0
+U0125,Uasin Gishu,25-34,WhatsApp,Medium,Jobs,0.246,0.423,Candidate A,0,2,4,0
+U0126,Nairobi,25-34,TikTok,Medium,Healthcare,0.415,0.383,Undecided,0,18,11,0
+U0127,Nairobi,25-34,TikTok,Medium,Education,0.482,0.325,Candidate B,0,4,4,0
+U0128,Nairobi,35-44,WhatsApp,Medium,Healthcare,0.611,0.46,Candidate A,0,0,2,0
+U0129,Nairobi,25-34,WhatsApp,High,Infrastructure,0.508,0.505,Candidate A,0,7,5,0
+U0130,Nairobi,45-59,TikTok,Low,Cost of Living,0.691,0.061,Candidate A,0,1,1,0
+U0131,Nyeri,25-34,Facebook,High,Jobs,0.577,0.283,Candidate A,0,11,17,0
+U0132,Uasin Gishu,35-44,WhatsApp,High,Healthcare,0.542,0.95,Candidate A,0,1,10,0
+U0133,Nakuru,35-44,Facebook,Low,Jobs,0.627,0.182,Candidate B,0,6,10,0
+U0134,Meru,35-44,Facebook,High,Cost of Living,0.424,0.035,Candidate A,0,16,10,0
+U0135,Nairobi,35-44,Facebook,Medium,Corruption,0.337,0.168,Candidate A,0,13,10,0
+U0136,Uasin Gishu,18-24,Facebook,Medium,Corruption,0.338,0.259,Candidate B,0,2,2,0
+U0137,Nairobi,18-24,Facebook,High,Cost of Living,0.538,0.168,Candidate A,0,8,10,0
+U0138,Machakos,18-24,TikTok,Low,Cost of Living,0.096,0.275,Candidate C,0,3,9,0
+U0139,Nakuru,35-44,WhatsApp,High,Healthcare,0.353,0.754,Undecided,0,5,3,0
+U0140,Nairobi,45-59,Facebook,Low,Cost of Living,0.523,0.103,Candidate A,0,11,8,0
+U0141,Nyeri,35-44,Facebook,High,Cost of Living,0.418,0.393,Candidate B,0,7,8,0
+U0142,Kiambu,25-34,Facebook,High,Jobs,0.758,0.65,Undecided,0,4,8,0
+U0143,Nairobi,25-34,Facebook,Medium,Cost of Living,0.55,0.569,Undecided,0,16,6,0
+U0144,Meru,35-44,Facebook,Low,Jobs,0.442,0.153,Candidate A,0,2,5,0
+U0145,Nairobi,18-24,Facebook,Medium,Cost of Living,0.591,0.343,Candidate A,0,4,7,0
+U0146,Kiambu,35-44,WhatsApp,Medium,Infrastructure,0.781,0.632,Candidate C,0,5,6,0
+U0147,Nyeri,60+,WhatsApp,High,Education,0.388,0.62,Undecided,0,4,8,0
+U0148,Kisumu,45-59,WhatsApp,Medium,Education,0.453,0.41,Undecided,0,3,2,0
+U0149,Nairobi,45-59,Facebook,Medium,Jobs,0.617,0.086,Undecided,0,2,5,0
+U0150,Kakamega,35-44,WhatsApp,Medium,Jobs,0.837,0.165,Candidate B,0,9,3,0
+U0151,Mombasa,60+,WhatsApp,Low,Corruption,0.371,0.352,Undecided,0,7,8,0
+U0152,Nyeri,35-44,Facebook,High,Cost of Living,0.824,0.852,Candidate A,0,1,1,0
+U0153,Nairobi,35-44,WhatsApp,Medium,Corruption,0.613,0.12,Candidate A,0,7,16,0
+U0154,Kakamega,35-44,Facebook,Medium,Healthcare,0.305,0.22,Undecided,0,19,13,0
+U0155,Nakuru,35-44,X,Low,Cost of Living,0.219,0.125,Undecided,0,9,9,0
+U0156,Meru,18-24,TikTok,Low,Infrastructure,0.303,0.067,Candidate A,0,1,3,0
+U0157,Nairobi,60+,Facebook,High,Jobs,0.63,0.673,Undecided,0,1,1,0
+U0158,Nairobi,35-44,Facebook,Medium,Jobs,0.589,0.253,Candidate A,0,4,5,0
+U0159,Nairobi,45-59,WhatsApp,High,Education,0.591,0.545,Candidate A,0,3,7,0
+U0160,Meru,35-44,Facebook,Medium,Cost of Living,0.853,0.263,Candidate B,0,4,6,0
+U0161,Nakuru,18-24,TikTok,Medium,Cost of Living,0.346,0.6,Candidate A,0,0,1,0
+U0162,Mombasa,60+,WhatsApp,High,Corruption,0.489,0.321,Undecided,0,24,14,0
+U0163,Mombasa,35-44,WhatsApp,Medium,Jobs,0.413,0.328,Candidate C,0,10,6,0
+U0164,Mombasa,60+,X,Low,Jobs,0.378,0.148,Candidate A,0,3,7,0
+U0165,Kiambu,25-34,Facebook,Medium,Cost of Living,0.649,0.462,Undecided,0,6,8,0
+U0166,Nairobi,60+,TikTok,Low,Healthcare,0.396,0.191,Candidate B,0,3,3,0
+U0167,Uasin Gishu,60+,WhatsApp,Medium,Cost of Living,0.539,0.07,Candidate B,0,2,3,0
+U0168,Nakuru,18-24,Facebook,Low,Healthcare,0.631,0.23,Candidate A,0,5,2,0
+U0169,Uasin Gishu,25-34,WhatsApp,Medium,Jobs,0.384,0.467,Candidate B,0,3,6,0
+U0170,Nakuru,35-44,Facebook,Medium,Jobs,0.344,0.274,Candidate B,0,7,10,0
+U0171,Nakuru,18-24,WhatsApp,Medium,Jobs,0.402,0.084,Candidate B,0,6,6,0
+U0172,Kisumu,60+,TikTok,High,Cost of Living,0.519,0.06,Candidate C,0,9,5,0
+U0173,Mombasa,18-24,Facebook,Medium,Cost of Living,0.444,0.191,Undecided,0,1,1,0
+U0174,Nairobi,35-44,WhatsApp,Medium,Jobs,0.867,0.042,Candidate A,0,9,12,0
+U0175,Nairobi,45-59,WhatsApp,Medium,Cost of Living,0.634,0.309,Candidate A,0,2,8,0
+U0176,Nakuru,18-24,TikTok,Medium,Education,0.803,0.291,Candidate B,0,1,3,0
+U0177,Nakuru,45-59,Facebook,High,Healthcare,0.595,0.098,Undecided,0,23,7,0
+U0178,Nairobi,25-34,WhatsApp,Medium,Cost of Living,0.848,0.436,Candidate B,0,0,2,0
+U0179,Nakuru,35-44,Facebook,Low,Healthcare,0.765,0.095,Candidate C,0,0,3,0
+U0180,Mombasa,18-24,TikTok,Low,Cost of Living,0.536,0.141,Candidate C,0,6,11,0
+U0181,Nyeri,25-34,Facebook,Medium,Healthcare,0.51,0.262,Undecided,0,3,6,0
+U0182,Meru,45-59,WhatsApp,High,Healthcare,0.722,0.37,Candidate B,0,3,5,0
+U0183,Nakuru,18-24,WhatsApp,Medium,Cost of Living,0.667,0.731,Candidate B,0,2,2,0
+U0184,Nakuru,45-59,Facebook,Medium,Cost of Living,0.316,0.07,Candidate B,0,20,16,0
+U0185,Nairobi,45-59,TikTok,Medium,Healthcare,0.477,0.351,Candidate B,0,6,8,0
+U0186,Kisumu,18-24,YouTube,Medium,Cost of Living,0.561,0.298,Candidate C,0,5,5,0
+U0187,Nairobi,35-44,TikTok,Medium,Cost of Living,0.247,0.414,Candidate A,0,14,5,0
+U0188,Machakos,25-34,Facebook,Medium,Cost of Living,0.641,0.381,Undecided,0,10,10,0
+U0189,Kiambu,45-59,YouTube,High,Jobs,0.401,0.22,Undecided,0,5,10,0
+U0190,Uasin Gishu,45-59,WhatsApp,Medium,Healthcare,0.295,0.243,Candidate B,0,5,8,0
+U0191,Uasin Gishu,25-34,TikTok,High,Healthcare,0.395,0.327,Candidate B,0,0,4,0
+U0192,Kisumu,35-44,TikTok,Low,Cost of Living,0.641,0.148,Undecided,0,5,4,0
+U0193,Kiambu,45-59,WhatsApp,High,Corruption,0.323,0.417,Candidate B,0,8,7,0
+U0194,Nairobi,18-24,Facebook,Medium,Jobs,0.542,0.253,Candidate B,0,7,7,0
+U0195,Meru,25-34,TikTok,High,Cost of Living,0.363,0.557,Candidate C,0,5,2,0
+U0196,Mombasa,18-24,WhatsApp,Low,Jobs,0.635,0.263,Candidate B,0,1,2,0
+U0197,Nairobi,18-24,Facebook,Low,Cost of Living,0.426,0.168,Undecided,0,0,1,0
+U0198,Nakuru,25-34,Facebook,Low,Corruption,0.563,0.086,Candidate B,0,1,6,0
+U0199,Meru,25-34,TikTok,Medium,Jobs,0.352,0.284,Candidate C,0,13,12,0
+U0200,Nairobi,18-24,WhatsApp,Low,Cost of Living,0.503,0.017,Undecided,0,2,2,0
+U0201,Mombasa,35-44,WhatsApp,Medium,Cost of Living,0.548,0.727,Candidate A,0,1,4,0
+U0202,Nairobi,25-34,TikTok,Medium,Cost of Living,0.436,0.362,Undecided,0,4,11,0
+U0203,Meru,45-59,TikTok,Medium,Healthcare,0.362,0.2,Candidate A,0,0,3,0
+U0204,Nairobi,35-44,TikTok,Medium,Cost of Living,0.746,0.025,Candidate B,0,19,6,0
+U0205,Kisumu,35-44,TikTok,Medium,Cost of Living,0.247,0.515,Candidate B,0,3,3,0
+U0206,Kiambu,60+,Facebook,High,Infrastructure,0.472,0.108,Undecided,0,2,3,0
+U0207,Kiambu,35-44,TikTok,Medium,Healthcare,0.438,0.34,Undecided,0,2,2,0
+U0208,Nakuru,45-59,TikTok,High,Education,0.47,0.721,Candidate B,0,5,7,0
+U0209,Machakos,18-24,WhatsApp,Low,Cost of Living,0.615,0.149,Candidate C,0,7,7,0
+U0210,Nakuru,25-34,WhatsApp,Low,Cost of Living,0.682,0.092,Candidate C,0,2,7,0
+U0211,Nyeri,60+,TikTok,Low,Healthcare,0.628,0.065,Candidate B,0,6,6,0
+U0212,Nairobi,35-44,Facebook,Low,Corruption,0.518,0.163,Candidate A,0,3,5,0
+U0213,Machakos,35-44,TikTok,Medium,Jobs,0.586,0.443,Candidate A,0,17,9,0
+U0214,Meru,18-24,X,High,Jobs,0.394,0.732,Candidate A,0,6,8,0
+U0215,Nairobi,25-34,WhatsApp,Low,Jobs,0.361,0.071,Undecided,0,6,5,0
+U0216,Mombasa,18-24,Facebook,Low,Cost of Living,0.332,0.151,Undecided,0,10,7,0
+U0217,Machakos,35-44,TikTok,Medium,Jobs,0.734,0.393,Undecided,0,7,3,0
+U0218,Kiambu,45-59,Facebook,Low,Healthcare,0.436,0.174,Candidate B,0,3,8,0
+U0219,Kisumu,60+,Facebook,Medium,Jobs,0.292,0.094,Candidate B,0,6,7,0
+U0220,Mombasa,35-44,WhatsApp,High,Jobs,0.33,0.492,Candidate B,0,2,5,0
+U0221,Meru,25-34,Facebook,High,Jobs,0.731,0.537,Candidate A,0,7,6,0
+U0222,Mombasa,45-59,Facebook,High,Cost of Living,0.516,0.209,Candidate A,0,2,9,0
+U0223,Kiambu,45-59,WhatsApp,Medium,Corruption,0.727,0.451,Candidate B,0,9,9,0
+U0224,Kakamega,25-34,Facebook,Low,Cost of Living,0.323,0.316,Undecided,0,2,7,0
+U0225,Nairobi,60+,WhatsApp,Medium,Cost of Living,0.358,0.386,Candidate A,0,11,3,0
+U0226,Kiambu,60+,Facebook,Low,Corruption,0.686,0.066,Undecided,0,9,2,0
+U0227,Nairobi,45-59,Facebook,Low,Corruption,0.548,0.125,Candidate A,0,1,4,0
+U0228,Meru,45-59,X,Medium,Jobs,0.699,0.624,Candidate A,0,1,2,0
+U0229,Nakuru,18-24,Facebook,High,Cost of Living,0.274,0.868,Candidate C,0,0,1,0
+U0230,Uasin Gishu,25-34,TikTok,Low,Healthcare,0.248,0.336,Candidate B,1,6,3,0
+U0231,Nyeri,25-34,Facebook,High,Cost of Living,0.669,0.789,Candidate C,0,5,3,0
+U0232,Uasin Gishu,35-44,WhatsApp,Low,Healthcare,0.389,0.425,Undecided,0,10,13,0
+U0233,Nairobi,60+,Facebook,High,Cost of Living,0.554,0.795,Candidate A,0,0,3,0
+U0234,Kiambu,45-59,WhatsApp,Medium,Infrastructure,0.65,0.167,Undecided,0,12,6,0
+U0235,Meru,25-34,TikTok,Medium,Education,0.44,0.153,Candidate A,0,3,3,0
+U0236,Meru,35-44,WhatsApp,Low,Education,0.406,0.066,Undecided,0,2,3,0
+U0237,Kakamega,35-44,Facebook,High,Cost of Living,0.406,0.183,Candidate B,1,7,8,0
+U0238,Kiambu,25-34,TikTok,High,Education,0.507,0.855,Candidate C,0,4,9,0
+U0239,Kakamega,45-59,Facebook,High,Jobs,0.479,0.058,Candidate B,0,19,9,0
+U0240,Nairobi,25-34,Facebook,Medium,Jobs,0.404,0.339,Candidate A,0,2,3,0
+U0241,Kiambu,45-59,WhatsApp,Low,Jobs,0.49,0.13,Candidate A,0,3,6,0
+U0242,Kakamega,25-34,Facebook,Medium,Cost of Living,0.452,0.172,Undecided,0,2,6,0
+U0243,Kisumu,35-44,WhatsApp,High,Cost of Living,0.459,0.339,Candidate A,0,6,7,0
+U0244,Uasin Gishu,25-34,WhatsApp,Medium,Cost of Living,0.388,0.093,Undecided,0,4,2,0
+U0245,Nairobi,60+,Facebook,Low,Education,0.547,0.088,Candidate A,0,4,6,0
+U0246,Nairobi,60+,WhatsApp,High,Infrastructure,0.379,0.576,Candidate C,0,0,2,0
+U0247,Uasin Gishu,35-44,WhatsApp,Medium,Corruption,0.585,0.422,Candidate B,0,6,19,0
+U0248,Nakuru,25-34,WhatsApp,Medium,Education,0.608,0.388,Undecided,0,6,8,0
+U0249,Nairobi,25-34,YouTube,Low,Education,0.632,0.256,Undecided,0,2,4,0
+U0250,Nairobi,35-44,YouTube,Low,Corruption,0.654,0.098,Candidate A,0,3,2,0
+U0251,Nairobi,45-59,WhatsApp,Low,Healthcare,0.607,0.301,Candidate A,0,82,26,0
+U0252,Kiambu,25-34,TikTok,Medium,Healthcare,0.684,0.167,Undecided,0,4,7,0
+U0253,Machakos,35-44,X,Medium,Cost of Living,0.282,0.524,Candidate A,0,1,7,0
+U0254,Machakos,18-24,TikTok,Medium,Cost of Living,0.138,0.01,Undecided,0,1,10,0
+U0255,Kisumu,18-24,TikTok,Low,Infrastructure,0.48,0.092,Undecided,1,12,6,0
+U0256,Nairobi,45-59,WhatsApp,Medium,Education,0.768,0.175,Undecided,0,2,2,0
+U0257,Kisumu,60+,WhatsApp,High,Cost of Living,0.619,0.535,Candidate B,0,3,9,0
+U0258,Nairobi,45-59,WhatsApp,Medium,Cost of Living,0.498,0.251,Candidate A,0,5,2,0
+U0259,Nairobi,45-59,WhatsApp,Low,Cost of Living,0.511,0.162,Candidate A,0,6,6,0
+U0260,Nairobi,35-44,Facebook,Medium,Jobs,0.378,0.358,Candidate B,0,1,6,0
+U0261,Uasin Gishu,25-34,TikTok,High,Corruption,0.504,0.683,Undecided,0,6,4,0
+U0262,Kakamega,18-24,X,Low,Healthcare,0.404,0.054,Candidate A,0,13,9,0
+U0263,Nakuru,45-59,Facebook,Medium,Jobs,0.466,0.368,Undecided,1,6,13,0
+U0264,Meru,45-59,TikTok,Medium,Education,0.346,0.302,Candidate B,0,15,6,0
+U0265,Kisumu,25-34,WhatsApp,Low,Healthcare,0.488,0.356,Candidate B,0,3,5,0
+U0266,Kakamega,35-44,WhatsApp,Medium,Infrastructure,0.515,0.43,Undecided,0,32,14,0
+U0267,Nairobi,25-34,WhatsApp,Low,Cost of Living,0.414,0.408,Candidate B,0,5,10,0
+U0268,Kakamega,25-34,Facebook,High,Jobs,0.485,0.365,Undecided,0,6,6,0
+U0269,Nyeri,45-59,TikTok,Low,Cost of Living,0.5,0.227,Undecided,0,3,15,0
+U0270,Machakos,60+,TikTok,High,Infrastructure,0.5,0.131,Candidate B,0,0,2,0
+U0271,Uasin Gishu,18-24,Facebook,Low,Cost of Living,0.613,0.348,Candidate B,0,28,7,0
+U0272,Meru,35-44,Facebook,High,Corruption,0.583,0.585,Candidate B,0,1,1,0
+U0273,Kiambu,45-59,Facebook,Medium,Cost of Living,0.714,0.157,Undecided,0,4,8,0
+U0274,Nairobi,45-59,Facebook,Medium,Corruption,0.575,0.175,Candidate B,0,3,4,0
+U0275,Kisumu,18-24,TikTok,Low,Healthcare,0.231,0.199,Candidate C,0,4,5,0
+U0276,Nyeri,25-34,TikTok,Low,Cost of Living,0.593,0.084,Undecided,0,5,4,0
+U0277,Kiambu,35-44,WhatsApp,Low,Cost of Living,0.669,0.199,Undecided,0,11,8,0
+U0278,Nairobi,18-24,X,Low,Healthcare,0.354,0.098,Candidate A,1,12,6,0
+U0279,Nakuru,25-34,TikTok,Low,Cost of Living,0.645,0.118,Candidate A,0,1,3,0
+U0280,Nairobi,45-59,WhatsApp,Medium,Education,0.656,0.223,Candidate A,0,0,3,0
+U0281,Kiambu,25-34,WhatsApp,Low,Jobs,0.357,0.192,Undecided,0,19,14,0
+U0282,Kakamega,18-24,X,Low,Cost of Living,0.343,0.227,Candidate C,0,13,10,0
+U0283,Kiambu,18-24,WhatsApp,Medium,Cost of Living,0.429,0.153,Candidate A,0,4,3,0
+U0284,Meru,45-59,Facebook,Medium,Healthcare,0.693,0.279,Candidate C,0,1,2,0
+U0285,Nakuru,45-59,WhatsApp,Medium,Infrastructure,0.508,0.455,Candidate C,0,4,3,0
+U0286,Meru,60+,Facebook,High,Healthcare,0.665,0.525,Candidate B,0,10,7,0
+U0287,Nairobi,35-44,WhatsApp,Medium,Jobs,0.691,0.332,Candidate A,0,23,12,0
+U0288,Kakamega,45-59,Facebook,Medium,Corruption,0.572,0.271,Undecided,0,2,4,0
+U0289,Machakos,35-44,WhatsApp,Low,Cost of Living,0.453,0.038,Candidate A,0,22,12,0
+U0290,Nakuru,25-34,TikTok,Medium,Corruption,0.609,0.05,Candidate B,0,6,6,0
+U0291,Nairobi,25-34,TikTok,High,Education,0.635,0.95,Candidate A,0,0,1,0
+U0292,Meru,60+,Facebook,High,Corruption,0.736,0.56,Candidate C,0,16,9,0
+U0293,Nyeri,35-44,Facebook,Low,Jobs,0.306,0.202,Candidate B,1,24,8,0
+U0294,Nairobi,25-34,Facebook,Medium,Cost of Living,0.523,0.306,Candidate A,0,1,1,0
+U0295,Mombasa,18-24,Facebook,Low,Education,0.646,0.104,Candidate A,0,2,3,0
+U0296,Nyeri,45-59,Facebook,Medium,Education,0.394,0.172,Candidate A,0,0,3,0
+U0297,Nairobi,45-59,TikTok,Medium,Cost of Living,0.532,0.447,Candidate B,0,12,19,0
+U0298,Mombasa,18-24,TikTok,Medium,Jobs,0.399,0.341,Candidate A,0,13,12,0
+U0299,Mombasa,18-24,TikTok,Low,Corruption,0.491,0.297,Candidate B,0,2,8,0
+U0300,Kiambu,18-24,TikTok,Low,Cost of Living,0.142,0.181,Undecided,0,13,9,0
+U0301,Kakamega,35-44,Facebook,Medium,Education,0.407,0.094,Candidate C,0,4,6,0
+U0302,Kakamega,25-34,TikTok,Medium,Cost of Living,0.272,0.425,Undecided,0,3,3,0
+U0303,Kisumu,45-59,TikTok,High,Infrastructure,0.483,0.279,Undecided,0,8,11,0
+U0304,Kakamega,35-44,Facebook,Low,Jobs,0.522,0.095,Candidate A,0,0,3,0
+U0305,Kiambu,35-44,YouTube,Medium,Healthcare,0.243,0.226,Candidate B,0,5,3,0
+U0306,Machakos,35-44,X,Low,Cost of Living,0.627,0.213,Candidate B,0,2,5,0
+U0307,Kisumu,45-59,Facebook,High,Education,0.691,0.244,Undecided,0,0,1,0
+U0308,Kiambu,25-34,Facebook,Low,Healthcare,0.517,0.363,Undecided,0,8,4,0
+U0309,Kiambu,45-59,Facebook,Medium,Infrastructure,0.534,0.556,Candidate A,0,1,2,0
+U0310,Kiambu,35-44,TikTok,Medium,Cost of Living,0.611,0.262,Candidate A,0,1,4,0
+U0311,Nairobi,18-24,TikTok,Medium,Cost of Living,0.421,0.224,Candidate B,0,9,6,0
+U0312,Kakamega,60+,Facebook,High,Corruption,0.74,0.234,Undecided,0,1,3,0
+U0313,Meru,25-34,WhatsApp,Medium,Jobs,0.361,0.489,Candidate A,0,4,5,0
+U0314,Uasin Gishu,18-24,Facebook,Low,Education,0.423,0.29,Candidate B,0,7,3,0
+U0315,Meru,35-44,TikTok,Medium,Jobs,0.686,0.28,Candidate B,0,3,6,0
+U0316,Machakos,18-24,Facebook,High,Cost of Living,0.306,0.394,Candidate A,0,1,1,0
+U0317,Kisumu,45-59,X,Medium,Corruption,0.398,0.262,Undecided,0,53,27,0
+U0318,Nakuru,45-59,Facebook,Medium,Healthcare,0.629,0.056,Undecided,0,2,4,0
+U0319,Mombasa,45-59,Facebook,High,Cost of Living,0.626,0.054,Candidate B,0,3,5,0
+U0320,Nakuru,25-34,Facebook,Medium,Healthcare,0.232,0.352,Undecided,0,5,1,0
+U0321,Nakuru,25-34,WhatsApp,Low,Jobs,0.658,0.132,Candidate C,0,5,5,0
+U0322,Kiambu,18-24,WhatsApp,Medium,Education,0.381,0.461,Undecided,0,18,16,0
+U0323,Meru,60+,WhatsApp,Low,Cost of Living,0.675,0.187,Candidate B,0,4,8,0
+U0324,Machakos,35-44,TikTok,Medium,Corruption,0.448,0.745,Candidate B,0,7,7,0
+U0325,Mombasa,45-59,Facebook,High,Cost of Living,0.587,0.24,Candidate B,0,1,5,0
+U0326,Kisumu,25-34,TikTok,Medium,Cost of Living,0.577,0.229,Undecided,0,2,3,0
+U0327,Mombasa,18-24,Facebook,Medium,Cost of Living,0.579,0.413,Candidate B,0,10,6,0
+U0328,Kisumu,25-34,Facebook,High,Jobs,0.621,0.72,Undecided,0,0,6,0
+U0329,Mombasa,25-34,Facebook,Medium,Jobs,0.558,0.14,Candidate A,0,12,7,0
+U0330,Kiambu,35-44,WhatsApp,Low,Infrastructure,0.438,0.316,Undecided,0,13,8,0
+U0331,Kisumu,18-24,YouTube,Low,Cost of Living,0.365,0.105,Undecided,0,1,5,0
+U0332,Uasin Gishu,35-44,TikTok,Low,Cost of Living,0.24,0.087,Candidate A,0,1,6,0
+U0333,Nakuru,18-24,TikTok,Medium,Jobs,0.662,0.124,Candidate A,0,2,5,0
+U0334,Meru,35-44,WhatsApp,High,Infrastructure,0.597,0.116,Candidate B,0,1,4,0
+U0335,Kisumu,25-34,WhatsApp,Low,Jobs,0.509,0.011,Candidate A,0,3,3,0
+U0336,Nairobi,35-44,Facebook,Medium,Jobs,0.438,0.242,Candidate A,0,1,3,0
+U0337,Kiambu,25-34,WhatsApp,Low,Cost of Living,0.569,0.185,Undecided,0,10,2,0
+U0338,Kisumu,45-59,YouTube,Low,Education,0.647,0.074,Undecided,0,5,4,0
+U0339,Nakuru,25-34,WhatsApp,Medium,Education,0.579,0.107,Candidate A,0,2,4,0
+U0340,Uasin Gishu,18-24,WhatsApp,High,Infrastructure,0.392,0.95,Undecided,0,2,2,0
+U0341,Mombasa,60+,Facebook,Medium,Jobs,0.639,0.261,Undecided,0,0,4,0
+U0342,Meru,25-34,TikTok,Low,Cost of Living,0.51,0.297,Candidate C,0,38,12,0
+U0343,Meru,25-34,TikTok,Low,Jobs,0.345,0.139,Candidate B,0,8,8,0
+U0344,Kiambu,45-59,WhatsApp,High,Corruption,0.403,0.158,Candidate A,0,4,5,0
+U0345,Nairobi,35-44,WhatsApp,Medium,Cost of Living,0.298,0.054,Undecided,0,3,3,0
+U0346,Nairobi,25-34,Facebook,Medium,Jobs,0.353,0.378,Candidate A,0,2,4,0
+U0347,Nairobi,35-44,Facebook,Low,Cost of Living,0.486,0.089,Candidate B,0,18,4,0
+U0348,Nakuru,25-34,Facebook,Low,Cost of Living,0.705,0.308,Candidate C,0,4,5,0
+U0349,Meru,18-24,Facebook,Low,Education,0.46,0.153,Undecided,0,2,5,0
+U0350,Uasin Gishu,45-59,Facebook,High,Cost of Living,0.7,0.459,Candidate B,0,2,8,0
+U0351,Nairobi,25-34,WhatsApp,Medium,Cost of Living,0.414,0.748,Candidate A,0,4,8,0
+U0352,Nairobi,25-34,TikTok,High,Cost of Living,0.231,0.833,Candidate A,0,11,9,0
+U0353,Meru,25-34,Facebook,Low,Healthcare,0.537,0.181,Undecided,0,6,6,0
+U0354,Kisumu,60+,TikTok,Low,Cost of Living,0.527,0.214,Candidate B,0,1,7,0
+U0355,Nakuru,18-24,Facebook,Medium,Cost of Living,0.271,0.653,Candidate A,0,5,5,0
+U0356,Meru,60+,WhatsApp,Low,Jobs,0.668,0.239,Undecided,0,1,1,0
+U0357,Nairobi,25-34,WhatsApp,Medium,Cost of Living,0.482,0.446,Candidate A,0,3,2,0
+U0358,Nyeri,45-59,Facebook,High,Infrastructure,0.795,0.877,Candidate B,0,1,2,0
+U0359,Nairobi,45-59,TikTok,Low,Corruption,0.598,0.2,Undecided,0,7,7,0
+U0360,Mombasa,25-34,YouTube,High,Cost of Living,0.447,0.799,Candidate A,0,1,3,0
+U0361,Uasin Gishu,35-44,WhatsApp,High,Corruption,0.678,0.221,Candidate B,0,2,5,0
+U0362,Mombasa,35-44,Facebook,Low,Cost of Living,0.466,0.301,Candidate B,0,5,10,0
+U0363,Machakos,60+,Facebook,Medium,Jobs,0.429,0.617,Undecided,0,11,3,0
+U0364,Kakamega,18-24,TikTok,Low,Cost of Living,0.45,0.334,Undecided,0,2,3,0
+U0365,Nakuru,35-44,Facebook,High,Jobs,0.519,0.497,Candidate C,0,16,7,0
+U0366,Machakos,25-34,Facebook,Low,Healthcare,0.43,0.01,Undecided,0,6,7,0
+U0367,Nairobi,25-34,TikTok,High,Cost of Living,0.565,0.308,Candidate A,0,14,6,0
+U0368,Nairobi,18-24,TikTok,Medium,Jobs,0.672,0.461,Candidate A,0,2,9,0
+U0369,Kakamega,45-59,X,High,Jobs,0.337,0.296,Undecided,0,3,5,0
+U0370,Kiambu,18-24,WhatsApp,Low,Healthcare,0.319,0.28,Undecided,0,6,8,0
+U0371,Nairobi,25-34,WhatsApp,Medium,Jobs,0.783,0.18,Candidate A,0,8,12,0
+U0372,Kiambu,25-34,Facebook,Low,Cost of Living,0.394,0.22,Candidate C,0,3,3,0
+U0373,Kakamega,60+,TikTok,Low,Cost of Living,0.485,0.306,Candidate A,0,6,6,0
+U0374,Nairobi,45-59,WhatsApp,High,Jobs,0.721,0.95,Candidate A,0,1,4,0
+U0375,Kisumu,45-59,WhatsApp,Low,Cost of Living,0.34,0.241,Undecided,0,4,7,0
+U0376,Nairobi,25-34,WhatsApp,Medium,Cost of Living,0.375,0.396,Candidate A,0,24,8,0
+U0377,Nairobi,45-59,WhatsApp,Medium,Cost of Living,0.521,0.21,Undecided,0,14,18,0
+U0378,Nairobi,45-59,TikTok,Medium,Education,0.597,0.217,Candidate B,0,6,8,0
+U0379,Kisumu,60+,Facebook,Low,Jobs,0.239,0.251,Undecided,0,2,5,0
+U0380,Kisumu,18-24,WhatsApp,Low,Cost of Living,0.471,0.252,Candidate B,0,3,2,0
+U0381,Nakuru,60+,TikTok,High,Education,0.57,0.87,Undecided,0,1,6,0
+U0382,Machakos,18-24,TikTok,Medium,Healthcare,0.618,0.336,Candidate A,0,2,6,0
+U0383,Nairobi,35-44,Facebook,High,Cost of Living,0.466,0.257,Candidate A,0,2,7,0
+U0384,Machakos,25-34,WhatsApp,High,Cost of Living,0.665,0.68,Candidate B,0,18,13,0
+U0385,Nairobi,45-59,Facebook,Low,Education,0.451,0.106,Candidate A,0,3,9,0
+U0386,Nairobi,35-44,TikTok,Low,Healthcare,0.508,0.2,Candidate B,0,1,4,0
+U0387,Nakuru,35-44,WhatsApp,Low,Jobs,0.237,0.158,Undecided,0,1,2,0
+U0388,Kakamega,35-44,TikTok,Medium,Cost of Living,0.527,0.388,Undecided,0,3,2,0
+U0389,Nairobi,60+,YouTube,High,Corruption,0.859,0.335,Candidate A,0,2,3,0
+U0390,Mombasa,35-44,Facebook,Low,Healthcare,0.372,0.289,Candidate B,0,5,6,0
+U0391,Kakamega,18-24,X,Low,Corruption,0.384,0.199,Undecided,0,4,11,0
+U0392,Meru,60+,WhatsApp,Low,Infrastructure,0.241,0.064,Candidate B,0,9,5,0
+U0393,Nakuru,45-59,Facebook,High,Education,0.722,0.293,Candidate A,0,2,3,0
+U0394,Nairobi,25-34,X,Medium,Cost of Living,0.481,0.138,Candidate A,0,11,6,0
+U0395,Kakamega,18-24,WhatsApp,Low,Education,0.323,0.209,Candidate B,0,1,1,0
+U0396,Nairobi,18-24,TikTok,Low,Cost of Living,0.551,0.033,Candidate A,0,3,7,0
+U0397,Machakos,45-59,Facebook,Medium,Jobs,0.583,0.542,Candidate B,0,5,9,0
+U0398,Mombasa,25-34,Facebook,Low,Jobs,0.381,0.09,Candidate A,0,1,6,0
+U0399,Kiambu,35-44,YouTube,Medium,Education,0.515,0.33,Undecided,0,3,3,0
+U0400,Machakos,18-24,Facebook,Medium,Jobs,0.214,0.468,Candidate A,0,3,5,0
+U0401,Kiambu,35-44,Facebook,Medium,Healthcare,0.78,0.314,Undecided,0,1,6,0
+U0402,Kiambu,60+,Facebook,Low,Jobs,0.597,0.115,Undecided,0,5,14,0
+U0403,Nairobi,25-34,TikTok,Medium,Jobs,0.673,0.208,Candidate A,0,3,6,0
+U0404,Kisumu,45-59,Facebook,High,Jobs,0.498,0.215,Undecided,0,3,5,0
+U0405,Nakuru,25-34,Facebook,Medium,Jobs,0.468,0.433,Undecided,0,13,11,0
+U0406,Nakuru,25-34,Facebook,Medium,Healthcare,0.477,0.14,Candidate B,0,3,6,0
+U0407,Nairobi,45-59,TikTok,High,Jobs,0.641,0.572,Candidate B,0,37,17,0
+U0408,Nairobi,35-44,TikTok,High,Healthcare,0.662,0.389,Candidate A,0,5,2,0
+U0409,Kiambu,35-44,WhatsApp,Low,Jobs,0.442,0.102,Undecided,0,14,6,0
+U0410,Meru,25-34,TikTok,Medium,Cost of Living,0.572,0.368,Undecided,0,2,6,0
+U0411,Kiambu,18-24,TikTok,Medium,Cost of Living,0.49,0.499,Undecided,0,3,3,0
+U0412,Uasin Gishu,35-44,TikTok,Low,Healthcare,0.378,0.103,Candidate C,0,3,1,0
+U0413,Uasin Gishu,25-34,WhatsApp,Medium,Cost of Living,0.429,0.613,Undecided,0,9,7,0
+U0414,Nakuru,25-34,YouTube,Medium,Jobs,0.553,0.172,Candidate C,0,19,14,0
+U0415,Nairobi,18-24,Facebook,Medium,Cost of Living,0.423,0.345,Candidate A,0,4,9,0
+U0416,Kiambu,60+,TikTok,Low,Cost of Living,0.676,0.151,Candidate A,0,4,5,0
+U0417,Nakuru,35-44,TikTok,Low,Cost of Living,0.326,0.084,Candidate A,0,7,5,0
+U0418,Kakamega,35-44,Facebook,Low,Cost of Living,0.278,0.275,Undecided,0,11,14,0
+U0419,Mombasa,45-59,WhatsApp,Medium,Jobs,0.53,0.212,Candidate B,0,4,4,0
+U0420,Nairobi,18-24,TikTok,Low,Education,0.747,0.081,Undecided,0,0,4,0
+U0421,Kiambu,45-59,WhatsApp,Medium,Jobs,0.671,0.382,Undecided,0,4,3,0
+U0422,Nairobi,35-44,YouTube,Low,Jobs,0.218,0.114,Undecided,0,3,4,0
+U0423,Kisumu,25-34,WhatsApp,Low,Cost of Living,0.73,0.088,Undecided,0,2,7,0
+U0424,Kiambu,35-44,TikTok,Low,Jobs,0.316,0.162,Candidate B,0,0,5,0
+U0425,Kiambu,45-59,TikTok,Medium,Jobs,0.471,0.212,Undecided,0,3,6,0
+U0426,Nairobi,60+,TikTok,High,Jobs,0.683,0.147,Candidate A,0,12,6,0
+U0427,Meru,25-34,Facebook,Low,Cost of Living,0.255,0.203,Candidate A,0,2,7,0
+U0428,Uasin Gishu,25-34,Facebook,Medium,Corruption,0.583,0.248,Undecided,0,4,12,0
+U0429,Kiambu,60+,WhatsApp,Medium,Corruption,0.452,0.552,Candidate A,0,1,2,0
+U0430,Kiambu,45-59,Facebook,Low,Cost of Living,0.377,0.021,Undecided,0,14,6,0
+U0431,Machakos,25-34,Facebook,Medium,Education,0.653,0.143,Undecided,0,2,11,0
+U0432,Machakos,45-59,Facebook,Medium,Healthcare,0.571,0.616,Candidate B,0,22,8,0
+U0433,Nairobi,35-44,TikTok,Low,Corruption,0.553,0.082,Undecided,0,1,2,0
+U0434,Kiambu,45-59,YouTube,High,Cost of Living,0.487,0.269,Undecided,0,18,7,0
+U0435,Nyeri,25-34,YouTube,Low,Education,0.648,0.076,Undecided,0,1,3,0
+U0436,Nakuru,18-24,TikTok,Medium,Cost of Living,0.472,0.376,Candidate B,0,30,9,0
+U0437,Machakos,25-34,WhatsApp,Low,Jobs,0.503,0.157,Undecided,0,4,5,0
+U0438,Kiambu,18-24,Facebook,Low,Jobs,0.45,0.215,Candidate C,0,6,2,0
+U0439,Uasin Gishu,35-44,WhatsApp,Medium,Corruption,0.29,0.207,Candidate A,0,3,6,0
+U0440,Kiambu,25-34,X,Low,Cost of Living,0.599,0.12,Undecided,0,2,3,0
+U0441,Machakos,60+,WhatsApp,Medium,Cost of Living,0.394,0.317,Candidate A,0,0,3,0
+U0442,Nairobi,45-59,Facebook,Medium,Education,0.745,0.212,Candidate A,0,4,8,0
+U0443,Nairobi,25-34,WhatsApp,High,Cost of Living,0.495,0.781,Candidate A,0,15,10,0
+U0444,Meru,25-34,Facebook,High,Cost of Living,0.797,0.593,Candidate B,0,3,3,0
+U0445,Nakuru,35-44,WhatsApp,Low,Jobs,0.517,0.064,Candidate B,0,12,9,0
+U0446,Uasin Gishu,45-59,TikTok,High,Cost of Living,0.619,0.364,Candidate B,0,2,2,0
+U0447,Machakos,60+,TikTok,High,Jobs,0.399,0.227,Candidate A,0,0,2,0
+U0448,Kiambu,25-34,Facebook,Medium,Cost of Living,0.58,0.61,Candidate B,0,12,5,0
+U0449,Meru,35-44,X,Medium,Jobs,0.658,0.344,Candidate B,0,2,2,0
+U0450,Nairobi,25-34,WhatsApp,Low,Education,0.572,0.297,Candidate A,0,0,9,0
+U0451,Nairobi,18-24,Facebook,Medium,Healthcare,0.611,0.333,Candidate A,0,2,4,0
+U0452,Kiambu,35-44,YouTube,Low,Education,0.445,0.089,Undecided,0,5,3,0
+U0453,Nairobi,25-34,TikTok,Medium,Cost of Living,0.659,0.243,Candidate B,0,20,10,0
+U0454,Kiambu,25-34,X,Medium,Education,0.455,0.091,Candidate C,0,4,7,0
+U0455,Nyeri,25-34,Facebook,High,Jobs,0.652,0.399,Undecided,0,3,2,0
+U0456,Nairobi,35-44,Facebook,Low,Healthcare,0.418,0.01,Candidate B,0,0,2,0
+U0457,Nairobi,45-59,TikTok,High,Corruption,0.441,0.201,Candidate B,0,5,14,0
+U0458,Nairobi,45-59,X,Medium,Corruption,0.753,0.166,Candidate A,0,2,3,0
+U0459,Kiambu,25-34,TikTok,High,Healthcare,0.509,0.551,Candidate C,0,5,14,0
+U0460,Nairobi,25-34,WhatsApp,High,Cost of Living,0.529,0.572,Candidate A,0,16,8,0
+U0461,Nairobi,45-59,TikTok,High,Jobs,0.367,0.71,Candidate B,0,8,13,0
+U0462,Kiambu,35-44,TikTok,High,Jobs,0.525,0.646,Undecided,0,1,1,0
+U0463,Nairobi,35-44,TikTok,High,Cost of Living,0.485,0.189,Candidate A,0,2,8,0
+U0464,Nairobi,60+,WhatsApp,High,Education,0.709,0.284,Candidate A,0,10,8,0
+U0465,Machakos,45-59,Facebook,High,Cost of Living,0.565,0.26,Undecided,0,1,5,0
+U0466,Nairobi,35-44,Facebook,Low,Jobs,0.56,0.256,Undecided,0,11,6,0
+U0467,Mombasa,18-24,X,Medium,Cost of Living,0.567,0.225,Candidate A,0,6,8,0
+U0468,Kiambu,45-59,Facebook,Low,Jobs,0.322,0.073,Candidate A,0,4,6,0
+U0469,Nakuru,45-59,X,Medium,Infrastructure,0.529,0.398,Candidate B,0,4,14,0
+U0470,Uasin Gishu,18-24,TikTok,Medium,Cost of Living,0.492,0.271,Candidate B,0,2,3,0
+U0471,Uasin Gishu,18-24,Facebook,Medium,Jobs,0.428,0.066,Candidate C,0,7,7,0
+U0472,Nakuru,35-44,TikTok,High,Cost of Living,0.875,0.23,Undecided,0,1,5,0
+U0473,Nairobi,18-24,X,High,Education,0.581,0.224,Candidate A,0,2,3,0
+U0474,Nakuru,45-59,Facebook,Low,Corruption,0.243,0.081,Undecided,0,10,10,0
+U0475,Nairobi,60+,Facebook,High,Cost of Living,0.495,0.495,Candidate A,0,15,9,0
+U0476,Nairobi,25-34,TikTok,Low,Education,0.403,0.089,Candidate B,0,2,5,0
+U0477,Machakos,25-34,WhatsApp,Low,Cost of Living,0.841,0.227,Undecided,0,4,2,0
+U0478,Kisumu,25-34,Facebook,Medium,Corruption,0.424,0.259,Undecided,0,7,5,0
+U0479,Nairobi,45-59,WhatsApp,Low,Jobs,0.523,0.235,Undecided,0,1,4,0
+U0480,Mombasa,18-24,X,Low,Cost of Living,0.536,0.17,Candidate B,0,10,8,0
+U0481,Kisumu,25-34,WhatsApp,Low,Cost of Living,0.221,0.209,Undecided,0,4,8,0
+U0482,Kakamega,18-24,Facebook,Medium,Cost of Living,0.701,0.279,Undecided,0,1,2,0
+U0483,Nairobi,35-44,TikTok,Low,Education,0.544,0.267,Undecided,0,2,4,0
+U0484,Uasin Gishu,60+,YouTube,High,Cost of Living,0.821,0.132,Candidate C,0,6,5,0
+U0485,Uasin Gishu,18-24,WhatsApp,High,Cost of Living,0.358,0.95,Candidate B,0,1,1,0
+U0486,Nairobi,18-24,TikTok,Medium,Healthcare,0.761,0.141,Candidate A,0,3,4,0
+U0487,Kiambu,18-24,Facebook,Medium,Jobs,0.472,0.427,Candidate C,0,3,8,0
+U0488,Nairobi,45-59,Facebook,Low,Jobs,0.746,0.121,Candidate A,0,4,5,0
+U0489,Kiambu,25-34,TikTok,High,Jobs,0.461,0.517,Candidate A,0,4,6,0
+U0490,Uasin Gishu,35-44,X,Medium,Jobs,0.724,0.114,Candidate B,0,3,3,0
+U0491,Mombasa,25-34,TikTok,Low,Jobs,0.447,0.419,Undecided,0,0,7,0
+U0492,Nakuru,18-24,Facebook,Medium,Cost of Living,0.46,0.626,Candidate B,0,6,5,0
+U0493,Kakamega,60+,Facebook,High,Healthcare,0.652,0.241,Undecided,0,2,6,0
+U0494,Nairobi,45-59,Facebook,Medium,Cost of Living,0.358,0.321,Candidate A,0,2,4,0
+U0495,Nairobi,25-34,Facebook,Medium,Education,0.413,0.028,Undecided,0,7,8,0
+U0496,Mombasa,18-24,Facebook,Medium,Jobs,0.704,0.295,Undecided,0,6,7,0
+U0497,Machakos,18-24,TikTok,Medium,Healthcare,0.48,0.198,Candidate A,0,4,10,0
+U0498,Kiambu,18-24,Facebook,High,Jobs,0.207,0.084,Undecided,0,7,5,0
+U0499,Nairobi,60+,Facebook,High,Jobs,0.712,0.127,Candidate B,0,4,5,0
+U0500,Kisumu,25-34,YouTube,Low,Corruption,0.475,0.044,Undecided,0,11,11,0
+U0501,Kisumu,60+,Facebook,Medium,Cost of Living,0.498,0.254,Undecided,0,1,2,0
+U0502,Machakos,35-44,YouTube,Low,Healthcare,0.388,0.083,Candidate B,0,6,5,0
+U0503,Nairobi,25-34,Facebook,Medium,Cost of Living,0.869,0.401,Candidate B,0,4,2,0
+U0504,Nairobi,35-44,WhatsApp,Low,Corruption,0.401,0.204,Candidate A,0,3,6,0
+U0505,Nairobi,45-59,Facebook,Medium,Education,0.342,0.132,Candidate A,0,2,3,0
+U0506,Nairobi,35-44,Facebook,High,Healthcare,0.528,0.678,Undecided,0,3,4,0
+U0507,Kakamega,18-24,Facebook,Medium,Healthcare,0.355,0.101,Undecided,0,4,4,0
+U0508,Nairobi,18-24,X,Low,Jobs,0.764,0.184,Undecided,0,2,3,0
+U0509,Nakuru,35-44,Facebook,High,Corruption,0.636,0.549,Candidate C,0,15,8,0
+U0510,Nyeri,18-24,Facebook,Low,Healthcare,0.36,0.186,Undecided,0,2,4,0
+U0511,Nakuru,18-24,Facebook,Medium,Education,0.345,0.19,Candidate A,0,4,4,0
+U0512,Nakuru,25-34,Facebook,High,Corruption,0.782,0.376,Candidate B,0,0,2,0
+U0513,Nyeri,45-59,Facebook,High,Jobs,0.736,0.05,Candidate A,0,11,11,0
+U0514,Nairobi,45-59,WhatsApp,Medium,Cost of Living,0.638,0.568,Candidate B,0,2,1,0
+U0515,Nairobi,25-34,Facebook,Medium,Healthcare,0.526,0.247,Candidate B,0,3,4,0
+U0516,Machakos,25-34,X,Medium,Corruption,0.289,0.452,Candidate A,0,5,4,0
+U0517,Kakamega,60+,WhatsApp,Low,Jobs,0.42,0.207,Undecided,0,0,2,0
+U0518,Meru,45-59,TikTok,High,Corruption,0.482,0.408,Candidate B,0,9,15,0
+U0519,Meru,25-34,YouTube,Medium,Jobs,0.718,0.084,Candidate A,0,4,10,0
+U0520,Machakos,25-34,WhatsApp,Low,Jobs,0.369,0.317,Undecided,0,8,2,0
+U0521,Mombasa,60+,WhatsApp,Low,Corruption,0.252,0.139,Undecided,0,1,3,0
+U0522,Kakamega,25-34,X,Low,Cost of Living,0.732,0.233,Candidate A,0,2,12,0
+U0523,Nairobi,18-24,Facebook,Low,Cost of Living,0.271,0.166,Candidate A,0,0,5,0
+U0524,Nairobi,45-59,WhatsApp,Medium,Jobs,0.322,0.617,Candidate B,0,9,9,0
+U0525,Kiambu,45-59,TikTok,Low,Jobs,0.54,0.107,Undecided,0,4,3,0
+U0526,Nairobi,25-34,WhatsApp,Medium,Jobs,0.465,0.178,Candidate A,0,2,7,0
+U0527,Nairobi,35-44,WhatsApp,Low,Cost of Living,0.416,0.311,Candidate B,0,11,11,0
+U0528,Kisumu,60+,TikTok,Low,Cost of Living,0.427,0.285,Candidate C,0,3,18,0
+U0529,Machakos,45-59,WhatsApp,Low,Jobs,0.381,0.04,Candidate B,0,6,3,0
+U0530,Nairobi,25-34,Facebook,Medium,Jobs,0.716,0.503,Candidate A,0,8,3,0
+U0531,Meru,25-34,TikTok,Medium,Jobs,0.399,0.282,Undecided,0,4,9,0
+U0532,Machakos,60+,WhatsApp,Low,Jobs,0.239,0.241,Candidate B,0,3,8,0
+U0533,Mombasa,60+,Facebook,High,Jobs,0.584,0.248,Candidate A,0,0,3,0
+U0534,Mombasa,35-44,X,High,Education,0.677,0.647,Undecided,0,4,2,0
+U0535,Nairobi,45-59,TikTok,Medium,Healthcare,0.293,0.414,Undecided,0,1,3,0
+U0536,Meru,18-24,YouTube,Medium,Education,0.607,0.172,Candidate C,0,1,4,0
+U0537,Nyeri,60+,WhatsApp,Low,Cost of Living,0.486,0.091,Undecided,0,4,9,0
+U0538,Nairobi,25-34,TikTok,Low,Cost of Living,0.547,0.148,Undecided,0,7,7,0
+U0539,Kiambu,25-34,WhatsApp,Medium,Jobs,0.56,0.39,Candidate A,0,16,7,0
+U0540,Kakamega,35-44,TikTok,High,Education,0.484,0.411,Candidate B,0,6,6,0
+U0541,Kisumu,25-34,TikTok,Medium,Jobs,0.728,0.311,Undecided,0,5,3,0
+U0542,Nairobi,25-34,Facebook,Medium,Cost of Living,0.567,0.072,Candidate A,0,4,5,0
+U0543,Kakamega,45-59,TikTok,High,Healthcare,0.859,0.411,Undecided,0,1,1,0
+U0544,Nairobi,18-24,WhatsApp,Low,Healthcare,0.232,0.21,Candidate A,0,2,3,0
+U0545,Nairobi,45-59,TikTok,Low,Jobs,0.402,0.251,Undecided,0,5,9,0
+U0546,Mombasa,18-24,WhatsApp,Low,Jobs,0.653,0.414,Undecided,0,14,6,0
+U0547,Nairobi,25-34,WhatsApp,Medium,Jobs,0.441,0.253,Undecided,0,1,7,0
+U0548,Meru,35-44,WhatsApp,Medium,Cost of Living,0.848,0.077,Candidate C,0,3,4,0
+U0549,Uasin Gishu,60+,TikTok,High,Infrastructure,0.511,0.401,Undecided,0,2,3,0
+U0550,Mombasa,45-59,Facebook,High,Jobs,0.732,0.682,Candidate C,0,4,8,0
+U0551,Nyeri,25-34,Facebook,Medium,Cost of Living,0.524,0.253,Undecided,0,6,6,0
+U0552,Kiambu,25-34,YouTube,Low,Corruption,0.389,0.093,Candidate A,0,1,2,0
+U0553,Machakos,35-44,Facebook,Medium,Education,0.61,0.101,Undecided,0,7,7,0
+U0554,Kiambu,60+,WhatsApp,Low,Healthcare,0.432,0.294,Candidate A,0,10,5,0
+U0555,Mombasa,60+,WhatsApp,High,Jobs,0.391,0.717,Undecided,0,3,5,0
+U0556,Machakos,25-34,TikTok,Low,Cost of Living,0.642,0.513,Candidate A,0,6,4,0
+U0557,Nakuru,25-34,YouTube,High,Jobs,0.724,0.202,Candidate B,0,0,3,0
+U0558,Nakuru,18-24,TikTok,Medium,Corruption,0.373,0.303,Candidate B,0,3,8,0
+U0559,Nairobi,60+,Facebook,Medium,Cost of Living,0.257,0.079,Candidate A,0,22,10,0
+U0560,Meru,18-24,Facebook,Low,Jobs,0.487,0.139,Undecided,0,4,2,0
+U0561,Nairobi,25-34,TikTok,High,Jobs,0.659,0.67,Candidate A,0,1,8,0
+U0562,Nairobi,35-44,TikTok,Medium,Jobs,0.469,0.07,Candidate B,0,7,6,0
+U0563,Nairobi,60+,TikTok,Medium,Jobs,0.424,0.256,Candidate A,0,1,3,0
+U0564,Kisumu,18-24,Facebook,Low,Cost of Living,0.683,0.251,Undecided,0,5,15,0
+U0565,Nairobi,45-59,Facebook,High,Jobs,0.476,0.173,Candidate B,0,1,9,0
+U0566,Nairobi,18-24,TikTok,Medium,Infrastructure,0.401,0.705,Candidate B,0,1,2,0
+U0567,Nakuru,35-44,Facebook,Medium,Cost of Living,0.52,0.363,Undecided,0,6,4,0
+U0568,Kiambu,25-34,Facebook,Medium,Cost of Living,0.622,0.289,Undecided,0,2,5,0
+U0569,Nairobi,18-24,X,Low,Healthcare,0.529,0.104,Candidate A,0,4,12,0
+U0570,Uasin Gishu,35-44,Facebook,Medium,Infrastructure,0.356,0.342,Candidate B,0,0,3,0
+U0571,Nairobi,35-44,X,Medium,Cost of Living,0.314,0.396,Candidate A,0,0,3,0
+U0572,Kiambu,25-34,TikTok,High,Infrastructure,0.566,0.891,Candidate A,0,4,4,0
+U0573,Uasin Gishu,45-59,WhatsApp,High,Corruption,0.462,0.551,Candidate A,0,3,4,0
+U0574,Kiambu,45-59,WhatsApp,High,Jobs,0.533,0.401,Candidate A,0,7,2,0
+U0575,Nairobi,35-44,TikTok,Low,Cost of Living,0.362,0.164,Candidate A,0,5,4,0
+U0576,Nairobi,18-24,Facebook,Low,Cost of Living,0.328,0.257,Candidate A,0,2,3,0
+U0577,Nakuru,25-34,WhatsApp,Low,Jobs,0.263,0.201,Candidate A,0,2,5,0
+U0578,Meru,25-34,WhatsApp,Low,Cost of Living,0.337,0.104,Candidate B,0,2,3,0
+U0579,Nairobi,25-34,Facebook,Medium,Education,0.678,0.289,Candidate A,0,3,3,0
+U0580,Nairobi,35-44,Facebook,Low,Education,0.521,0.302,Candidate A,0,21,18,0
+U0581,Nairobi,18-24,WhatsApp,Medium,Cost of Living,0.441,0.573,Candidate B,0,3,8,0
+U0582,Meru,35-44,YouTube,High,Education,0.785,0.701,Undecided,0,2,6,0
+U0583,Nakuru,18-24,WhatsApp,Medium,Healthcare,0.446,0.355,Undecided,0,1,3,0
+U0584,Mombasa,60+,WhatsApp,High,Cost of Living,0.505,0.272,Candidate A,0,5,8,0
+U0585,Kakamega,25-34,Facebook,Low,Healthcare,0.544,0.322,Undecided,0,2,2,0
+U0586,Kakamega,25-34,WhatsApp,Medium,Cost of Living,0.525,0.374,Undecided,0,7,10,0
+U0587,Uasin Gishu,18-24,WhatsApp,Medium,Jobs,0.629,0.379,Undecided,0,10,10,0
+U0588,Nakuru,25-34,WhatsApp,Medium,Healthcare,0.394,0.094,Undecided,0,2,2,0
+U0589,Kakamega,18-24,TikTok,Medium,Cost of Living,0.558,0.419,Candidate B,0,0,4,0
+U0590,Kakamega,60+,Facebook,High,Jobs,0.55,0.732,Undecided,0,33,7,0
+U0591,Nakuru,25-34,YouTube,Low,Healthcare,0.495,0.137,Undecided,0,6,8,0
+U0592,Nairobi,45-59,TikTok,Low,Cost of Living,0.4,0.11,Candidate A,0,2,8,0
+U0593,Kiambu,45-59,WhatsApp,Medium,Jobs,0.669,0.359,Undecided,0,1,1,0
+U0594,Nakuru,45-59,X,High,Jobs,0.406,0.53,Candidate B,0,2,7,0
+U0595,Kisumu,45-59,Facebook,Medium,Corruption,0.545,0.276,Candidate A,0,6,3,0
+U0596,Kakamega,25-34,Facebook,Medium,Cost of Living,0.377,0.263,Candidate B,0,1,2,0
+U0597,Nairobi,35-44,TikTok,High,Cost of Living,0.535,0.21,Candidate B,0,1,3,0
+U0598,Nakuru,18-24,WhatsApp,Low,Cost of Living,0.623,0.214,Candidate B,0,6,3,0
+U0599,Kiambu,18-24,X,High,Jobs,0.462,0.277,Candidate A,0,3,8,0
+U0600,Nakuru,25-34,Facebook,Medium,Cost of Living,0.674,0.19,Undecided,0,8,6,0
+U0601,Kisumu,45-59,WhatsApp,Medium,Corruption,0.565,0.712,Undecided,0,3,4,0
+U0602,Nyeri,45-59,WhatsApp,Low,Cost of Living,0.581,0.246,Candidate B,0,4,5,0
+U0603,Nairobi,18-24,Facebook,Medium,Jobs,0.426,0.21,Candidate B,0,4,9,0
+U0604,Meru,25-34,WhatsApp,Low,Cost of Living,0.628,0.168,Undecided,1,15,9,0
+U0605,Mombasa,35-44,WhatsApp,High,Jobs,0.528,0.268,Candidate A,0,4,6,0
+U0606,Nakuru,60+,TikTok,Medium,Jobs,0.289,0.196,Undecided,0,5,12,0
+U0607,Kiambu,60+,Facebook,Medium,Jobs,0.331,0.305,Undecided,0,1,4,0
+U0608,Kisumu,35-44,TikTok,High,Cost of Living,0.733,0.125,Candidate B,0,12,12,0
+U0609,Machakos,60+,WhatsApp,Low,Jobs,0.376,0.171,Undecided,0,3,2,0
+U0610,Nakuru,60+,WhatsApp,Medium,Corruption,0.678,0.184,Candidate B,0,5,5,0
+U0611,Nakuru,35-44,TikTok,Low,Education,0.26,0.177,Candidate C,0,5,2,0
+U0612,Meru,25-34,WhatsApp,Low,Infrastructure,0.376,0.115,Undecided,0,6,5,0
+U0613,Uasin Gishu,45-59,WhatsApp,High,Education,0.532,0.95,Candidate A,0,2,5,0
+U0614,Nairobi,18-24,Facebook,Low,Corruption,0.456,0.058,Candidate A,0,7,7,0
+U0615,Nairobi,35-44,WhatsApp,Medium,Healthcare,0.235,0.05,Undecided,0,2,4,0
+U0616,Meru,35-44,Facebook,Medium,Education,0.355,0.039,Candidate A,0,6,5,0
+U0617,Meru,60+,WhatsApp,High,Corruption,0.505,0.118,Candidate A,0,3,2,0
+U0618,Kisumu,18-24,TikTok,Low,Cost of Living,0.797,0.34,Candidate B,0,5,3,0
+U0619,Kiambu,35-44,WhatsApp,High,Cost of Living,0.484,0.513,Candidate A,0,3,3,0
+U0620,Kiambu,60+,WhatsApp,Low,Corruption,0.53,0.067,Candidate A,0,15,13,0
+U0621,Nairobi,25-34,TikTok,Low,Jobs,0.586,0.197,Candidate B,0,4,8,0
+U0622,Nairobi,18-24,TikTok,Medium,Cost of Living,0.783,0.109,Candidate A,0,0,6,0
+U0623,Kiambu,35-44,WhatsApp,Low,Jobs,0.696,0.354,Undecided,0,7,12,0
+U0624,Nyeri,35-44,YouTube,High,Healthcare,0.462,0.261,Candidate C,0,2,2,0
+U0625,Nairobi,35-44,Facebook,Medium,Infrastructure,0.388,0.181,Candidate A,0,5,9,0
+U0626,Nakuru,60+,YouTube,High,Education,0.45,0.109,Candidate B,0,6,13,0
+U0627,Kiambu,25-34,WhatsApp,High,Infrastructure,0.605,0.156,Candidate B,0,1,4,0
+U0628,Meru,35-44,X,Medium,Jobs,0.462,0.01,Candidate A,0,2,6,0
+U0629,Nairobi,25-34,WhatsApp,Medium,Jobs,0.59,0.748,Candidate B,0,4,7,0
+U0630,Nairobi,45-59,TikTok,Medium,Education,0.441,0.181,Candidate A,0,6,1,0
+U0631,Nairobi,18-24,TikTok,Low,Cost of Living,0.471,0.26,Candidate A,0,2,3,0
+U0632,Uasin Gishu,45-59,Facebook,Low,Jobs,0.473,0.085,Candidate B,0,2,6,0
+U0633,Kiambu,35-44,Facebook,Low,Cost of Living,0.49,0.186,Undecided,0,13,8,0
+U0634,Nairobi,35-44,X,Medium,Cost of Living,0.502,0.479,Candidate A,0,4,6,0
+U0635,Kakamega,18-24,Facebook,Low,Corruption,0.589,0.13,Undecided,0,3,7,0
+U0636,Kakamega,60+,TikTok,High,Cost of Living,0.452,0.54,Undecided,0,42,12,0
+U0637,Nairobi,25-34,TikTok,Low,Education,0.39,0.12,Candidate A,0,4,19,0
+U0638,Nairobi,45-59,TikTok,Low,Jobs,0.247,0.118,Candidate B,0,1,4,0
+U0639,Kiambu,60+,Facebook,Medium,Healthcare,0.569,0.485,Candidate B,0,12,14,0
+U0640,Machakos,35-44,TikTok,High,Healthcare,0.494,0.434,Candidate A,1,86,30,0
+U0641,Nairobi,45-59,Facebook,Low,Jobs,0.403,0.218,Candidate A,0,3,5,0
+U0642,Nairobi,35-44,WhatsApp,Medium,Jobs,0.509,0.31,Candidate A,0,6,14,0
+U0643,Nyeri,18-24,TikTok,Low,Cost of Living,0.686,0.03,Candidate B,0,2,6,0
+U0644,Nairobi,45-59,TikTok,Medium,Education,0.57,0.194,Candidate C,0,5,7,0
+U0645,Kisumu,25-34,TikTok,High,Cost of Living,0.438,0.593,Candidate C,0,5,6,0
+U0646,Kakamega,35-44,WhatsApp,Medium,Healthcare,0.46,0.385,Undecided,0,1,5,0
+U0647,Nairobi,35-44,TikTok,Medium,Healthcare,0.389,0.527,Candidate A,0,0,9,0
+U0648,Nairobi,35-44,YouTube,Low,Education,0.209,0.019,Candidate B,0,7,7,0
+U0649,Meru,45-59,TikTok,Low,Education,0.501,0.197,Candidate A,0,1,7,0
+U0650,Mombasa,35-44,TikTok,Medium,Education,0.796,0.151,Undecided,0,0,5,0
+U0651,Mombasa,25-34,Facebook,Medium,Cost of Living,0.713,0.543,Candidate A,0,10,10,0
+U0652,Kisumu,18-24,YouTube,Medium,Jobs,0.536,0.349,Candidate A,0,3,4,0
+U0653,Mombasa,18-24,X,Medium,Corruption,0.19,0.511,Candidate B,0,5,2,0
+U0654,Machakos,25-34,WhatsApp,Low,Infrastructure,0.76,0.07,Candidate B,0,3,6,0
+U0655,Kiambu,60+,WhatsApp,Low,Jobs,0.085,0.278,Candidate A,0,6,6,0
+U0656,Kiambu,35-44,Facebook,High,Cost of Living,0.427,0.419,Candidate A,0,4,3,0
+U0657,Nakuru,35-44,Facebook,Low,Cost of Living,0.243,0.127,Candidate B,0,4,6,0
+U0658,Kakamega,25-34,Facebook,Low,Cost of Living,0.564,0.216,Undecided,0,5,3,0
+U0659,Meru,18-24,Facebook,Low,Cost of Living,0.444,0.124,Candidate A,0,3,4,0
+U0660,Kiambu,35-44,Facebook,Low,Jobs,0.203,0.162,Candidate C,0,1,2,0
+U0661,Nakuru,25-34,Facebook,Medium,Jobs,0.358,0.085,Candidate B,0,5,6,0
+U0662,Kisumu,25-34,TikTok,High,Education,0.321,0.378,Undecided,0,0,5,0
+U0663,Nairobi,45-59,TikTok,Medium,Cost of Living,0.367,0.421,Candidate A,0,5,3,0
+U0664,Machakos,25-34,WhatsApp,Medium,Cost of Living,0.706,0.08,Candidate C,0,5,14,0
+U0665,Meru,25-34,TikTok,Medium,Jobs,0.563,0.644,Candidate A,0,1,2,0
+U0666,Nakuru,60+,TikTok,Medium,Jobs,0.521,0.478,Candidate A,0,12,9,0
+U0667,Kakamega,25-34,YouTube,High,Cost of Living,0.598,0.537,Undecided,0,4,1,0
+U0668,Meru,18-24,TikTok,High,Jobs,0.718,0.684,Undecided,0,2,4,0
+U0669,Nakuru,25-34,Facebook,High,Jobs,0.213,0.401,Candidate B,0,7,4,0
+U0670,Kakamega,45-59,Facebook,High,Cost of Living,0.592,0.832,Candidate C,0,4,2,0
+U0671,Nakuru,25-34,Facebook,Medium,Jobs,0.557,0.31,Undecided,0,12,9,0
+U0672,Machakos,45-59,TikTok,Low,Healthcare,0.506,0.333,Undecided,0,3,5,0
+U0673,Nairobi,35-44,TikTok,Medium,Cost of Living,0.452,0.317,Candidate B,0,0,3,0
+U0674,Mombasa,18-24,WhatsApp,Low,Jobs,0.231,0.235,Undecided,0,1,1,0
+U0675,Kiambu,60+,TikTok,Medium,Jobs,0.482,0.403,Undecided,0,3,6,0
+U0676,Nairobi,45-59,WhatsApp,Medium,Education,0.286,0.506,Candidate A,0,10,6,0
+U0677,Meru,18-24,Facebook,Medium,Cost of Living,0.772,0.219,Candidate B,0,0,9,0
+U0678,Kisumu,45-59,WhatsApp,Medium,Corruption,0.356,0.379,Candidate C,0,3,5,0
+U0679,Uasin Gishu,45-59,YouTube,Low,Corruption,0.144,0.088,Candidate A,0,7,5,0
+U0680,Machakos,18-24,X,Low,Jobs,0.424,0.181,Undecided,1,29,13,0
+U0681,Uasin Gishu,18-24,WhatsApp,Medium,Cost of Living,0.453,0.57,Undecided,0,5,8,0
+U0682,Nakuru,25-34,YouTube,Low,Corruption,0.296,0.08,Undecided,0,5,6,0
+U0683,Kiambu,35-44,WhatsApp,Low,Cost of Living,0.304,0.211,Candidate C,0,0,3,0
+U0684,Nyeri,18-24,X,Medium,Jobs,0.337,0.305,Undecided,0,8,5,0
+U0685,Kiambu,25-34,Facebook,Low,Jobs,0.465,0.126,Undecided,0,6,7,0
+U0686,Meru,35-44,Facebook,Low,Jobs,0.44,0.22,Candidate B,0,7,5,0
+U0687,Kiambu,35-44,Facebook,Low,Jobs,0.419,0.133,Candidate B,0,2,4,0
+U0688,Nairobi,18-24,Facebook,Medium,Corruption,0.692,0.396,Candidate A,0,3,5,0
+U0689,Nakuru,25-34,TikTok,High,Healthcare,0.48,0.728,Candidate B,0,1,9,0
+U0690,Machakos,25-34,Facebook,Low,Jobs,0.644,0.303,Undecided,0,7,4,0
+U0691,Nyeri,60+,YouTube,Medium,Corruption,0.58,0.384,Undecided,0,2,3,0
+U0692,Nairobi,35-44,X,Low,Healthcare,0.632,0.29,Undecided,0,7,6,0
+U0693,Nairobi,45-59,Facebook,High,Education,0.571,0.95,Undecided,0,4,9,0
+U0694,Kiambu,35-44,TikTok,Medium,Jobs,0.531,0.026,Candidate A,0,0,4,0
+U0695,Nairobi,35-44,Facebook,Low,Cost of Living,0.436,0.085,Candidate A,0,15,5,0
+U0696,Nakuru,35-44,WhatsApp,Low,Cost of Living,0.566,0.163,Candidate B,0,4,7,0
+U0697,Nakuru,35-44,Facebook,Low,Jobs,0.514,0.04,Candidate A,0,27,12,0
+U0698,Nakuru,25-34,Facebook,Low,Infrastructure,0.194,0.193,Candidate B,0,18,10,0
+U0699,Nakuru,25-34,Facebook,Low,Cost of Living,0.503,0.059,Candidate B,0,3,8,0
+U0700,Nairobi,45-59,Facebook,Medium,Cost of Living,0.426,0.217,Undecided,0,2,4,0
+U0701,Nakuru,35-44,WhatsApp,Low,Corruption,0.831,0.072,Candidate B,0,1,5,0
+U0702,Kakamega,25-34,TikTok,Low,Cost of Living,0.6,0.12,Undecided,0,4,4,0
+U0703,Kiambu,25-34,Facebook,Low,Cost of Living,0.23,0.26,Candidate B,0,3,4,0
+U0704,Nakuru,25-34,WhatsApp,High,Jobs,0.608,0.143,Undecided,0,17,5,0
+U0705,Nairobi,25-34,Facebook,Low,Cost of Living,0.296,0.104,Undecided,0,1,4,0
+U0706,Kiambu,35-44,Facebook,High,Corruption,0.259,0.292,Candidate A,0,6,4,0
+U0707,Nakuru,25-34,Facebook,High,Education,0.896,0.483,Candidate B,0,1,3,0
+U0708,Kakamega,25-34,TikTok,Low,Cost of Living,0.303,0.054,Undecided,0,4,8,0
+U0709,Kakamega,60+,WhatsApp,Medium,Jobs,0.365,0.381,Candidate B,0,2,2,0
+U0710,Nakuru,18-24,WhatsApp,Low,Infrastructure,0.38,0.029,Candidate B,0,3,6,0
+U0711,Machakos,60+,YouTube,High,Cost of Living,0.424,0.094,Candidate A,0,0,3,0
+U0712,Machakos,25-34,WhatsApp,Low,Corruption,0.52,0.049,Candidate A,0,5,8,0
+U0713,Kakamega,25-34,YouTube,Low,Corruption,0.342,0.012,Undecided,0,11,8,0
+U0714,Mombasa,60+,Facebook,Medium,Corruption,0.557,0.166,Candidate A,0,7,20,0
+U0715,Uasin Gishu,45-59,Facebook,Medium,Education,0.639,0.428,Candidate B,0,6,3,0
+U0716,Uasin Gishu,60+,Facebook,Medium,Infrastructure,0.475,0.181,Candidate B,0,3,8,0
+U0717,Uasin Gishu,45-59,WhatsApp,Medium,Healthcare,0.341,0.392,Candidate A,0,3,4,0
+U0718,Nakuru,25-34,TikTok,Low,Jobs,0.249,0.109,Candidate B,0,2,6,0
+U0719,Machakos,18-24,Facebook,High,Jobs,0.582,0.414,Candidate B,0,6,14,0
+U0720,Meru,25-34,Facebook,Low,Cost of Living,0.594,0.176,Candidate A,0,2,3,0
+U0721,Mombasa,25-34,Facebook,Low,Cost of Living,0.36,0.207,Undecided,0,21,12,0
+U0722,Nairobi,18-24,Facebook,Medium,Jobs,0.399,0.474,Candidate A,0,2,4,0
+U0723,Machakos,60+,TikTok,Medium,Cost of Living,0.772,0.103,Candidate A,0,4,11,0
+U0724,Nairobi,45-59,X,High,Healthcare,0.844,0.284,Candidate B,0,1,1,0
+U0725,Nairobi,35-44,TikTok,Low,Education,0.428,0.172,Candidate A,0,12,8,0
+U0726,Uasin Gishu,45-59,Facebook,Medium,Cost of Living,0.635,0.422,Candidate C,0,1,2,0
+U0727,Kiambu,35-44,X,Medium,Cost of Living,0.408,0.295,Candidate C,0,4,4,0
+U0728,Meru,35-44,YouTube,Medium,Cost of Living,0.751,0.289,Undecided,0,10,11,0
+U0729,Machakos,25-34,WhatsApp,Low,Healthcare,0.431,0.049,Candidate B,0,1,1,0
+U0730,Kisumu,60+,Facebook,Low,Cost of Living,0.427,0.061,Undecided,0,2,3,0
+U0731,Nakuru,45-59,Facebook,High,Jobs,0.59,0.205,Undecided,0,8,12,0
+U0732,Mombasa,18-24,X,Medium,Cost of Living,0.315,0.349,Candidate A,0,4,6,0
+U0733,Nakuru,18-24,Facebook,Low,Cost of Living,0.235,0.046,Undecided,0,3,6,0
+U0734,Nairobi,25-34,TikTok,Medium,Education,0.232,0.292,Candidate A,0,1,5,0
+U0735,Uasin Gishu,25-34,WhatsApp,High,Jobs,0.597,0.194,Candidate C,0,4,6,0
+U0736,Nairobi,35-44,Facebook,Medium,Cost of Living,0.704,0.069,Candidate A,0,19,7,0
+U0737,Uasin Gishu,25-34,WhatsApp,High,Healthcare,0.513,0.45,Candidate B,0,2,8,0
+U0738,Nairobi,25-34,X,Low,Healthcare,0.335,0.355,Candidate A,0,2,8,0
+U0739,Meru,25-34,X,Medium,Cost of Living,0.395,0.273,Candidate C,0,1,3,0
+U0740,Nairobi,35-44,WhatsApp,Medium,Cost of Living,0.497,0.052,Candidate A,0,5,8,0
+U0741,Mombasa,35-44,Facebook,Low,Cost of Living,0.51,0.196,Candidate A,0,5,5,0
+U0742,Nairobi,35-44,WhatsApp,Medium,Infrastructure,0.514,0.752,Undecided,0,3,4,0
+U0743,Uasin Gishu,25-34,TikTok,Low,Jobs,0.543,0.181,Undecided,0,1,4,0
+U0744,Nairobi,18-24,Facebook,Medium,Jobs,0.454,0.43,Candidate A,0,3,4,0
+U0745,Machakos,60+,YouTube,Medium,Cost of Living,0.464,0.207,Candidate B,0,2,2,0
+U0746,Meru,25-34,Facebook,Medium,Cost of Living,0.559,0.269,Candidate C,0,4,12,0
+U0747,Kiambu,25-34,YouTube,Medium,Cost of Living,0.832,0.012,Candidate A,0,9,7,0
+U0748,Machakos,45-59,Facebook,High,Corruption,0.306,0.742,Candidate A,0,2,5,0
+U0749,Nakuru,18-24,Facebook,Low,Cost of Living,0.413,0.052,Candidate B,0,2,3,0
+U0750,Kisumu,25-34,Facebook,High,Cost of Living,0.559,0.495,Candidate B,0,4,5,0
+U0751,Machakos,60+,YouTube,Medium,Jobs,0.181,0.241,Undecided,0,1,5,0
+U0752,Kiambu,18-24,WhatsApp,Medium,Cost of Living,0.663,0.253,Undecided,0,1,4,0
+U0753,Kiambu,18-24,Facebook,Low,Cost of Living,0.268,0.301,Undecided,0,1,1,0
+U0754,Kakamega,18-24,TikTok,Low,Jobs,0.367,0.319,Undecided,1,21,13,0
+U0755,Kisumu,25-34,Facebook,High,Cost of Living,0.593,0.397,Candidate A,0,3,11,0
+U0756,Nairobi,18-24,WhatsApp,Low,Jobs,0.364,0.237,Undecided,0,3,3,0
+U0757,Nakuru,35-44,YouTube,Low,Cost of Living,0.443,0.155,Undecided,0,14,7,0
+U0758,Kakamega,25-34,Facebook,Medium,Jobs,0.625,0.077,Candidate A,0,2,6,0
+U0759,Uasin Gishu,45-59,Facebook,Low,Cost of Living,0.418,0.078,Candidate A,0,3,6,0
+U0760,Kiambu,35-44,WhatsApp,Medium,Cost of Living,0.595,0.1,Candidate A,0,5,8,0
+U0761,Nakuru,45-59,WhatsApp,Medium,Cost of Living,0.634,0.585,Candidate B,0,2,1,0
+U0762,Kakamega,25-34,TikTok,High,Cost of Living,0.41,0.534,Undecided,0,2,5,0
+U0763,Nakuru,25-34,X,Medium,Education,0.62,0.065,Candidate A,0,7,4,0
+U0764,Nakuru,25-34,TikTok,Low,Jobs,0.48,0.056,Candidate B,0,3,2,0
+U0765,Machakos,45-59,Facebook,High,Cost of Living,0.698,0.294,Candidate A,0,3,6,0
+U0766,Kisumu,45-59,Facebook,Medium,Cost of Living,0.672,0.265,Undecided,0,1,5,0
+U0767,Nakuru,25-34,TikTok,Low,Jobs,0.361,0.428,Undecided,0,4,8,0
+U0768,Nairobi,25-34,TikTok,Medium,Healthcare,0.363,0.268,Candidate A,0,1,5,0
+U0769,Uasin Gishu,25-34,Facebook,Low,Jobs,0.475,0.089,Candidate A,0,7,5,0
+U0770,Nakuru,45-59,WhatsApp,High,Healthcare,0.769,0.95,Candidate B,0,2,1,0
+U0771,Uasin Gishu,45-59,Facebook,Medium,Infrastructure,0.798,0.252,Undecided,0,7,9,0
+U0772,Nakuru,18-24,X,Medium,Corruption,0.332,0.144,Undecided,0,1,5,0
+U0773,Machakos,35-44,Facebook,Medium,Cost of Living,0.35,0.273,Undecided,0,0,4,0
+U0774,Kiambu,35-44,YouTube,Medium,Cost of Living,0.408,0.158,Candidate B,0,6,8,0
+U0775,Nakuru,35-44,WhatsApp,Medium,Jobs,0.401,0.316,Undecided,0,9,4,0
+U0776,Kiambu,45-59,X,Low,Jobs,0.302,0.286,Candidate A,0,5,9,0
+U0777,Nairobi,60+,WhatsApp,Low,Cost of Living,0.229,0.166,Candidate A,0,5,3,0
+U0778,Nyeri,25-34,Facebook,Low,Cost of Living,0.375,0.331,Undecided,0,2,2,0
+U0779,Nyeri,45-59,TikTok,Medium,Jobs,0.269,0.478,Candidate B,0,2,5,0
+U0780,Nairobi,45-59,WhatsApp,High,Cost of Living,0.852,0.292,Candidate A,0,6,9,0
+U0781,Nyeri,45-59,YouTube,Medium,Jobs,0.417,0.109,Candidate C,0,5,14,0
+U0782,Uasin Gishu,35-44,Facebook,Medium,Healthcare,0.402,0.536,Undecided,0,1,4,0
+U0783,Uasin Gishu,45-59,WhatsApp,High,Cost of Living,0.447,0.754,Undecided,0,1,4,0
+U0784,Kakamega,18-24,Facebook,Low,Healthcare,0.233,0.204,Undecided,0,3,6,0
+U0785,Nakuru,60+,TikTok,Medium,Education,0.427,0.387,Candidate B,0,0,2,0
+U0786,Nyeri,25-34,WhatsApp,Medium,Jobs,0.736,0.376,Candidate A,0,1,4,0
+U0787,Nairobi,35-44,WhatsApp,High,Healthcare,0.367,0.492,Undecided,0,2,2,0
+U0788,Nairobi,18-24,Facebook,Low,Infrastructure,0.278,0.208,Candidate A,0,2,5,0
+U0789,Nairobi,60+,TikTok,High,Corruption,0.66,0.204,Candidate A,0,5,7,0
+U0790,Nairobi,18-24,Facebook,Medium,Cost of Living,0.494,0.14,Candidate A,0,7,6,0
+U0791,Mombasa,25-34,Facebook,Medium,Jobs,0.464,0.261,Candidate A,0,3,1,0
+U0792,Nairobi,35-44,WhatsApp,Medium,Healthcare,0.592,0.153,Candidate A,0,15,18,0
+U0793,Mombasa,25-34,Facebook,High,Cost of Living,0.326,0.303,Candidate A,0,3,3,0
+U0794,Machakos,35-44,WhatsApp,Medium,Infrastructure,0.51,0.335,Candidate B,0,2,3,0
+U0795,Kakamega,45-59,WhatsApp,Low,Cost of Living,0.598,0.153,Undecided,0,8,10,0
+U0796,Kisumu,45-59,WhatsApp,Medium,Infrastructure,0.327,0.722,Undecided,0,6,7,0
+U0797,Nakuru,18-24,WhatsApp,Medium,Cost of Living,0.449,0.502,Candidate A,0,5,6,0
+U0798,Meru,25-34,TikTok,Medium,Jobs,0.432,0.2,Candidate B,0,2,10,0
+U0799,Kakamega,25-34,Facebook,High,Cost of Living,0.563,0.604,Candidate C,0,2,7,0
+U0800,Kakamega,25-34,Facebook,Medium,Education,0.609,0.178,Candidate C,0,2,6,0
+U0801,Mombasa,35-44,X,Medium,Education,0.529,0.405,Candidate B,0,2,5,0
+U0802,Kisumu,35-44,WhatsApp,Medium,Healthcare,0.622,0.317,Undecided,0,5,9,0
+U0803,Kakamega,60+,TikTok,Medium,Jobs,0.457,0.627,Undecided,0,1,5,0
+U0804,Mombasa,25-34,WhatsApp,Low,Cost of Living,0.579,0.058,Candidate C,0,2,2,0
+U0805,Uasin Gishu,35-44,Facebook,Low,Education,0.37,0.074,Candidate B,0,0,1,0
+U0806,Nairobi,25-34,TikTok,High,Corruption,0.446,0.828,Candidate B,0,3,2,0
+U0807,Kiambu,25-34,Facebook,Medium,Cost of Living,0.61,0.201,Undecided,0,13,17,0
+U0808,Kiambu,35-44,WhatsApp,Low,Cost of Living,0.248,0.346,Candidate B,0,3,10,0
+U0809,Nairobi,25-34,Facebook,High,Cost of Living,0.608,0.099,Candidate A,0,4,6,0
+U0810,Meru,35-44,YouTube,Low,Education,0.366,0.083,Candidate A,0,11,10,0
+U0811,Nairobi,60+,Facebook,Medium,Cost of Living,0.442,0.445,Undecided,0,10,5,0
+U0812,Uasin Gishu,45-59,TikTok,Low,Cost of Living,0.635,0.239,Candidate C,0,5,5,0
+U0813,Kisumu,25-34,Facebook,Low,Corruption,0.359,0.162,Undecided,0,1,1,0
+U0814,Kakamega,25-34,Facebook,Medium,Corruption,0.599,0.468,Undecided,0,8,8,0
+U0815,Kisumu,35-44,Facebook,Medium,Education,0.428,0.085,Undecided,0,5,7,0
+U0816,Machakos,60+,WhatsApp,Medium,Cost of Living,0.347,0.299,Undecided,0,9,6,0
+U0817,Meru,45-59,WhatsApp,High,Jobs,0.757,0.186,Candidate A,0,7,5,0
+U0818,Nakuru,25-34,Facebook,High,Cost of Living,0.621,0.474,Candidate A,0,5,3,0
+U0819,Kisumu,60+,Facebook,High,Jobs,0.619,0.642,Candidate A,0,4,11,0
+U0820,Uasin Gishu,25-34,WhatsApp,Low,Cost of Living,0.34,0.124,Candidate B,0,7,9,0
+U0821,Uasin Gishu,18-24,WhatsApp,Low,Jobs,0.401,0.379,Undecided,0,7,6,0
+U0822,Kisumu,45-59,YouTube,Medium,Cost of Living,0.796,0.138,Undecided,0,8,4,0
+U0823,Kisumu,35-44,Facebook,Low,Education,0.345,0.173,Candidate A,0,0,3,0
+U0824,Kiambu,18-24,Facebook,Low,Cost of Living,0.832,0.032,Candidate B,0,4,5,0
+U0825,Kisumu,45-59,WhatsApp,Low,Cost of Living,0.334,0.015,Candidate B,0,7,14,0
+U0826,Nyeri,25-34,WhatsApp,Medium,Jobs,0.731,0.263,Undecided,0,9,7,0
+U0827,Uasin Gishu,18-24,YouTube,Medium,Cost of Living,0.738,0.225,Candidate A,0,5,5,0
+U0828,Mombasa,45-59,Facebook,Medium,Education,0.705,0.666,Undecided,0,3,1,0
+U0829,Machakos,25-34,WhatsApp,High,Cost of Living,0.405,0.663,Candidate B,0,5,7,0
+U0830,Nairobi,25-34,YouTube,High,Education,0.467,0.543,Candidate A,0,4,7,0
+U0831,Nairobi,18-24,WhatsApp,Medium,Jobs,0.726,0.19,Candidate B,0,4,7,0
+U0832,Meru,35-44,TikTok,Medium,Jobs,0.563,0.278,Undecided,0,5,10,0
+U0833,Kisumu,45-59,WhatsApp,High,Healthcare,0.62,0.497,Candidate B,0,6,5,0
+U0834,Kiambu,45-59,WhatsApp,High,Cost of Living,0.398,0.525,Candidate B,0,6,9,0
+U0835,Kakamega,45-59,Facebook,Medium,Infrastructure,0.395,0.488,Undecided,0,4,3,0
+U0836,Nakuru,25-34,X,Low,Healthcare,0.489,0.291,Undecided,0,2,4,0
+U0837,Mombasa,35-44,Facebook,High,Jobs,0.403,0.335,Candidate A,0,5,7,0
+U0838,Nakuru,18-24,WhatsApp,Medium,Healthcare,0.726,0.37,Candidate B,0,7,6,0
+U0839,Uasin Gishu,25-34,Facebook,Medium,Jobs,0.395,0.388,Candidate B,0,2,4,0
+U0840,Nairobi,18-24,Facebook,Medium,Cost of Living,0.515,0.223,Candidate A,0,5,6,0
+U0841,Kiambu,25-34,WhatsApp,Medium,Cost of Living,0.459,0.237,Undecided,0,5,8,0
+U0842,Nairobi,18-24,WhatsApp,High,Cost of Living,0.357,0.942,Candidate C,0,6,14,0
+U0843,Nakuru,35-44,WhatsApp,Low,Healthcare,0.145,0.384,Undecided,0,1,5,0
+U0844,Kiambu,45-59,TikTok,Medium,Healthcare,0.492,0.494,Undecided,0,2,2,0
+U0845,Nairobi,60+,Facebook,Low,Cost of Living,0.571,0.139,Candidate A,0,0,3,0
+U0846,Uasin Gishu,35-44,TikTok,Medium,Infrastructure,0.546,0.164,Candidate B,0,1,1,0
+U0847,Kiambu,25-34,Facebook,Medium,Corruption,0.605,0.565,Candidate A,0,5,11,0
+U0848,Nairobi,60+,TikTok,Medium,Jobs,0.881,0.371,Candidate B,0,30,15,0
+U0849,Kiambu,25-34,TikTok,Medium,Jobs,0.204,0.321,Undecided,0,5,5,0
+U0850,Uasin Gishu,45-59,WhatsApp,Medium,Cost of Living,0.701,0.308,Undecided,0,5,10,0
+U0851,Nakuru,25-34,X,Medium,Jobs,0.691,0.422,Undecided,0,8,13,0
+U0852,Uasin Gishu,45-59,TikTok,High,Education,0.36,0.331,Candidate B,0,1,2,0
+U0853,Nakuru,25-34,WhatsApp,Low,Cost of Living,0.64,0.326,Candidate B,0,2,3,0
+U0854,Nyeri,25-34,YouTube,High,Jobs,0.666,0.25,Candidate C,0,0,1,0
+U0855,Nairobi,25-34,Facebook,Low,Cost of Living,0.558,0.258,Candidate A,0,8,12,0
+U0856,Mombasa,18-24,WhatsApp,Medium,Cost of Living,0.803,0.358,Candidate A,0,3,3,0
+U0857,Mombasa,45-59,WhatsApp,Medium,Jobs,0.516,0.817,Undecided,0,3,4,0
+U0858,Nairobi,35-44,Facebook,High,Corruption,0.579,0.652,Candidate A,0,4,7,0
+U0859,Nakuru,18-24,Facebook,Low,Cost of Living,0.534,0.08,Undecided,0,12,7,0
+U0860,Kakamega,18-24,WhatsApp,High,Infrastructure,0.473,0.107,Undecided,0,5,7,0
+U0861,Kakamega,35-44,TikTok,High,Jobs,0.569,0.844,Undecided,0,2,3,0
+U0862,Nairobi,35-44,Facebook,Low,Jobs,0.606,0.25,Undecided,0,1,9,0
+U0863,Kiambu,25-34,Facebook,Low,Healthcare,0.479,0.033,Candidate A,0,1,1,0
+U0864,Kiambu,60+,Facebook,Low,Healthcare,0.577,0.316,Candidate A,0,4,3,0
+U0865,Machakos,45-59,Facebook,Low,Jobs,0.22,0.256,Undecided,0,2,5,0
+U0866,Kakamega,25-34,X,Medium,Cost of Living,0.473,0.439,Candidate A,0,6,4,0
+U0867,Nairobi,18-24,TikTok,Low,Cost of Living,0.646,0.01,Candidate A,0,10,12,0
+U0868,Mombasa,25-34,Facebook,Medium,Jobs,0.716,0.25,Undecided,0,1,4,0
+U0869,Machakos,25-34,Facebook,Low,Cost of Living,0.311,0.201,Undecided,0,6,8,0
+U0870,Mombasa,45-59,Facebook,High,Corruption,0.425,0.581,Candidate A,0,2,5,0
+U0871,Nairobi,25-34,WhatsApp,High,Jobs,0.617,0.44,Candidate B,0,14,17,0
+U0872,Nakuru,45-59,Facebook,Medium,Infrastructure,0.303,0.478,Candidate A,0,13,7,0
+U0873,Nairobi,18-24,WhatsApp,Medium,Jobs,0.424,0.587,Candidate B,0,0,6,0
+U0874,Kakamega,60+,Facebook,Medium,Cost of Living,0.362,0.166,Candidate B,0,6,11,0
+U0875,Nyeri,18-24,TikTok,Low,Cost of Living,0.389,0.05,Candidate B,0,5,8,0
+U0876,Kiambu,35-44,X,Medium,Education,0.482,0.092,Undecided,0,5,4,0
+U0877,Nairobi,35-44,X,Medium,Education,0.517,0.249,Candidate C,1,40,23,0
+U0878,Machakos,25-34,TikTok,Medium,Cost of Living,0.59,0.34,Undecided,0,2,3,0
+U0879,Mombasa,18-24,Facebook,Medium,Cost of Living,0.467,0.234,Candidate C,0,3,6,0
+U0880,Meru,25-34,Facebook,Medium,Cost of Living,0.355,0.137,Candidate A,0,2,4,0
+U0881,Nairobi,60+,WhatsApp,Medium,Cost of Living,0.581,0.456,Candidate A,0,3,3,0
+U0882,Meru,60+,TikTok,High,Cost of Living,0.36,0.291,Candidate C,0,1,1,0
+U0883,Nairobi,35-44,TikTok,Medium,Cost of Living,0.767,0.371,Candidate C,0,17,5,0
+U0884,Nairobi,25-34,WhatsApp,Low,Cost of Living,0.134,0.311,Undecided,0,4,9,0
+U0885,Kakamega,60+,Facebook,Medium,Healthcare,0.357,0.518,Undecided,0,7,10,0
+U0886,Kiambu,25-34,YouTube,Low,Cost of Living,0.222,0.115,Candidate B,0,4,9,0
+U0887,Kakamega,35-44,WhatsApp,High,Jobs,0.451,0.048,Candidate B,0,3,2,0
+U0888,Kiambu,25-34,WhatsApp,Medium,Jobs,0.357,0.248,Undecided,0,1,3,0
+U0889,Meru,45-59,Facebook,High,Cost of Living,0.908,0.632,Candidate B,0,4,8,0
+U0890,Nakuru,25-34,Facebook,Low,Healthcare,0.16,0.142,Undecided,0,0,4,0
+U0891,Nairobi,25-34,TikTok,Medium,Jobs,0.717,0.441,Candidate A,0,3,8,0
+U0892,Mombasa,25-34,Facebook,Medium,Cost of Living,0.488,0.329,Candidate B,0,9,5,0
+U0893,Meru,60+,YouTube,Medium,Cost of Living,0.42,0.012,Candidate C,0,3,7,0
+U0894,Kiambu,60+,Facebook,High,Cost of Living,0.488,0.62,Candidate B,0,5,7,0
+U0895,Nyeri,60+,WhatsApp,Low,Corruption,0.532,0.562,Candidate A,0,3,4,0
+U0896,Kiambu,45-59,Facebook,Medium,Infrastructure,0.281,0.158,Candidate A,0,3,2,0
+U0897,Nairobi,35-44,WhatsApp,High,Corruption,0.217,0.419,Candidate B,0,1,6,0
+U0898,Nakuru,25-34,X,Medium,Healthcare,0.371,0.292,Candidate B,0,3,5,0
+U0899,Mombasa,60+,TikTok,Medium,Cost of Living,0.378,0.082,Candidate B,0,2,2,0
+U0900,Machakos,18-24,WhatsApp,Low,Cost of Living,0.683,0.075,Candidate A,0,1,8,0
+U0901,Meru,35-44,TikTok,Low,Cost of Living,0.721,0.322,Candidate B,0,2,6,0
+U0902,Uasin Gishu,35-44,Facebook,Medium,Cost of Living,0.644,0.25,Undecided,0,1,6,0
+U0903,Kiambu,45-59,Facebook,Medium,Jobs,0.442,0.261,Candidate A,0,11,13,0
+U0904,Nairobi,18-24,WhatsApp,Low,Jobs,0.414,0.315,Undecided,0,1,2,0
+U0905,Machakos,60+,X,Medium,Cost of Living,0.864,0.279,Undecided,0,21,13,0
+U0906,Nakuru,45-59,WhatsApp,Medium,Cost of Living,0.132,0.314,Candidate A,0,1,10,0
+U0907,Nyeri,25-34,Facebook,Low,Jobs,0.606,0.029,Candidate A,0,0,1,0
+U0908,Nairobi,35-44,YouTube,High,Healthcare,0.468,0.253,Candidate A,0,2,5,0
+U0909,Kisumu,18-24,TikTok,High,Cost of Living,0.363,0.475,Undecided,0,5,5,0
+U0910,Meru,18-24,TikTok,Low,Corruption,0.569,0.244,Candidate C,0,6,10,0
+U0911,Kisumu,25-34,WhatsApp,High,Cost of Living,0.248,0.898,Undecided,0,7,5,0
+U0912,Kakamega,18-24,TikTok,High,Jobs,0.851,0.489,Candidate B,0,3,4,0
+U0913,Nakuru,35-44,WhatsApp,Medium,Jobs,0.436,0.438,Candidate B,0,4,5,0
+U0914,Kakamega,45-59,WhatsApp,Low,Healthcare,0.567,0.323,Undecided,0,2,4,0
+U0915,Uasin Gishu,25-34,WhatsApp,Low,Education,0.425,0.213,Candidate A,0,1,6,0
+U0916,Nyeri,18-24,Facebook,Medium,Jobs,0.666,0.039,Undecided,0,6,7,0
+U0917,Kiambu,45-59,WhatsApp,Low,Education,0.392,0.042,Undecided,0,2,4,0
+U0918,Kiambu,25-34,YouTube,Low,Corruption,0.459,0.153,Undecided,0,2,2,0
+U0919,Nakuru,60+,Facebook,Medium,Corruption,0.418,0.345,Undecided,0,13,10,0
+U0920,Meru,18-24,X,Low,Cost of Living,0.556,0.323,Candidate B,0,10,2,0
+U0921,Kakamega,25-34,WhatsApp,Medium,Infrastructure,0.232,0.146,Undecided,0,2,7,0
+U0922,Machakos,18-24,Facebook,High,Cost of Living,0.378,0.322,Candidate A,0,9,8,0
+U0923,Kiambu,25-34,YouTube,High,Cost of Living,0.48,0.412,Candidate A,0,1,4,0
+U0924,Nairobi,25-34,Facebook,High,Jobs,0.564,0.544,Candidate B,0,7,6,0
+U0925,Kisumu,25-34,Facebook,Low,Healthcare,0.553,0.146,Candidate C,0,0,1,0
+U0926,Nakuru,25-34,WhatsApp,High,Jobs,0.228,0.284,Undecided,0,6,21,0
+U0927,Kisumu,35-44,Facebook,Medium,Healthcare,0.589,0.093,Candidate C,0,2,8,0
+U0928,Mombasa,60+,X,Low,Jobs,0.389,0.277,Undecided,0,14,5,0
+U0929,Nakuru,35-44,TikTok,High,Education,0.575,0.64,Undecided,0,7,8,0
+U0930,Nakuru,25-34,WhatsApp,Medium,Jobs,0.261,0.103,Candidate C,0,10,18,0
+U0931,Nakuru,25-34,Facebook,Low,Jobs,0.531,0.116,Candidate B,0,3,6,0
+U0932,Nakuru,45-59,Facebook,Medium,Jobs,0.48,0.073,Candidate C,0,1,6,0
+U0933,Kiambu,25-34,WhatsApp,Medium,Healthcare,0.744,0.43,Candidate A,0,1,4,0
+U0934,Kakamega,35-44,WhatsApp,Low,Corruption,0.118,0.165,Undecided,0,27,13,0
+U0935,Kiambu,35-44,YouTube,Low,Corruption,0.319,0.049,Undecided,0,4,4,0
+U0936,Uasin Gishu,18-24,Facebook,Medium,Cost of Living,0.649,0.474,Candidate B,0,2,2,0
+U0937,Kakamega,45-59,X,High,Cost of Living,0.529,0.238,Candidate A,0,7,9,0
+U0938,Kisumu,18-24,WhatsApp,Low,Jobs,0.222,0.21,Candidate C,0,2,7,0
+U0939,Meru,60+,TikTok,Medium,Infrastructure,0.338,0.26,Undecided,0,2,2,0
+U0940,Kisumu,25-34,WhatsApp,Medium,Jobs,0.539,0.326,Candidate A,0,3,5,0
+U0941,Nairobi,35-44,WhatsApp,Low,Cost of Living,0.255,0.191,Candidate A,0,10,4,0
+U0942,Machakos,60+,Facebook,Low,Corruption,0.425,0.094,Candidate A,0,6,5,0
+U0943,Nairobi,18-24,WhatsApp,Medium,Cost of Living,0.418,0.539,Candidate A,0,2,2,0
+U0944,Kakamega,25-34,Facebook,Medium,Cost of Living,0.559,0.517,Candidate B,0,4,16,0
+U0945,Nakuru,18-24,WhatsApp,High,Cost of Living,0.563,0.95,Candidate B,0,22,9,0
+U0946,Nakuru,25-34,WhatsApp,Medium,Cost of Living,0.294,0.524,Candidate B,0,3,2,0
+U0947,Kakamega,35-44,Facebook,Medium,Education,0.634,0.283,Candidate A,0,1,5,0
+U0948,Mombasa,35-44,WhatsApp,Low,Healthcare,0.614,0.351,Undecided,0,5,8,0
+U0949,Nairobi,35-44,Facebook,Low,Healthcare,0.359,0.123,Candidate A,0,0,1,0
+U0950,Kiambu,60+,WhatsApp,High,Corruption,0.304,0.426,Candidate A,0,2,2,0
+U0951,Nyeri,45-59,YouTube,Medium,Education,0.5,0.304,Candidate B,0,2,5,0
+U0952,Kakamega,45-59,WhatsApp,Low,Cost of Living,0.331,0.067,Candidate B,0,2,2,0
+U0953,Nakuru,35-44,X,Medium,Cost of Living,0.501,0.286,Candidate A,0,4,7,0
+U0954,Nairobi,25-34,Facebook,Low,Cost of Living,0.387,0.271,Candidate A,0,2,3,0
+U0955,Uasin Gishu,25-34,WhatsApp,Low,Healthcare,0.714,0.096,Candidate C,0,7,7,0
+U0956,Nyeri,18-24,Facebook,Low,Jobs,0.446,0.01,Candidate B,0,2,1,0
+U0957,Meru,25-34,Facebook,Medium,Jobs,0.78,0.37,Candidate A,0,1,2,0
+U0958,Nakuru,60+,TikTok,Medium,Cost of Living,0.705,0.325,Undecided,0,22,15,0
+U0959,Kiambu,45-59,Facebook,Medium,Healthcare,0.401,0.206,Undecided,0,18,9,0
+U0960,Uasin Gishu,18-24,WhatsApp,Medium,Cost of Living,0.465,0.535,Candidate B,0,7,3,0
+U0961,Kakamega,25-34,TikTok,Medium,Jobs,0.217,0.297,Candidate B,0,0,3,0
+U0962,Meru,18-24,Facebook,Medium,Cost of Living,0.383,0.27,Candidate C,0,2,3,0
+U0963,Kakamega,25-34,TikTok,Low,Jobs,0.577,0.173,Undecided,0,4,4,0
+U0964,Nairobi,18-24,Facebook,Low,Cost of Living,0.445,0.158,Undecided,0,9,9,0
+U0965,Kisumu,45-59,Facebook,High,Corruption,0.588,0.185,Undecided,0,4,4,0
+U0966,Nairobi,45-59,Facebook,High,Healthcare,0.561,0.316,Candidate A,0,2,4,0
+U0967,Kisumu,18-24,YouTube,Medium,Cost of Living,0.485,0.311,Undecided,0,4,6,0
+U0968,Mombasa,60+,Facebook,High,Cost of Living,0.594,0.135,Candidate A,0,2,4,0
+U0969,Nairobi,25-34,X,High,Education,0.471,0.51,Candidate C,1,105,34,0
+U0970,Mombasa,18-24,TikTok,Medium,Jobs,0.479,0.403,Candidate B,0,3,5,0
+U0971,Nairobi,60+,YouTube,Low,Education,0.619,0.185,Undecided,0,4,5,0
+U0972,Meru,25-34,WhatsApp,Low,Cost of Living,0.627,0.155,Candidate A,0,2,5,0
+U0973,Nyeri,35-44,X,High,Healthcare,0.505,0.673,Candidate B,0,1,7,0
+U0974,Nairobi,35-44,Facebook,Low,Corruption,0.327,0.307,Undecided,0,7,7,0
+U0975,Nakuru,18-24,WhatsApp,Low,Jobs,0.374,0.143,Candidate B,1,67,16,0
+U0976,Nakuru,35-44,TikTok,High,Corruption,0.492,0.893,Candidate A,0,2,3,0
+U0977,Meru,35-44,Facebook,Medium,Jobs,0.402,0.199,Candidate B,0,11,7,0
+U0978,Kakamega,35-44,Facebook,Medium,Cost of Living,0.472,0.32,Candidate B,0,5,3,0
+U0979,Kiambu,25-34,WhatsApp,Medium,Cost of Living,0.373,0.107,Undecided,0,6,9,0
+U0980,Nairobi,35-44,Facebook,Low,Jobs,0.48,0.165,Undecided,0,4,10,0
+U0981,Nairobi,25-34,Facebook,Low,Education,0.419,0.138,Candidate A,0,4,7,0
+U0982,Machakos,25-34,Facebook,Low,Jobs,0.78,0.178,Candidate A,0,6,9,0
+U0983,Kisumu,25-34,TikTok,Medium,Healthcare,0.433,0.219,Candidate C,0,2,6,0
+U0984,Nakuru,60+,WhatsApp,High,Cost of Living,0.349,0.731,Candidate B,0,2,4,0
+U0985,Kiambu,45-59,Facebook,Medium,Cost of Living,0.541,0.167,Candidate B,0,14,10,0
+U0986,Nairobi,25-34,Facebook,High,Cost of Living,0.434,0.267,Candidate A,0,1,4,0
+U0987,Mombasa,25-34,WhatsApp,Medium,Jobs,0.248,0.313,Undecided,0,3,6,0
+U0988,Nairobi,18-24,Facebook,High,Education,0.508,0.689,Candidate A,0,12,14,0
+U0989,Kakamega,25-34,Facebook,Medium,Jobs,0.667,0.47,Undecided,0,6,8,0
+U0990,Meru,18-24,TikTok,Low,Corruption,0.466,0.086,Undecided,0,0,1,0
+U0991,Kakamega,35-44,Facebook,Medium,Education,0.496,0.208,Undecided,0,1,6,0
+U0992,Kakamega,35-44,WhatsApp,Medium,Cost of Living,0.565,0.309,Candidate A,0,3,7,0
+U0993,Kakamega,18-24,TikTok,Medium,Cost of Living,0.713,0.306,Candidate A,0,2,2,0
+U0994,Machakos,25-34,TikTok,High,Jobs,0.35,0.95,Undecided,0,2,2,0
+U0995,Nairobi,45-59,Facebook,Low,Jobs,0.31,0.077,Candidate A,0,0,5,0
+U0996,Nakuru,45-59,Facebook,Medium,Jobs,0.698,0.328,Candidate B,0,5,5,0
+U0997,Nakuru,25-34,WhatsApp,High,Cost of Living,0.429,0.818,Candidate B,0,2,3,0
+U0998,Machakos,35-44,Facebook,Medium,Jobs,0.165,0.393,Candidate B,0,0,3,0
+U0999,Kiambu,25-34,TikTok,Medium,Jobs,0.56,0.199,Undecided,0,0,1,0
+U1000,Nairobi,18-24,WhatsApp,Low,Cost of Living,0.327,0.215,Candidate A,0,1,4,0
+U1001,Kakamega,45-59,WhatsApp,Low,Jobs,0.372,0.221,Candidate B,0,7,7,0
+U1002,Kisumu,45-59,Facebook,Low,Jobs,0.163,0.221,Undecided,0,4,12,0
+U1003,Nakuru,35-44,Facebook,High,Healthcare,0.68,0.325,Candidate A,0,9,12,0
+U1004,Nairobi,45-59,TikTok,High,Jobs,0.97,0.24,Candidate A,0,7,7,0
+U1005,Nyeri,45-59,Facebook,Medium,Corruption,0.48,0.075,Candidate B,0,2,4,0
+U1006,Mombasa,35-44,WhatsApp,Medium,Jobs,0.348,0.911,Candidate C,0,1,3,0
+U1007,Mombasa,25-34,WhatsApp,Medium,Cost of Living,0.573,0.205,Candidate A,0,13,7,0
+U1008,Nairobi,18-24,Facebook,Medium,Healthcare,0.451,0.308,Candidate A,0,8,1,0
+U1009,Mombasa,35-44,WhatsApp,Medium,Cost of Living,0.558,0.85,Undecided,0,12,9,0
+U1010,Mombasa,45-59,TikTok,High,Healthcare,0.694,0.104,Undecided,0,1,4,0
+U1011,Nakuru,35-44,Facebook,High,Cost of Living,0.454,0.746,Candidate B,0,6,9,0
+U1012,Nakuru,45-59,YouTube,High,Jobs,0.555,0.797,Candidate B,0,3,6,0
+U1013,Kakamega,18-24,WhatsApp,Medium,Jobs,0.544,0.857,Undecided,0,17,5,0
+U1014,Machakos,25-34,WhatsApp,Low,Cost of Living,0.536,0.109,Candidate A,1,9,9,0
+U1015,Nakuru,45-59,WhatsApp,Low,Education,0.619,0.26,Undecided,0,2,3,0
+U1016,Nairobi,25-34,Facebook,High,Jobs,0.594,0.526,Candidate A,0,7,5,0
+U1017,Nakuru,25-34,TikTok,High,Jobs,0.527,0.149,Candidate B,0,4,7,0
+U1018,Nakuru,25-34,WhatsApp,Low,Cost of Living,0.412,0.333,Candidate C,0,1,4,0
+U1019,Kakamega,45-59,YouTube,Medium,Corruption,0.763,0.234,Candidate A,0,4,4,0
+U1020,Kakamega,18-24,YouTube,Low,Jobs,0.375,0.035,Candidate A,0,4,3,0
+U1021,Kakamega,35-44,Facebook,Medium,Cost of Living,0.473,0.396,Candidate A,0,5,13,0
+U1022,Nairobi,35-44,X,High,Cost of Living,0.78,0.185,Candidate A,0,5,6,0
+U1023,Nairobi,35-44,TikTok,High,Healthcare,0.667,0.465,Undecided,0,2,6,0
+U1024,Machakos,35-44,Facebook,High,Cost of Living,0.688,0.428,Candidate A,0,6,3,0
+U1025,Nairobi,60+,Facebook,High,Cost of Living,0.437,0.089,Candidate A,0,3,4,0
+U1026,Nairobi,45-59,TikTok,Medium,Cost of Living,0.302,0.117,Candidate A,0,2,2,0
+U1027,Nairobi,60+,WhatsApp,Medium,Jobs,0.609,0.193,Candidate B,0,1,7,0
+U1028,Nakuru,35-44,Facebook,Low,Cost of Living,0.596,0.134,Undecided,0,3,6,0
+U1029,Kiambu,18-24,TikTok,Low,Jobs,0.42,0.069,Candidate A,0,5,7,0
+U1030,Nakuru,60+,Facebook,Medium,Cost of Living,0.509,0.125,Candidate B,0,3,7,0
+U1031,Nakuru,25-34,WhatsApp,Medium,Healthcare,0.628,0.29,Candidate B,0,2,5,0
+U1032,Nyeri,25-34,Facebook,Medium,Cost of Living,0.598,0.197,Undecided,0,3,4,0
+U1033,Kiambu,25-34,TikTok,High,Jobs,0.332,0.428,Candidate B,0,2,4,0
+U1034,Meru,45-59,Facebook,Low,Cost of Living,0.484,0.044,Candidate A,0,12,7,0
+U1035,Meru,35-44,TikTok,Medium,Healthcare,0.508,0.262,Candidate C,0,4,5,0
+U1036,Kakamega,45-59,Facebook,Medium,Education,0.428,0.237,Candidate C,0,4,6,0
+U1037,Kakamega,18-24,Facebook,Low,Cost of Living,0.516,0.257,Candidate C,0,3,6,0
+U1038,Kakamega,35-44,TikTok,Medium,Jobs,0.745,0.228,Candidate A,0,0,4,0
+U1039,Nairobi,35-44,Facebook,Medium,Cost of Living,0.475,0.297,Candidate A,0,3,5,0
+U1040,Kakamega,60+,TikTok,Medium,Healthcare,0.498,0.518,Candidate B,0,4,11,0
+U1041,Uasin Gishu,25-34,Facebook,Low,Corruption,0.633,0.149,Undecided,0,12,5,0
+U1042,Kiambu,25-34,WhatsApp,Low,Jobs,0.47,0.404,Undecided,0,7,7,0
+U1043,Nairobi,18-24,Facebook,High,Education,0.411,0.126,Candidate A,0,6,6,0
+U1044,Machakos,35-44,WhatsApp,High,Jobs,0.614,0.257,Candidate A,0,2,8,0
+U1045,Nairobi,25-34,TikTok,High,Jobs,0.391,0.585,Candidate A,0,4,4,0
+U1046,Nairobi,25-34,WhatsApp,Medium,Cost of Living,0.402,0.589,Candidate A,0,4,3,0
+U1047,Nairobi,35-44,Facebook,High,Jobs,0.804,0.791,Candidate A,0,3,4,0
+U1048,Nairobi,18-24,TikTok,Medium,Cost of Living,0.802,0.074,Candidate B,0,9,9,0
+U1049,Nyeri,45-59,WhatsApp,High,Jobs,0.492,0.778,Undecided,0,3,8,0
+U1050,Nairobi,18-24,Facebook,Low,Jobs,0.389,0.163,Candidate A,0,21,13,0
+U1051,Meru,18-24,WhatsApp,Medium,Cost of Living,0.64,0.064,Candidate B,0,10,7,0
+U1052,Nairobi,35-44,X,High,Cost of Living,0.502,0.471,Candidate A,0,16,22,0
+U1053,Nairobi,45-59,WhatsApp,Medium,Cost of Living,0.449,0.016,Undecided,0,5,5,0
+U1054,Nakuru,60+,WhatsApp,Medium,Healthcare,0.612,0.733,Candidate B,0,40,13,0
+U1055,Nairobi,18-24,WhatsApp,Low,Jobs,0.464,0.137,Candidate A,0,6,3,0
+U1056,Meru,25-34,Facebook,High,Education,0.692,0.228,Undecided,0,8,6,0
+U1057,Kiambu,18-24,Facebook,Medium,Healthcare,0.391,0.339,Candidate B,0,1,9,0
+U1058,Nakuru,45-59,X,High,Education,0.611,0.591,Candidate B,0,7,6,0
+U1059,Nairobi,35-44,WhatsApp,Medium,Jobs,0.34,0.475,Candidate A,0,5,3,0
+U1060,Mombasa,25-34,Facebook,Medium,Infrastructure,0.648,0.332,Candidate B,0,13,14,0
+U1061,Kisumu,35-44,TikTok,Medium,Healthcare,0.451,0.142,Candidate A,0,3,4,0
+U1062,Nakuru,18-24,Facebook,High,Jobs,0.257,0.558,Candidate B,0,2,3,0
+U1063,Kiambu,18-24,TikTok,Low,Cost of Living,0.369,0.122,Undecided,0,8,11,0
+U1064,Nairobi,25-34,TikTok,High,Cost of Living,0.631,0.663,Candidate A,0,1,6,0
+U1065,Nairobi,25-34,Facebook,Medium,Jobs,0.594,0.56,Candidate A,0,5,11,0
+U1066,Kakamega,18-24,Facebook,High,Corruption,0.306,0.408,Candidate B,0,3,4,0
+U1067,Meru,45-59,Facebook,Medium,Cost of Living,0.516,0.36,Undecided,0,11,7,0
+U1068,Nakuru,25-34,X,Medium,Infrastructure,0.492,0.394,Candidate A,0,3,6,0
+U1069,Kisumu,35-44,Facebook,Low,Jobs,0.497,0.466,Candidate C,0,19,10,0
+U1070,Nakuru,60+,WhatsApp,High,Infrastructure,0.411,0.259,Candidate C,0,1,12,0
+U1071,Nairobi,25-34,Facebook,Medium,Cost of Living,0.659,0.362,Candidate A,0,4,7,0
+U1072,Nairobi,45-59,WhatsApp,High,Jobs,0.535,0.484,Undecided,0,23,16,0
+U1073,Kakamega,25-34,Facebook,Medium,Healthcare,0.276,0.494,Candidate A,0,2,7,0
+U1074,Nakuru,25-34,TikTok,High,Cost of Living,0.512,0.417,Candidate B,0,5,4,0
+U1075,Kiambu,18-24,WhatsApp,Low,Cost of Living,0.223,0.077,Undecided,0,3,3,0
+U1076,Uasin Gishu,25-34,Facebook,Medium,Cost of Living,0.472,0.518,Candidate C,0,4,3,0
+U1077,Nairobi,35-44,TikTok,Medium,Education,0.404,0.639,Candidate A,0,2,2,0
+U1078,Meru,25-34,Facebook,Medium,Cost of Living,0.164,0.338,Candidate A,0,1,3,0
+U1079,Nyeri,18-24,WhatsApp,Low,Cost of Living,0.372,0.263,Undecided,0,5,5,0
+U1080,Machakos,35-44,Facebook,Medium,Corruption,0.318,0.295,Candidate A,0,3,5,0
+U1081,Nakuru,35-44,TikTok,Medium,Cost of Living,0.632,0.431,Undecided,0,6,4,0
+U1082,Machakos,18-24,X,High,Corruption,0.715,0.611,Candidate B,0,6,10,0
+U1083,Nyeri,35-44,WhatsApp,Medium,Healthcare,0.402,0.203,Candidate C,0,3,6,0
+U1084,Meru,25-34,Facebook,Low,Jobs,0.585,0.064,Undecided,0,16,8,0
+U1085,Nairobi,45-59,WhatsApp,High,Healthcare,0.372,0.745,Candidate B,0,1,7,0
+U1086,Kiambu,18-24,WhatsApp,High,Education,0.56,0.664,Undecided,0,10,14,0
+U1087,Machakos,25-34,Facebook,Low,Cost of Living,0.401,0.172,Candidate A,0,5,7,0
+U1088,Uasin Gishu,18-24,WhatsApp,Medium,Corruption,0.282,0.281,Candidate B,0,5,4,0
+U1089,Mombasa,25-34,TikTok,Medium,Jobs,0.195,0.667,Candidate A,0,3,10,0
+U1090,Nairobi,35-44,Facebook,Medium,Cost of Living,0.807,0.419,Undecided,0,17,6,0
+U1091,Nairobi,45-59,Facebook,Medium,Cost of Living,0.64,0.476,Candidate B,0,1,3,0
+U1092,Machakos,45-59,WhatsApp,High,Jobs,0.622,0.913,Undecided,0,1,6,0
+U1093,Machakos,35-44,WhatsApp,Low,Jobs,0.503,0.154,Candidate A,0,3,5,0
+U1094,Meru,35-44,Facebook,High,Healthcare,0.376,0.67,Candidate B,0,1,6,0
+U1095,Kiambu,35-44,WhatsApp,Medium,Cost of Living,0.533,0.019,Undecided,0,1,3,0
+U1096,Mombasa,35-44,Facebook,Medium,Jobs,0.376,0.348,Undecided,0,4,4,0
+U1097,Kiambu,18-24,Facebook,Low,Cost of Living,0.504,0.115,Undecided,1,11,9,0
+U1098,Kisumu,18-24,Facebook,Medium,Jobs,0.183,0.151,Candidate A,0,0,2,0
+U1099,Mombasa,25-34,WhatsApp,Medium,Cost of Living,0.406,0.453,Undecided,0,3,3,0
+U1100,Nairobi,25-34,WhatsApp,Low,Cost of Living,0.744,0.158,Candidate C,0,0,2,0
+U1101,Nakuru,25-34,TikTok,Medium,Cost of Living,0.33,0.587,Candidate A,0,30,10,0
+U1102,Nyeri,35-44,WhatsApp,Low,Jobs,0.319,0.043,Candidate B,0,2,3,0
+U1103,Nyeri,25-34,Facebook,Medium,Healthcare,0.513,0.15,Candidate B,0,14,10,0
+U1104,Nyeri,35-44,TikTok,Medium,Education,0.559,0.508,Undecided,1,18,7,0
+U1105,Kiambu,25-34,TikTok,High,Corruption,0.578,0.546,Candidate A,0,14,7,0
+U1106,Meru,45-59,Facebook,Medium,Infrastructure,0.701,0.183,Candidate B,0,12,5,0
+U1107,Kiambu,60+,TikTok,Low,Cost of Living,0.232,0.12,Candidate A,0,8,11,0
+U1108,Meru,60+,Facebook,Medium,Cost of Living,0.503,0.429,Candidate B,1,34,8,0
+U1109,Nairobi,60+,WhatsApp,High,Cost of Living,0.57,0.417,Candidate A,0,23,13,0
+U1110,Nairobi,25-34,WhatsApp,Medium,Cost of Living,0.606,0.206,Candidate A,0,1,4,0
+U1111,Mombasa,35-44,WhatsApp,Low,Jobs,0.317,0.184,Candidate B,0,4,3,0
+U1112,Kakamega,18-24,TikTok,Medium,Jobs,0.64,0.049,Candidate A,0,1,8,0
+U1113,Nairobi,35-44,YouTube,High,Cost of Living,0.675,0.119,Candidate A,0,1,2,0
+U1114,Meru,45-59,TikTok,Medium,Jobs,0.435,0.245,Candidate B,0,5,5,0
+U1115,Kiambu,45-59,Facebook,Medium,Cost of Living,0.694,0.19,Candidate C,0,7,8,0
+U1116,Kiambu,35-44,WhatsApp,Medium,Cost of Living,0.264,0.246,Candidate A,0,3,6,0
+U1117,Meru,25-34,TikTok,Medium,Cost of Living,0.241,0.542,Candidate C,0,33,8,0
+U1118,Nairobi,25-34,WhatsApp,Medium,Cost of Living,0.712,0.288,Candidate A,0,3,8,0
+U1119,Nakuru,18-24,WhatsApp,Low,Jobs,0.697,0.266,Undecided,0,6,18,0
+U1120,Kakamega,35-44,X,High,Corruption,0.49,0.219,Candidate B,0,5,4,0
+U1121,Nairobi,25-34,TikTok,Medium,Corruption,0.48,0.141,Candidate A,0,4,3,0
+U1122,Nairobi,45-59,TikTok,Low,Corruption,0.548,0.314,Candidate A,0,4,4,0
+U1123,Mombasa,45-59,WhatsApp,High,Cost of Living,0.447,0.758,Candidate A,0,5,8,0
+U1124,Kisumu,60+,Facebook,Low,Education,0.663,0.287,Candidate A,0,0,2,0
+U1125,Kiambu,25-34,Facebook,Medium,Corruption,0.496,0.106,Undecided,0,3,6,0
+U1126,Kakamega,25-34,Facebook,Medium,Jobs,0.638,0.463,Undecided,0,2,3,0
+U1127,Meru,45-59,TikTok,Medium,Jobs,0.528,0.323,Candidate C,0,3,4,0
+U1128,Kiambu,18-24,TikTok,High,Cost of Living,0.395,0.503,Candidate A,0,13,13,0
+U1129,Nakuru,45-59,Facebook,Medium,Cost of Living,0.615,0.411,Candidate B,0,4,7,0
+U1130,Nairobi,25-34,YouTube,Low,Jobs,0.235,0.239,Candidate A,0,1,2,0
+U1131,Kiambu,25-34,TikTok,Low,Cost of Living,0.488,0.174,Undecided,0,7,10,0
+U1132,Machakos,60+,Facebook,Medium,Education,0.355,0.567,Candidate B,0,4,9,0
+U1133,Nairobi,45-59,WhatsApp,High,Cost of Living,0.668,0.286,Candidate A,0,1,4,0
+U1134,Meru,18-24,Facebook,High,Cost of Living,0.713,0.109,Undecided,0,1,3,0
+U1135,Uasin Gishu,25-34,WhatsApp,Medium,Cost of Living,0.424,0.179,Candidate C,0,6,6,0
+U1136,Nakuru,25-34,Facebook,Medium,Jobs,0.657,0.387,Candidate A,0,9,5,0
+U1137,Kiambu,60+,TikTok,High,Corruption,0.43,0.482,Candidate A,0,3,3,0
+U1138,Nyeri,45-59,Facebook,High,Cost of Living,0.537,0.408,Candidate B,0,6,10,0
+U1139,Nakuru,18-24,Facebook,Low,Cost of Living,0.485,0.202,Undecided,0,1,4,0
+U1140,Nairobi,35-44,YouTube,High,Corruption,0.291,0.058,Candidate A,0,11,7,0
+U1141,Kiambu,35-44,Facebook,Medium,Jobs,0.65,0.071,Candidate B,0,2,2,0
+U1142,Meru,18-24,Facebook,Medium,Jobs,0.35,0.172,Undecided,0,14,10,0
+U1143,Nakuru,45-59,TikTok,High,Corruption,0.413,0.364,Candidate B,0,5,6,0
+U1144,Machakos,18-24,TikTok,Medium,Jobs,0.378,0.32,Candidate A,0,2,4,0
+U1145,Nairobi,25-34,WhatsApp,Medium,Jobs,0.549,0.236,Candidate A,0,5,7,0
+U1146,Kisumu,35-44,Facebook,Low,Jobs,0.694,0.257,Undecided,0,7,5,0
+U1147,Nairobi,35-44,TikTok,Medium,Cost of Living,0.332,0.567,Candidate A,0,1,4,0
+U1148,Kisumu,18-24,YouTube,Low,Jobs,0.444,0.163,Candidate C,0,2,2,0
+U1149,Mombasa,25-34,WhatsApp,High,Jobs,0.627,0.634,Candidate A,0,7,8,0
+U1150,Uasin Gishu,35-44,X,Medium,Education,0.633,0.597,Undecided,0,11,7,0
+U1151,Uasin Gishu,18-24,X,Medium,Cost of Living,0.695,0.323,Candidate A,0,4,2,0
+U1152,Mombasa,60+,WhatsApp,High,Healthcare,0.543,0.344,Candidate B,0,6,8,0
+U1153,Uasin Gishu,35-44,WhatsApp,Medium,Jobs,0.687,0.393,Candidate B,0,3,4,0
+U1154,Kiambu,60+,WhatsApp,Medium,Corruption,0.639,0.045,Undecided,0,5,4,0
+U1155,Kiambu,35-44,X,Low,Healthcare,0.669,0.192,Undecided,1,26,12,0
+U1156,Kiambu,45-59,TikTok,Medium,Corruption,0.547,0.489,Candidate B,0,31,9,0
+U1157,Machakos,25-34,WhatsApp,Low,Jobs,0.434,0.148,Undecided,0,23,11,0
+U1158,Uasin Gishu,35-44,TikTok,Medium,Jobs,0.545,0.214,Undecided,0,3,5,0
+U1159,Nairobi,35-44,Facebook,High,Healthcare,0.493,0.557,Undecided,0,8,7,0
+U1160,Kakamega,45-59,WhatsApp,Low,Cost of Living,0.277,0.297,Undecided,0,16,12,0
+U1161,Nyeri,25-34,WhatsApp,High,Education,0.445,0.666,Candidate C,0,5,3,0
+U1162,Machakos,45-59,Facebook,Low,Corruption,0.271,0.346,Candidate B,0,2,11,0
+U1163,Mombasa,25-34,Facebook,Low,Cost of Living,0.23,0.317,Undecided,0,0,2,0
+U1164,Nakuru,25-34,WhatsApp,Low,Cost of Living,0.441,0.115,Candidate C,0,7,11,0
+U1165,Kakamega,60+,Facebook,High,Jobs,0.459,0.494,Undecided,0,4,9,0
+U1166,Uasin Gishu,25-34,Facebook,Medium,Jobs,0.347,0.488,Candidate B,0,1,2,0
+U1167,Nairobi,35-44,Facebook,Low,Cost of Living,0.429,0.15,Candidate A,0,13,11,0
+U1168,Kiambu,35-44,TikTok,Medium,Healthcare,0.472,0.349,Candidate A,0,11,10,0
+U1169,Meru,25-34,TikTok,Low,Jobs,0.519,0.225,Candidate A,0,16,12,0
+U1170,Nairobi,35-44,TikTok,Medium,Jobs,0.52,0.432,Candidate A,0,4,7,0
+U1171,Kakamega,45-59,Facebook,Medium,Jobs,0.744,0.116,Candidate B,0,13,2,0
+U1172,Mombasa,25-34,WhatsApp,High,Jobs,0.798,0.944,Candidate B,0,2,2,0
+U1173,Machakos,25-34,Facebook,Medium,Jobs,0.5,0.315,Candidate B,0,0,4,0
+U1174,Kisumu,25-34,WhatsApp,Medium,Cost of Living,0.603,0.262,Candidate A,0,0,2,0
+U1175,Nairobi,25-34,Facebook,Low,Jobs,0.432,0.069,Undecided,0,5,8,0
+U1176,Kakamega,60+,TikTok,High,Healthcare,0.31,0.461,Undecided,0,8,10,0
+U1177,Nakuru,25-34,TikTok,Medium,Cost of Living,0.423,0.773,Candidate B,0,2,5,0
+U1178,Machakos,45-59,Facebook,Low,Jobs,0.141,0.025,Undecided,0,0,2,0
+U1179,Nakuru,18-24,WhatsApp,Low,Cost of Living,0.449,0.114,Candidate B,0,5,4,0
+U1180,Nairobi,18-24,Facebook,High,Cost of Living,0.596,0.477,Candidate A,0,0,3,0
+U1181,Kakamega,45-59,Facebook,Medium,Jobs,0.689,0.15,Candidate C,0,4,3,0
+U1182,Kisumu,18-24,Facebook,Medium,Cost of Living,0.495,0.208,Candidate A,0,1,3,0
+U1183,Nairobi,35-44,TikTok,Low,Cost of Living,0.32,0.245,Candidate B,0,4,6,0
+U1184,Nakuru,60+,WhatsApp,High,Corruption,0.636,0.755,Undecided,0,3,4,0
+U1185,Kakamega,18-24,Facebook,Low,Cost of Living,0.545,0.194,Undecided,0,3,4,0
+U1186,Nyeri,45-59,Facebook,High,Cost of Living,0.526,0.153,Candidate A,0,4,8,0
+U1187,Nairobi,25-34,YouTube,Medium,Cost of Living,0.439,0.079,Candidate A,0,1,5,0
+U1188,Nairobi,25-34,WhatsApp,Medium,Cost of Living,0.443,0.394,Candidate B,0,2,2,0
+U1189,Kiambu,45-59,WhatsApp,High,Corruption,0.729,0.95,Undecided,0,2,9,0
+U1190,Machakos,45-59,Facebook,High,Jobs,0.656,0.374,Candidate C,0,2,3,0
+U1191,Kakamega,18-24,WhatsApp,High,Cost of Living,0.58,0.674,Candidate B,0,3,3,0
+U1192,Nakuru,45-59,WhatsApp,Low,Education,0.422,0.198,Candidate C,0,1,6,0
+U1193,Nyeri,35-44,WhatsApp,Medium,Cost of Living,0.19,0.586,Candidate B,1,712,188,0
+U1194,Uasin Gishu,45-59,TikTok,High,Jobs,0.375,0.437,Candidate B,0,7,4,0
+U1195,Nairobi,18-24,TikTok,Medium,Corruption,0.381,0.416,Undecided,0,17,6,0
+U1196,Kiambu,35-44,TikTok,Medium,Cost of Living,0.428,0.279,Candidate C,0,1,7,0
+U1197,Nairobi,25-34,Facebook,Medium,Cost of Living,0.687,0.241,Candidate A,0,10,10,0
+U1198,Kakamega,25-34,X,Low,Cost of Living,0.224,0.075,Candidate B,0,2,9,0
+U1199,Nakuru,45-59,WhatsApp,Medium,Cost of Living,0.227,0.374,Undecided,0,2,3,0
+U1200,Nairobi,35-44,WhatsApp,Low,Jobs,0.536,0.163,Candidate A,0,6,13,0
+U1201,Nairobi,35-44,X,Medium,Education,0.676,0.41,Candidate A,0,2,5,0
+U1202,Kakamega,25-34,YouTube,Medium,Cost of Living,0.558,0.184,Undecided,0,0,1,0
+U1203,Nairobi,35-44,Facebook,High,Infrastructure,0.579,0.204,Candidate A,0,32,13,0
+U1204,Nakuru,35-44,WhatsApp,Medium,Cost of Living,0.235,0.73,Candidate B,0,2,3,0
+U1205,Nairobi,45-59,Facebook,Medium,Corruption,0.586,0.524,Candidate B,0,7,8,0
+U1206,Kakamega,25-34,Facebook,Medium,Jobs,0.687,0.302,Undecided,0,3,7,0
+U1207,Mombasa,60+,WhatsApp,High,Cost of Living,0.673,0.151,Candidate B,0,16,7,0
+U1208,Nairobi,25-34,WhatsApp,Medium,Corruption,0.572,0.308,Undecided,0,2,5,0
+U1209,Kiambu,18-24,Facebook,Low,Jobs,0.575,0.153,Undecided,0,6,13,0
+U1210,Mombasa,45-59,WhatsApp,Medium,Cost of Living,0.46,0.297,Candidate A,0,10,9,0
+U1211,Nairobi,45-59,WhatsApp,Low,Infrastructure,0.311,0.158,Candidate A,0,7,10,0
+U1212,Machakos,45-59,YouTube,Medium,Jobs,0.678,0.298,Candidate A,0,5,5,0
+U1213,Meru,35-44,Facebook,Low,Cost of Living,0.57,0.104,Undecided,0,36,18,0
+U1214,Kiambu,18-24,Facebook,Low,Education,0.526,0.378,Undecided,0,6,2,0
+U1215,Kiambu,35-44,TikTok,Medium,Education,0.461,0.143,Undecided,0,6,2,0
+U1216,Nairobi,35-44,WhatsApp,Medium,Healthcare,0.649,0.362,Candidate B,0,8,4,0
+U1217,Kisumu,45-59,WhatsApp,High,Healthcare,0.748,0.896,Candidate A,0,1,8,0
+U1218,Kiambu,45-59,TikTok,High,Corruption,0.658,0.31,Undecided,0,2,6,0
+U1219,Nakuru,25-34,WhatsApp,Medium,Jobs,0.706,0.406,Candidate B,0,1,7,0
+U1220,Kakamega,25-34,X,Medium,Cost of Living,0.786,0.487,Undecided,0,1,5,0
+U1221,Nairobi,25-34,WhatsApp,High,Jobs,0.569,0.601,Candidate B,0,7,6,0
+U1222,Kiambu,45-59,Facebook,High,Corruption,0.672,0.457,Undecided,0,1,6,0
+U1223,Nakuru,45-59,Facebook,Medium,Jobs,0.663,0.083,Candidate B,0,0,1,0
+U1224,Meru,25-34,Facebook,Low,Corruption,0.705,0.317,Undecided,0,20,12,0
+U1225,Nairobi,35-44,Facebook,Medium,Cost of Living,0.582,0.286,Candidate B,0,18,7,0
+U1226,Nakuru,45-59,WhatsApp,Medium,Cost of Living,0.577,0.472,Candidate B,0,25,8,0
+U1227,Nairobi,35-44,Facebook,Low,Corruption,0.483,0.076,Candidate A,0,2,6,0
+U1228,Kakamega,60+,WhatsApp,Medium,Education,0.552,0.201,Undecided,0,8,12,0
+U1229,Nairobi,60+,TikTok,High,Cost of Living,0.794,0.209,Undecided,0,22,10,0
+U1230,Kiambu,25-34,TikTok,Medium,Jobs,0.536,0.336,Undecided,0,6,7,0
+U1231,Nakuru,45-59,Facebook,Low,Healthcare,0.411,0.147,Candidate A,0,0,5,0
+U1232,Uasin Gishu,25-34,Facebook,Low,Cost of Living,0.246,0.195,Candidate A,0,30,10,0
+U1233,Nairobi,18-24,Facebook,Medium,Jobs,0.703,0.103,Candidate A,0,1,6,0
+U1234,Mombasa,25-34,WhatsApp,Medium,Corruption,0.406,0.222,Candidate B,1,12,10,0
+U1235,Kakamega,25-34,TikTok,Medium,Jobs,0.264,0.61,Undecided,0,4,5,0
+U1236,Machakos,25-34,Facebook,High,Cost of Living,0.324,0.188,Candidate B,0,16,11,0
+U1237,Nakuru,18-24,TikTok,Low,Jobs,0.27,0.287,Candidate C,0,3,6,0
+U1238,Nakuru,35-44,Facebook,Medium,Healthcare,0.592,0.347,Candidate A,0,4,5,0
+U1239,Nairobi,18-24,Facebook,Low,Jobs,0.528,0.179,Candidate A,0,1,10,0
+U1240,Kakamega,45-59,TikTok,Low,Corruption,0.416,0.315,Undecided,0,2,6,0
+U1241,Nairobi,25-34,Facebook,Medium,Jobs,0.597,0.621,Candidate B,0,6,7,0
+U1242,Mombasa,60+,WhatsApp,Medium,Cost of Living,0.761,0.181,Undecided,0,6,5,0
+U1243,Nairobi,45-59,TikTok,Medium,Jobs,0.37,0.521,Candidate B,0,3,13,0
+U1244,Nakuru,25-34,TikTok,High,Cost of Living,0.551,0.95,Candidate C,0,13,8,0
+U1245,Nairobi,35-44,TikTok,Low,Jobs,0.391,0.174,Candidate B,0,5,14,0
+U1246,Mombasa,25-34,Facebook,High,Cost of Living,0.46,0.488,Candidate B,0,4,5,0
+U1247,Nakuru,25-34,TikTok,Medium,Jobs,0.454,0.473,Candidate B,0,1,6,0
+U1248,Kisumu,25-34,Facebook,Medium,Jobs,0.363,0.312,Candidate B,0,3,5,0
+U1249,Nairobi,25-34,TikTok,Low,Cost of Living,0.366,0.122,Candidate A,0,4,8,0
+U1250,Nairobi,35-44,WhatsApp,Medium,Cost of Living,0.653,0.69,Candidate B,0,2,4,0
+U1251,Kakamega,18-24,WhatsApp,Low,Jobs,0.485,0.063,Candidate A,0,4,5,0
+U1252,Nakuru,60+,TikTok,Medium,Cost of Living,0.351,0.228,Candidate A,0,2,3,0
+U1253,Mombasa,60+,TikTok,Low,Healthcare,0.585,0.235,Candidate A,0,1,3,0
+U1254,Machakos,18-24,Facebook,High,Education,0.604,0.309,Candidate B,0,2,10,0
+U1255,Mombasa,35-44,YouTube,Medium,Cost of Living,0.617,0.404,Candidate C,0,1,5,0
+U1256,Nairobi,45-59,WhatsApp,Low,Jobs,0.558,0.414,Candidate A,0,0,3,0
+U1257,Meru,60+,TikTok,High,Education,0.191,0.31,Candidate A,0,4,5,0
+U1258,Kiambu,45-59,Facebook,High,Cost of Living,0.713,0.191,Candidate C,0,0,3,0
+U1259,Nakuru,45-59,TikTok,Medium,Jobs,0.278,0.207,Undecided,0,2,7,0
+U1260,Meru,45-59,Facebook,Low,Infrastructure,0.479,0.071,Candidate C,0,0,4,0
+U1261,Nairobi,35-44,Facebook,Medium,Cost of Living,0.495,0.355,Candidate A,0,14,10,0
+U1262,Uasin Gishu,25-34,YouTube,Low,Jobs,0.674,0.196,Candidate B,0,7,22,0
+U1263,Nakuru,45-59,YouTube,High,Cost of Living,0.766,0.157,Candidate B,0,5,3,0
+U1264,Nairobi,18-24,Facebook,Medium,Education,0.234,0.317,Candidate A,0,3,6,0
+U1265,Nairobi,25-34,WhatsApp,Medium,Jobs,0.322,0.675,Candidate C,0,8,8,0
+U1266,Meru,18-24,WhatsApp,Medium,Cost of Living,0.342,0.56,Candidate A,0,4,5,0
+U1267,Machakos,35-44,YouTube,Medium,Cost of Living,0.588,0.074,Undecided,0,4,16,0
+U1268,Kakamega,25-34,YouTube,Medium,Corruption,0.345,0.185,Candidate A,0,3,7,0
+U1269,Nyeri,45-59,WhatsApp,Medium,Jobs,0.697,0.225,Undecided,0,2,5,0
+U1270,Nairobi,35-44,WhatsApp,Low,Corruption,0.469,0.126,Candidate A,0,4,4,0
+U1271,Mombasa,25-34,WhatsApp,Medium,Healthcare,0.502,0.157,Undecided,0,3,3,0
+U1272,Kisumu,18-24,Facebook,Low,Corruption,0.211,0.089,Undecided,0,4,5,0
+U1273,Kakamega,25-34,WhatsApp,High,Jobs,0.492,0.786,Candidate B,0,2,3,0
+U1274,Kakamega,45-59,WhatsApp,Medium,Infrastructure,0.642,0.912,Candidate A,0,2,4,0
+U1275,Nakuru,35-44,TikTok,Medium,Cost of Living,0.356,0.24,Candidate B,0,3,10,0
+U1276,Kakamega,45-59,X,Medium,Cost of Living,0.355,0.047,Candidate A,0,2,1,0
+U1277,Nakuru,35-44,Facebook,Medium,Corruption,0.758,0.033,Candidate C,0,1,5,0
+U1278,Kiambu,25-34,WhatsApp,Low,Healthcare,0.316,0.431,Undecided,0,3,4,0
+U1279,Meru,45-59,Facebook,Medium,Corruption,0.48,0.261,Candidate C,0,1,6,0
+U1280,Kiambu,25-34,WhatsApp,Medium,Healthcare,0.496,0.257,Candidate A,1,12,10,0
+U1281,Nairobi,45-59,YouTube,Medium,Corruption,0.337,0.125,Undecided,0,2,5,0
+U1282,Mombasa,25-34,Facebook,Medium,Education,0.363,0.212,Candidate A,0,13,10,0
+U1283,Kakamega,25-34,Facebook,Medium,Healthcare,0.32,0.251,Undecided,0,1,1,0
+U1284,Kisumu,18-24,Facebook,Low,Education,0.468,0.317,Candidate A,1,7,13,0
+U1285,Nakuru,25-34,WhatsApp,Low,Cost of Living,0.673,0.084,Candidate B,0,4,4,0
+U1286,Nairobi,25-34,WhatsApp,Medium,Jobs,0.444,0.366,Undecided,0,1,4,0
+U1287,Meru,18-24,TikTok,Medium,Jobs,0.395,0.399,Candidate C,0,4,5,0
+U1288,Meru,25-34,Facebook,Low,Cost of Living,0.487,0.191,Candidate B,0,7,9,0
+U1289,Uasin Gishu,18-24,WhatsApp,Low,Infrastructure,0.336,0.06,Candidate A,0,1,6,0
+U1290,Nakuru,60+,Facebook,Low,Cost of Living,0.481,0.338,Candidate B,0,2,4,0
+U1291,Nairobi,25-34,X,High,Cost of Living,0.517,0.2,Candidate A,0,1,3,0
+U1292,Kakamega,35-44,Facebook,Low,Cost of Living,0.244,0.077,Candidate C,0,11,6,0
+U1293,Mombasa,35-44,TikTok,Medium,Cost of Living,0.32,0.258,Candidate A,0,7,7,0
+U1294,Nyeri,45-59,WhatsApp,Medium,Healthcare,0.619,0.415,Undecided,0,3,8,0
+U1295,Nakuru,60+,Facebook,Low,Healthcare,0.226,0.258,Candidate B,0,11,12,0
+U1296,Mombasa,45-59,Facebook,Medium,Healthcare,0.809,0.085,Candidate B,0,1,2,0
+U1297,Machakos,45-59,WhatsApp,Medium,Cost of Living,0.48,0.646,Candidate B,0,32,8,0
+U1298,Nakuru,25-34,Facebook,Low,Cost of Living,0.501,0.27,Undecided,0,20,15,0
+U1299,Kakamega,25-34,WhatsApp,Medium,Education,0.592,0.928,Candidate A,0,0,1,0
+U1300,Kisumu,35-44,Facebook,Medium,Cost of Living,0.405,0.277,Undecided,0,6,8,0
+U1301,Kakamega,35-44,YouTube,Medium,Corruption,0.541,0.24,Candidate A,0,3,5,0
+U1302,Nakuru,18-24,TikTok,Medium,Education,0.666,0.562,Candidate B,0,7,7,0
+U1303,Meru,25-34,TikTok,Medium,Jobs,0.395,0.187,Candidate A,1,123,44,0
+U1304,Kiambu,18-24,Facebook,High,Education,0.379,0.093,Candidate C,0,2,9,0
+U1305,Kiambu,18-24,Facebook,High,Jobs,0.353,0.854,Candidate B,0,4,6,0
+U1306,Machakos,25-34,YouTube,Medium,Healthcare,0.611,0.055,Candidate B,0,30,12,0
+U1307,Kiambu,45-59,X,Medium,Corruption,0.611,0.403,Undecided,0,4,11,0
+U1308,Kiambu,18-24,X,Medium,Infrastructure,0.392,0.693,Candidate A,0,4,4,0
+U1309,Nairobi,35-44,WhatsApp,Medium,Jobs,0.607,0.184,Undecided,0,13,8,0
+U1310,Kiambu,25-34,WhatsApp,Medium,Jobs,0.278,0.475,Candidate A,0,9,7,0
+U1311,Mombasa,25-34,Facebook,High,Cost of Living,0.61,0.036,Candidate C,0,22,24,0
+U1312,Nakuru,45-59,YouTube,High,Jobs,0.543,0.442,Candidate B,0,2,3,0
+U1313,Nakuru,35-44,Facebook,High,Jobs,0.385,0.524,Undecided,0,3,4,0
+U1314,Nairobi,60+,WhatsApp,Medium,Cost of Living,0.237,0.279,Candidate A,0,3,10,0
+U1315,Nairobi,35-44,WhatsApp,Medium,Cost of Living,0.513,0.684,Candidate A,0,5,6,0
+U1316,Kiambu,18-24,Facebook,Low,Jobs,0.429,0.014,Candidate B,1,25,11,0
+U1317,Kiambu,60+,WhatsApp,Medium,Cost of Living,0.385,0.197,Undecided,0,7,4,0
+U1318,Nairobi,45-59,Facebook,High,Corruption,0.481,0.843,Candidate A,0,14,12,0
+U1319,Uasin Gishu,25-34,Facebook,Medium,Jobs,0.347,0.349,Undecided,0,1,1,0
+U1320,Nakuru,25-34,X,Medium,Healthcare,0.503,0.152,Undecided,0,8,6,0
+U1321,Nakuru,18-24,WhatsApp,Low,Education,0.67,0.225,Candidate A,0,15,7,0
+U1322,Mombasa,25-34,TikTok,Medium,Jobs,0.428,0.402,Undecided,0,4,7,0
+U1323,Machakos,35-44,Facebook,Low,Jobs,0.524,0.113,Candidate B,0,5,5,0
+U1324,Meru,25-34,WhatsApp,High,Cost of Living,0.541,0.52,Candidate B,0,3,14,0
+U1325,Machakos,60+,WhatsApp,Medium,Cost of Living,0.343,0.177,Undecided,0,4,1,0
+U1326,Mombasa,60+,Facebook,High,Cost of Living,0.205,0.28,Candidate B,0,5,2,0
+U1327,Kakamega,45-59,YouTube,Medium,Cost of Living,0.284,0.225,Undecided,0,4,6,0
+U1328,Kakamega,25-34,WhatsApp,Low,Education,0.342,0.139,Undecided,0,4,5,0
+U1329,Nakuru,35-44,Facebook,Medium,Cost of Living,0.321,0.176,Candidate B,0,5,6,0
+U1330,Nairobi,45-59,WhatsApp,High,Cost of Living,0.568,0.95,Candidate A,0,2,4,0
+U1331,Nairobi,35-44,TikTok,Low,Corruption,0.327,0.224,Candidate B,0,3,5,0
+U1332,Uasin Gishu,25-34,Facebook,Medium,Jobs,0.396,0.297,Candidate A,0,6,7,0
+U1333,Nairobi,35-44,WhatsApp,Medium,Cost of Living,0.504,0.39,Candidate A,0,6,9,0
+U1334,Uasin Gishu,18-24,Facebook,High,Cost of Living,0.531,0.921,Candidate A,1,22,8,0
+U1335,Kiambu,35-44,X,Medium,Healthcare,0.544,0.203,Undecided,0,0,1,0
+U1336,Machakos,18-24,WhatsApp,Medium,Jobs,0.321,0.467,Undecided,0,22,8,0
+U1337,Meru,25-34,Facebook,Low,Jobs,0.748,0.159,Candidate A,0,12,7,0
+U1338,Kisumu,60+,WhatsApp,Low,Corruption,0.573,0.197,Candidate B,0,5,6,0
+U1339,Nairobi,25-34,Facebook,Low,Corruption,0.516,0.165,Candidate A,0,1,5,0
+U1340,Nairobi,60+,Facebook,High,Jobs,0.504,0.189,Candidate A,0,2,3,0
+U1341,Nakuru,35-44,WhatsApp,Low,Jobs,0.662,0.208,Undecided,0,5,4,0
+U1342,Meru,25-34,WhatsApp,Medium,Jobs,0.492,0.388,Candidate C,0,7,8,0
+U1343,Uasin Gishu,45-59,WhatsApp,Medium,Cost of Living,0.438,0.558,Undecided,0,0,3,0
+U1344,Nairobi,35-44,WhatsApp,Low,Cost of Living,0.535,0.256,Undecided,0,17,12,0
+U1345,Uasin Gishu,25-34,TikTok,High,Cost of Living,0.379,0.439,Undecided,0,4,7,0
+U1346,Nyeri,25-34,Facebook,Medium,Jobs,0.566,0.204,Candidate B,0,2,6,0
+U1347,Meru,25-34,Facebook,High,Cost of Living,0.687,0.117,Undecided,0,11,8,0
+U1348,Uasin Gishu,25-34,WhatsApp,Low,Jobs,0.225,0.013,Undecided,0,1,4,0
+U1349,Mombasa,25-34,Facebook,High,Education,0.642,0.443,Undecided,0,5,4,0
+U1350,Nakuru,60+,WhatsApp,Low,Education,0.338,0.185,Candidate B,0,5,4,0
+U1351,Kakamega,25-34,WhatsApp,Medium,Jobs,0.265,0.44,Candidate A,0,1,3,0
+U1352,Kiambu,25-34,WhatsApp,Low,Cost of Living,0.607,0.291,Undecided,0,2,6,0
+U1353,Nakuru,35-44,TikTok,Medium,Cost of Living,0.516,0.426,Undecided,0,3,11,0
+U1354,Machakos,25-34,WhatsApp,Low,Cost of Living,0.493,0.134,Undecided,0,2,2,0
+U1355,Nairobi,18-24,YouTube,High,Jobs,0.348,0.641,Candidate A,0,12,17,0
+U1356,Nakuru,35-44,Facebook,High,Cost of Living,0.597,0.248,Candidate B,0,3,7,0
+U1357,Kiambu,25-34,WhatsApp,Medium,Jobs,0.645,0.423,Undecided,0,8,11,0
+U1358,Mombasa,45-59,X,Low,Corruption,0.57,0.301,Undecided,0,6,14,0
+U1359,Kiambu,25-34,TikTok,Medium,Infrastructure,0.63,0.223,Candidate C,0,2,3,0
+U1360,Kiambu,35-44,TikTok,High,Healthcare,0.689,0.187,Candidate A,0,5,4,0
+U1361,Meru,60+,WhatsApp,Medium,Healthcare,0.667,0.365,Candidate B,0,2,7,0
+U1362,Mombasa,35-44,Facebook,High,Jobs,0.594,0.291,Candidate C,0,8,5,0
+U1363,Nairobi,25-34,TikTok,Medium,Cost of Living,0.428,0.073,Candidate A,0,10,7,0
+U1364,Nairobi,35-44,TikTok,Low,Education,0.467,0.345,Undecided,0,9,6,0
+U1365,Kiambu,18-24,Facebook,Low,Cost of Living,0.324,0.229,Undecided,0,2,4,0
+U1366,Kiambu,35-44,WhatsApp,Medium,Education,0.451,0.42,Candidate A,0,4,14,0
+U1367,Kakamega,45-59,WhatsApp,Low,Jobs,0.734,0.051,Candidate B,0,11,8,0
+U1368,Nairobi,60+,X,Medium,Cost of Living,0.383,0.36,Candidate B,0,4,2,0
+U1369,Meru,60+,Facebook,Medium,Corruption,0.452,0.843,Candidate A,1,7,10,0
+U1370,Machakos,25-34,Facebook,High,Jobs,0.447,0.241,Candidate A,0,1,3,0
+U1371,Kakamega,25-34,YouTube,Medium,Cost of Living,0.419,0.058,Undecided,0,6,5,0
+U1372,Nairobi,45-59,WhatsApp,High,Jobs,0.73,0.95,Candidate A,0,14,8,0
+U1373,Uasin Gishu,25-34,Facebook,High,Cost of Living,0.375,0.729,Undecided,0,4,5,0
+U1374,Kakamega,35-44,TikTok,High,Jobs,0.518,0.104,Undecided,0,3,2,0
+U1375,Mombasa,25-34,Facebook,High,Corruption,0.347,0.615,Candidate C,0,5,8,0
+U1376,Machakos,35-44,Facebook,High,Jobs,0.687,0.323,Undecided,0,7,9,0
+U1377,Meru,45-59,Facebook,High,Jobs,0.453,0.607,Candidate C,0,2,1,0
+U1378,Nakuru,45-59,YouTube,Medium,Jobs,0.379,0.249,Candidate B,0,2,6,0
+U1379,Kisumu,18-24,WhatsApp,High,Jobs,0.303,0.367,Candidate B,0,7,14,0
+U1380,Nakuru,18-24,TikTok,Medium,Jobs,0.266,0.124,Candidate A,0,1,7,0
+U1381,Kakamega,25-34,WhatsApp,Medium,Jobs,0.439,0.406,Candidate A,0,3,4,0
+U1382,Nyeri,60+,WhatsApp,High,Jobs,0.582,0.95,Candidate B,0,0,6,0
+U1383,Meru,60+,WhatsApp,Low,Cost of Living,0.236,0.25,Candidate B,0,4,3,0
+U1384,Kisumu,35-44,Facebook,Medium,Healthcare,0.605,0.128,Undecided,0,27,11,0
+U1385,Meru,45-59,TikTok,High,Education,0.696,0.372,Candidate A,0,3,3,0
+U1386,Nairobi,25-34,Facebook,Medium,Cost of Living,0.698,0.164,Candidate B,0,7,8,0
+U1387,Nairobi,45-59,Facebook,Low,Corruption,0.442,0.195,Candidate A,0,1,3,0
+U1388,Nakuru,45-59,Facebook,Medium,Education,0.44,0.139,Candidate C,0,3,4,0
+U1389,Nakuru,25-34,WhatsApp,High,Cost of Living,0.781,0.527,Undecided,0,0,4,0
+U1390,Machakos,35-44,TikTok,Low,Corruption,0.375,0.166,Undecided,0,6,6,0
+U1391,Uasin Gishu,45-59,TikTok,High,Corruption,0.605,0.467,Candidate B,0,20,10,0
+U1392,Nairobi,45-59,WhatsApp,Medium,Cost of Living,0.505,0.427,Undecided,0,7,3,0
+U1393,Kisumu,35-44,WhatsApp,Medium,Infrastructure,0.781,0.072,Candidate A,0,14,12,0
+U1394,Kakamega,25-34,Facebook,Low,Cost of Living,0.474,0.043,Candidate A,0,8,9,0
+U1395,Machakos,60+,Facebook,Low,Cost of Living,0.592,0.028,Candidate B,0,13,5,0
+U1396,Nairobi,45-59,TikTok,Low,Healthcare,0.196,0.332,Candidate B,0,7,2,0
+U1397,Nakuru,45-59,X,High,Corruption,0.538,0.248,Candidate A,0,6,6,0
+U1398,Meru,45-59,Facebook,Low,Jobs,0.498,0.248,Candidate A,0,5,3,0
+U1399,Kisumu,45-59,TikTok,Medium,Healthcare,0.487,0.282,Candidate C,0,3,4,0
+U1400,Meru,25-34,Facebook,Low,Education,0.339,0.294,Undecided,0,2,4,0
+U1401,Machakos,60+,TikTok,High,Cost of Living,0.697,0.503,Candidate C,0,3,7,0
+U1402,Mombasa,18-24,TikTok,Low,Cost of Living,0.613,0.122,Candidate B,0,0,6,0
+U1403,Kakamega,45-59,Facebook,Low,Cost of Living,0.622,0.056,Undecided,0,3,8,0
+U1404,Uasin Gishu,25-34,WhatsApp,Medium,Healthcare,0.535,0.103,Candidate B,0,2,6,0
+U1405,Nakuru,18-24,TikTok,Medium,Cost of Living,0.568,0.238,Candidate B,0,6,5,0
+U1406,Nairobi,45-59,TikTok,Low,Jobs,0.427,0.191,Candidate A,0,9,20,0
+U1407,Machakos,25-34,WhatsApp,Low,Jobs,0.483,0.157,Undecided,0,3,9,0
+U1408,Mombasa,25-34,Facebook,Low,Healthcare,0.6,0.269,Candidate A,0,0,5,0
+U1409,Machakos,18-24,X,Medium,Corruption,0.471,0.417,Candidate C,0,1,5,0
+U1410,Nyeri,18-24,TikTok,Low,Cost of Living,0.724,0.243,Undecided,0,4,6,0
+U1411,Nyeri,18-24,Facebook,Low,Education,0.397,0.059,Undecided,0,2,7,0
+U1412,Machakos,25-34,WhatsApp,High,Jobs,0.651,0.403,Candidate A,0,5,5,0
+U1413,Nairobi,18-24,Facebook,Medium,Jobs,0.612,0.448,Undecided,0,3,4,0
+U1414,Kiambu,25-34,TikTok,Low,Jobs,0.241,0.225,Undecided,0,5,10,0
+U1415,Kiambu,18-24,Facebook,Low,Cost of Living,0.249,0.116,Candidate A,0,2,2,0
+U1416,Machakos,60+,WhatsApp,High,Cost of Living,0.371,0.719,Undecided,0,7,5,0
+U1417,Mombasa,25-34,Facebook,High,Jobs,0.621,0.312,Candidate B,0,3,6,0
+U1418,Nairobi,45-59,Facebook,Medium,Cost of Living,0.454,0.068,Candidate A,0,5,6,0
+U1419,Mombasa,25-34,WhatsApp,Medium,Healthcare,0.341,0.153,Candidate C,0,1,8,0
+U1420,Machakos,35-44,X,Medium,Cost of Living,0.547,0.464,Undecided,0,2,6,0
+U1421,Nairobi,35-44,TikTok,Low,Jobs,0.389,0.075,Candidate A,0,12,9,0
+U1422,Kiambu,18-24,Facebook,High,Jobs,0.481,0.282,Undecided,0,1,2,0
+U1423,Kakamega,25-34,TikTok,High,Jobs,0.908,0.16,Candidate A,0,14,8,0
+U1424,Kiambu,45-59,TikTok,High,Cost of Living,0.542,0.538,Undecided,0,7,4,0
+U1425,Kiambu,45-59,YouTube,Low,Cost of Living,0.329,0.064,Undecided,0,3,2,0
+U1426,Kakamega,18-24,WhatsApp,Low,Jobs,0.641,0.299,Candidate B,0,1,2,0
+U1427,Mombasa,25-34,WhatsApp,Low,Cost of Living,0.472,0.174,Candidate B,0,3,9,0
+U1428,Nakuru,35-44,Facebook,Low,Jobs,0.362,0.314,Candidate B,0,4,4,0
+U1429,Nakuru,18-24,TikTok,Medium,Education,0.709,0.284,Undecided,0,13,9,0
+U1430,Nairobi,45-59,WhatsApp,Medium,Cost of Living,0.602,0.109,Candidate A,0,3,6,0
+U1431,Kakamega,25-34,WhatsApp,Low,Jobs,0.348,0.217,Undecided,0,7,5,0
+U1432,Mombasa,25-34,Facebook,Medium,Healthcare,0.387,0.639,Undecided,0,5,6,0
+U1433,Machakos,35-44,TikTok,Medium,Healthcare,0.391,0.198,Candidate C,0,4,1,0
+U1434,Kakamega,25-34,WhatsApp,Medium,Education,0.677,0.62,Candidate B,0,0,1,0
+U1435,Mombasa,45-59,Facebook,Low,Jobs,0.58,0.178,Candidate C,0,5,4,0
+U1436,Kiambu,25-34,Facebook,Medium,Jobs,0.719,0.15,Undecided,0,4,9,0
+U1437,Nairobi,25-34,WhatsApp,Low,Jobs,0.29,0.025,Candidate B,0,8,3,0
+U1438,Nyeri,25-34,Facebook,High,Education,0.467,0.335,Candidate A,0,2,6,0
+U1439,Meru,35-44,WhatsApp,Low,Jobs,0.363,0.332,Candidate C,0,2,6,0
+U1440,Nakuru,60+,Facebook,Medium,Jobs,0.474,0.499,Undecided,0,2,3,0
+U1441,Nairobi,60+,Facebook,Medium,Jobs,0.471,0.099,Candidate A,0,1,5,0
+U1442,Nairobi,35-44,WhatsApp,Medium,Jobs,0.684,0.304,Candidate A,0,3,3,0
+U1443,Kiambu,45-59,Facebook,Medium,Jobs,0.534,0.363,Undecided,0,4,8,0
+U1444,Kakamega,60+,TikTok,Low,Healthcare,0.614,0.252,Undecided,0,6,9,0
+U1445,Nairobi,45-59,WhatsApp,Medium,Corruption,0.444,0.346,Candidate A,0,2,7,0
+U1446,Meru,45-59,Facebook,Low,Education,0.698,0.274,Candidate A,0,6,4,0
+U1447,Nairobi,18-24,TikTok,Medium,Cost of Living,0.52,0.538,Candidate A,0,8,2,0
+U1448,Nakuru,18-24,X,Medium,Jobs,0.564,0.211,Undecided,0,1,3,0
+U1449,Machakos,60+,YouTube,High,Cost of Living,0.448,0.22,Undecided,0,4,7,0
+U1450,Mombasa,35-44,WhatsApp,Medium,Cost of Living,0.596,0.467,Candidate A,0,2,4,0
+U1451,Mombasa,45-59,X,High,Cost of Living,0.864,0.569,Undecided,0,5,8,0
+U1452,Kiambu,60+,Facebook,Medium,Healthcare,0.549,0.204,Undecided,0,7,6,0
+U1453,Machakos,25-34,YouTube,Low,Cost of Living,0.608,0.084,Candidate B,0,0,2,0
+U1454,Kisumu,35-44,WhatsApp,High,Education,0.461,0.383,Candidate C,0,8,7,0
+U1455,Kakamega,18-24,TikTok,Low,Cost of Living,0.609,0.15,Candidate C,0,2,3,0
+U1456,Nakuru,35-44,TikTok,Medium,Corruption,0.476,0.199,Undecided,0,9,15,0
+U1457,Machakos,25-34,Facebook,Medium,Cost of Living,0.433,0.394,Candidate B,0,13,6,0
+U1458,Nairobi,35-44,Facebook,Low,Jobs,0.152,0.295,Candidate C,0,3,8,0
+U1459,Kisumu,45-59,WhatsApp,Low,Cost of Living,0.502,0.446,Candidate A,0,5,5,0
+U1460,Mombasa,25-34,Facebook,Medium,Jobs,0.525,0.609,Undecided,0,7,7,0
+U1461,Nairobi,35-44,X,Medium,Corruption,0.6,0.039,Candidate A,0,7,6,0
+U1462,Mombasa,25-34,TikTok,Low,Cost of Living,0.475,0.12,Undecided,0,28,12,0
+U1463,Nairobi,35-44,Facebook,High,Cost of Living,0.328,0.336,Candidate A,0,3,3,0
+U1464,Nairobi,35-44,WhatsApp,Medium,Cost of Living,0.553,0.242,Undecided,0,1,1,0
+U1465,Kiambu,35-44,WhatsApp,Medium,Jobs,0.601,0.374,Candidate A,0,10,12,0
+U1466,Mombasa,18-24,WhatsApp,High,Cost of Living,0.656,0.95,Candidate B,0,0,7,0
+U1467,Nakuru,35-44,WhatsApp,Medium,Jobs,0.649,0.46,Candidate B,0,4,3,0
+U1468,Nakuru,25-34,X,Low,Jobs,0.288,0.053,Candidate A,1,23,11,0
+U1469,Meru,25-34,YouTube,Low,Cost of Living,0.533,0.076,Candidate C,0,1,2,0
+U1470,Kakamega,25-34,WhatsApp,Low,Healthcare,0.477,0.26,Candidate B,0,1,7,0
+U1471,Nairobi,25-34,WhatsApp,Medium,Education,0.52,0.582,Candidate A,0,1,6,0
+U1472,Nakuru,35-44,Facebook,High,Cost of Living,0.51,0.95,Candidate B,0,3,5,0
+U1473,Kiambu,60+,YouTube,Medium,Jobs,0.526,0.092,Candidate A,0,1,1,0
+U1474,Nyeri,45-59,WhatsApp,Medium,Education,0.709,0.599,Undecided,0,10,4,0
+U1475,Kiambu,60+,X,Medium,Jobs,0.606,0.29,Undecided,0,3,5,0
+U1476,Mombasa,35-44,WhatsApp,Medium,Healthcare,0.447,0.417,Candidate C,0,6,7,0
+U1477,Uasin Gishu,18-24,Facebook,Medium,Cost of Living,0.783,0.229,Candidate C,0,1,3,0
+U1478,Nairobi,35-44,Facebook,Medium,Jobs,0.597,0.1,Candidate B,0,4,3,0
+U1479,Nyeri,25-34,Facebook,Medium,Infrastructure,0.712,0.496,Candidate B,0,3,6,0
+U1480,Meru,60+,YouTube,Medium,Cost of Living,0.709,0.262,Candidate C,0,2,8,0
+U1481,Nairobi,45-59,Facebook,Medium,Cost of Living,0.606,0.291,Undecided,0,5,7,0
+U1482,Meru,18-24,Facebook,Medium,Cost of Living,0.467,0.258,Candidate C,0,0,3,0
+U1483,Nairobi,45-59,WhatsApp,Medium,Infrastructure,0.642,0.427,Candidate B,0,4,6,0
+U1484,Kisumu,18-24,Facebook,High,Infrastructure,0.266,0.166,Candidate C,0,4,4,0
+U1485,Machakos,45-59,Facebook,Medium,Cost of Living,0.759,0.489,Candidate A,0,2,6,0
+U1486,Nairobi,18-24,Facebook,Medium,Cost of Living,0.213,0.157,Candidate A,0,3,3,0
+U1487,Machakos,60+,Facebook,Low,Healthcare,0.567,0.342,Candidate B,0,1,3,0
+U1488,Kakamega,35-44,Facebook,Medium,Cost of Living,0.698,0.201,Undecided,0,22,5,0
+U1489,Nairobi,18-24,WhatsApp,Low,Education,0.589,0.187,Candidate B,0,3,4,0
+U1490,Nyeri,35-44,WhatsApp,Low,Education,0.738,0.282,Undecided,0,9,12,0
+U1491,Uasin Gishu,18-24,Facebook,Low,Cost of Living,0.337,0.091,Candidate B,0,13,8,0
+U1492,Kakamega,25-34,WhatsApp,Low,Jobs,0.502,0.234,Undecided,0,1,3,0
+U1493,Nairobi,35-44,WhatsApp,Medium,Cost of Living,0.4,0.31,Candidate B,0,5,5,0
+U1494,Kiambu,18-24,YouTube,Low,Cost of Living,0.475,0.173,Undecided,0,0,4,0
+U1495,Kiambu,25-34,WhatsApp,Medium,Cost of Living,0.659,0.641,Candidate A,0,3,3,0
+U1496,Kiambu,45-59,WhatsApp,Low,Cost of Living,0.376,0.248,Undecided,0,6,5,0
+U1497,Mombasa,35-44,X,High,Cost of Living,0.47,0.266,Candidate A,0,5,9,0
+U1498,Machakos,35-44,WhatsApp,Medium,Jobs,0.465,0.385,Undecided,0,8,6,0
+U1499,Nairobi,35-44,WhatsApp,Low,Cost of Living,0.436,0.047,Undecided,0,2,4,0
+U1500,Nairobi,25-34,YouTube,Medium,Education,0.513,0.147,Candidate A,0,5,10,0
+U1501,Nyeri,35-44,WhatsApp,Medium,Healthcare,0.581,0.418,Candidate B,0,4,9,0
+U1502,Nairobi,25-34,WhatsApp,Low,Jobs,0.224,0.065,Candidate B,0,1,7,0
+U1503,Meru,35-44,WhatsApp,Low,Healthcare,0.256,0.35,Candidate C,0,1,7,0
+U1504,Nairobi,18-24,X,Medium,Jobs,0.283,0.242,Candidate B,0,8,3,0
+U1505,Kisumu,35-44,TikTok,Medium,Cost of Living,0.64,0.634,Undecided,0,2,4,0
+U1506,Kiambu,35-44,TikTok,High,Cost of Living,0.628,0.292,Candidate A,0,4,9,0
+U1507,Meru,35-44,YouTube,Low,Infrastructure,0.478,0.097,Candidate A,0,0,5,0
+U1508,Kisumu,18-24,WhatsApp,High,Jobs,0.467,0.438,Candidate A,0,2,4,0
+U1509,Machakos,45-59,WhatsApp,High,Healthcare,0.866,0.427,Undecided,0,7,6,0
+U1510,Kisumu,60+,TikTok,Medium,Healthcare,0.665,0.303,Candidate B,0,9,13,0
+U1511,Uasin Gishu,45-59,WhatsApp,High,Jobs,0.787,0.592,Undecided,0,1,4,0
+U1512,Nyeri,18-24,YouTube,Low,Cost of Living,0.653,0.149,Undecided,0,2,4,0
+U1513,Nakuru,25-34,WhatsApp,Low,Cost of Living,0.399,0.362,Candidate B,0,11,10,0
+U1514,Nyeri,18-24,TikTok,Medium,Cost of Living,0.441,0.187,Candidate B,0,26,10,0
+U1515,Mombasa,35-44,Facebook,Low,Education,0.521,0.044,Undecided,0,2,6,0
+U1516,Nakuru,18-24,TikTok,High,Corruption,0.615,0.509,Undecided,1,44,23,0
+U1517,Nairobi,25-34,Facebook,Medium,Cost of Living,0.677,0.274,Undecided,0,22,12,0
+U1518,Kiambu,25-34,TikTok,Medium,Jobs,0.597,0.376,Candidate C,0,25,10,0
+U1519,Nairobi,25-34,WhatsApp,Medium,Healthcare,0.634,0.114,Undecided,0,4,6,0
+U1520,Nairobi,45-59,WhatsApp,Medium,Cost of Living,0.614,0.149,Candidate A,0,4,9,0
+U1521,Meru,18-24,TikTok,Medium,Corruption,0.694,0.141,Candidate B,0,16,5,0
+U1522,Nyeri,25-34,TikTok,Medium,Jobs,0.499,0.236,Candidate B,0,2,8,0
+U1523,Meru,35-44,TikTok,High,Education,0.197,0.423,Candidate A,0,6,4,0
+U1524,Nakuru,25-34,Facebook,High,Education,0.742,0.634,Candidate B,0,18,11,0
+U1525,Nairobi,18-24,TikTok,Low,Cost of Living,0.601,0.271,Candidate A,0,9,11,0
+U1526,Nairobi,18-24,WhatsApp,Low,Cost of Living,0.433,0.251,Undecided,0,2,4,0
+U1527,Kiambu,45-59,WhatsApp,Medium,Infrastructure,0.638,0.01,Candidate A,0,4,8,0
+U1528,Meru,25-34,WhatsApp,Low,Jobs,0.613,0.287,Candidate C,0,1,5,0
+U1529,Kakamega,45-59,WhatsApp,Medium,Cost of Living,0.53,0.16,Undecided,0,3,5,0
+U1530,Nyeri,25-34,Facebook,High,Corruption,0.719,0.339,Candidate B,0,6,5,0
+U1531,Mombasa,35-44,Facebook,Low,Cost of Living,0.584,0.183,Undecided,0,2,10,0
+U1532,Machakos,25-34,WhatsApp,Low,Corruption,0.395,0.078,Undecided,0,3,7,0
+U1533,Mombasa,18-24,Facebook,Medium,Healthcare,0.865,0.152,Undecided,0,3,7,0
+U1534,Kiambu,35-44,YouTube,Medium,Healthcare,0.367,0.314,Candidate A,0,3,6,0
+U1535,Nairobi,35-44,Facebook,Medium,Education,0.357,0.279,Candidate A,0,6,5,0
+U1536,Nairobi,45-59,Facebook,Medium,Healthcare,0.704,0.113,Candidate A,0,9,6,0
+U1537,Mombasa,25-34,WhatsApp,High,Healthcare,0.429,0.346,Candidate B,0,1,8,0
+U1538,Nairobi,35-44,Facebook,Low,Cost of Living,0.449,0.074,Candidate A,0,2,6,0
+U1539,Nairobi,25-34,X,Low,Education,0.449,0.068,Candidate A,0,5,3,0
+U1540,Nakuru,60+,Facebook,Medium,Corruption,0.376,0.334,Candidate C,0,1,6,0
+U1541,Kakamega,18-24,YouTube,Medium,Cost of Living,0.629,0.034,Candidate A,0,3,3,0
+U1542,Machakos,35-44,WhatsApp,Low,Jobs,0.224,0.238,Undecided,0,1,8,0
+U1543,Nakuru,18-24,WhatsApp,High,Jobs,0.781,0.341,Candidate B,0,0,4,0
+U1544,Meru,45-59,WhatsApp,High,Healthcare,0.524,0.626,Candidate C,0,2,2,0
+U1545,Meru,25-34,WhatsApp,Low,Jobs,0.328,0.239,Undecided,0,6,8,0
+U1546,Nairobi,45-59,X,Medium,Cost of Living,0.75,0.07,Candidate A,0,1,1,0
+U1547,Machakos,45-59,Facebook,High,Jobs,0.695,0.224,Candidate A,0,0,6,0
+U1548,Kisumu,35-44,WhatsApp,Medium,Cost of Living,0.847,0.1,Candidate C,0,32,13,0
+U1549,Mombasa,60+,Facebook,Medium,Jobs,0.544,0.221,Undecided,0,6,7,0
+U1550,Nairobi,25-34,Facebook,Medium,Education,0.516,0.362,Candidate A,0,5,11,0
+U1551,Nairobi,35-44,YouTube,Low,Education,0.462,0.146,Undecided,0,8,5,0
+U1552,Kakamega,25-34,WhatsApp,Medium,Jobs,0.558,0.492,Undecided,0,0,3,0
+U1553,Kakamega,35-44,WhatsApp,Medium,Jobs,0.407,0.792,Candidate A,0,1,6,0
+U1554,Kisumu,35-44,TikTok,Medium,Cost of Living,0.523,0.539,Undecided,0,9,4,0
+U1555,Kakamega,60+,WhatsApp,Medium,Cost of Living,0.479,0.079,Candidate B,0,11,9,0
+U1556,Nairobi,25-34,TikTok,High,Jobs,0.673,0.511,Candidate A,1,9,6,0
+U1557,Kakamega,35-44,TikTok,Low,Cost of Living,0.378,0.211,Undecided,0,3,5,0
+U1558,Kakamega,45-59,TikTok,High,Jobs,0.843,0.416,Candidate A,0,5,3,0
+U1559,Kisumu,45-59,TikTok,Medium,Jobs,0.232,0.369,Undecided,0,3,3,0
+U1560,Kiambu,45-59,TikTok,High,Jobs,0.436,0.95,Undecided,0,0,4,0
+U1561,Nairobi,60+,Facebook,Low,Corruption,0.669,0.018,Undecided,0,2,3,0
+U1562,Kakamega,45-59,WhatsApp,High,Healthcare,0.358,0.077,Undecided,0,2,5,0
+U1563,Machakos,18-24,Facebook,Medium,Healthcare,0.639,0.021,Candidate A,0,18,6,0
+U1564,Mombasa,25-34,Facebook,Medium,Cost of Living,0.522,0.163,Candidate C,0,4,13,0
+U1565,Kakamega,45-59,X,Medium,Healthcare,0.24,0.47,Candidate A,0,2,4,0
+U1566,Kiambu,45-59,Facebook,High,Healthcare,0.77,0.259,Candidate C,0,4,4,0
+U1567,Kiambu,35-44,Facebook,Medium,Cost of Living,0.129,0.293,Candidate B,0,4,11,0
+U1568,Mombasa,25-34,WhatsApp,Medium,Cost of Living,0.728,0.295,Candidate B,0,10,9,0
+U1569,Kakamega,45-59,WhatsApp,High,Jobs,0.569,0.19,Undecided,0,11,6,0
+U1570,Nairobi,60+,Facebook,High,Jobs,0.402,0.667,Candidate A,0,5,7,0
+U1571,Machakos,60+,TikTok,Medium,Cost of Living,0.249,0.217,Undecided,0,1,7,0
+U1572,Mombasa,45-59,Facebook,High,Jobs,0.73,0.5,Undecided,0,13,5,0
+U1573,Kiambu,35-44,WhatsApp,High,Jobs,0.622,0.95,Candidate B,0,4,9,0
+U1574,Meru,60+,Facebook,Medium,Cost of Living,0.445,0.499,Candidate A,0,18,6,0
+U1575,Kiambu,45-59,Facebook,High,Jobs,0.28,0.444,Candidate C,0,5,5,0
+U1576,Meru,60+,Facebook,Medium,Cost of Living,0.395,0.357,Candidate C,0,1,3,0
+U1577,Kakamega,18-24,WhatsApp,Low,Cost of Living,0.569,0.183,Undecided,0,1,1,0
+U1578,Nairobi,25-34,X,Medium,Cost of Living,0.268,0.109,Candidate C,0,3,9,0
+U1579,Kiambu,35-44,WhatsApp,Medium,Jobs,0.373,0.508,Undecided,0,8,5,0
+U1580,Nakuru,45-59,X,Low,Jobs,0.47,0.156,Candidate B,0,5,3,0
+U1581,Kiambu,25-34,TikTok,Low,Cost of Living,0.32,0.077,Candidate B,0,3,7,0
+U1582,Meru,45-59,Facebook,Medium,Jobs,0.514,0.586,Candidate C,0,11,3,0
+U1583,Kiambu,45-59,X,Medium,Jobs,0.437,0.215,Undecided,0,10,5,0
+U1584,Kiambu,45-59,TikTok,Medium,Cost of Living,0.521,0.487,Undecided,0,4,9,0
+U1585,Uasin Gishu,35-44,Facebook,Low,Cost of Living,0.368,0.073,Candidate C,0,28,19,0
+U1586,Nyeri,45-59,TikTok,Medium,Education,0.529,0.23,Undecided,0,7,3,0
+U1587,Kisumu,35-44,Facebook,Medium,Jobs,0.383,0.235,Candidate C,0,3,5,0
+U1588,Machakos,45-59,WhatsApp,Low,Education,0.463,0.154,Undecided,0,13,16,0
+U1589,Nairobi,18-24,Facebook,Medium,Corruption,0.535,0.339,Candidate B,0,0,4,0
+U1590,Kiambu,18-24,YouTube,Low,Jobs,0.34,0.042,Undecided,0,3,5,0
+U1591,Kisumu,18-24,WhatsApp,Low,Jobs,0.649,0.156,Undecided,0,3,8,0
+U1592,Nairobi,25-34,Facebook,Low,Cost of Living,0.472,0.184,Undecided,0,2,5,0
+U1593,Kisumu,25-34,WhatsApp,Medium,Cost of Living,0.344,0.383,Undecided,0,2,11,0
+U1594,Kiambu,45-59,TikTok,Medium,Jobs,0.349,0.412,Undecided,0,2,3,0
+U1595,Kisumu,18-24,YouTube,Medium,Cost of Living,0.537,0.213,Undecided,0,2,4,0
+U1596,Nairobi,45-59,TikTok,High,Jobs,0.664,0.132,Candidate A,0,1,8,0
+U1597,Nakuru,25-34,WhatsApp,Low,Cost of Living,0.666,0.243,Candidate C,0,1,2,0
+U1598,Kakamega,35-44,WhatsApp,High,Infrastructure,0.565,0.807,Candidate A,0,7,5,0
+U1599,Nakuru,25-34,Facebook,Medium,Cost of Living,0.569,0.14,Candidate B,0,4,6,0
+U1600,Nakuru,45-59,YouTube,Low,Education,0.636,0.027,Candidate B,0,6,4,0
+U1601,Nakuru,25-34,Facebook,Low,Corruption,0.405,0.014,Candidate C,0,10,6,0
+U1602,Mombasa,25-34,TikTok,Medium,Jobs,0.477,0.239,Candidate A,0,6,7,0
+U1603,Nairobi,25-34,Facebook,Medium,Corruption,0.592,0.066,Candidate B,0,3,6,0
+U1604,Nairobi,25-34,Facebook,Medium,Cost of Living,0.543,0.078,Candidate A,0,2,9,0
+U1605,Nairobi,45-59,Facebook,Medium,Education,0.559,0.358,Candidate B,0,2,5,0
+U1606,Kakamega,25-34,TikTok,Low,Healthcare,0.472,0.206,Candidate B,0,4,7,0
+U1607,Kakamega,25-34,Facebook,Medium,Cost of Living,0.4,0.101,Undecided,0,4,9,0
+U1608,Machakos,25-34,TikTok,High,Jobs,0.421,0.56,Candidate C,0,6,8,0
+U1609,Meru,45-59,TikTok,Low,Cost of Living,0.299,0.299,Undecided,0,7,5,0
+U1610,Kisumu,25-34,TikTok,Medium,Jobs,0.475,0.267,Candidate A,0,2,4,0
+U1611,Nairobi,60+,Facebook,High,Jobs,0.59,0.26,Undecided,0,1,3,0
+U1612,Nakuru,35-44,TikTok,Medium,Cost of Living,0.55,0.366,Candidate C,0,4,5,0
+U1613,Kiambu,45-59,TikTok,Medium,Healthcare,0.548,0.378,Candidate A,0,3,7,0
+U1614,Nakuru,45-59,WhatsApp,Low,Cost of Living,0.589,0.155,Undecided,0,5,15,0
+U1615,Meru,45-59,Facebook,Medium,Jobs,0.52,0.165,Candidate B,0,13,7,0
+U1616,Kiambu,35-44,Facebook,Medium,Cost of Living,0.469,0.295,Candidate A,0,5,10,0
+U1617,Kisumu,60+,YouTube,Low,Education,0.173,0.194,Candidate A,0,2,4,0
+U1618,Kiambu,25-34,TikTok,Low,Cost of Living,0.769,0.138,Candidate A,0,1,5,0
+U1619,Nairobi,35-44,TikTok,Medium,Cost of Living,0.124,0.272,Candidate B,0,3,4,0
+U1620,Nairobi,45-59,Facebook,High,Cost of Living,0.563,0.475,Candidate A,0,9,6,0
+U1621,Kiambu,18-24,YouTube,High,Corruption,0.478,0.134,Candidate A,0,3,10,0
+U1622,Kakamega,45-59,TikTok,Low,Healthcare,0.647,0.043,Candidate A,1,7,6,0
+U1623,Kiambu,18-24,Facebook,High,Cost of Living,0.58,0.407,Undecided,0,1,3,0
+U1624,Nakuru,60+,WhatsApp,Medium,Jobs,0.474,0.277,Candidate B,0,6,6,0
+U1625,Meru,35-44,WhatsApp,Medium,Healthcare,0.392,0.401,Candidate B,0,1,8,0
+U1626,Kiambu,35-44,Facebook,Low,Cost of Living,0.141,0.179,Candidate A,0,2,4,0
+U1627,Uasin Gishu,60+,Facebook,Medium,Corruption,0.548,0.211,Candidate B,0,2,5,0
+U1628,Machakos,35-44,TikTok,Medium,Jobs,0.275,0.18,Candidate A,0,14,6,0
+U1629,Nairobi,35-44,X,Low,Healthcare,0.196,0.186,Candidate A,0,4,2,0
+U1630,Nairobi,25-34,Facebook,High,Corruption,0.631,0.475,Candidate A,0,2,3,0
+U1631,Kiambu,35-44,TikTok,Low,Education,0.335,0.109,Candidate C,0,4,6,0
+U1632,Nairobi,25-34,Facebook,Medium,Jobs,0.554,0.568,Candidate A,0,10,5,0
+U1633,Kisumu,25-34,TikTok,Medium,Cost of Living,0.509,0.412,Candidate A,0,7,6,0
+U1634,Kisumu,60+,WhatsApp,Medium,Education,0.322,0.668,Candidate B,0,11,6,0
+U1635,Kiambu,45-59,TikTok,Low,Jobs,0.451,0.224,Undecided,0,53,11,0
+U1636,Kisumu,35-44,YouTube,High,Healthcare,0.616,0.257,Candidate A,0,4,6,0
+U1637,Nakuru,25-34,WhatsApp,Medium,Education,0.373,0.456,Candidate C,0,2,1,0
+U1638,Kakamega,45-59,Facebook,Medium,Healthcare,0.41,0.299,Candidate A,0,3,1,0
+U1639,Kiambu,60+,TikTok,High,Education,0.566,0.396,Candidate A,0,3,8,0
+U1640,Uasin Gishu,60+,Facebook,High,Education,0.455,0.143,Candidate C,0,1,5,0
+U1641,Nairobi,35-44,YouTube,High,Jobs,0.654,0.279,Candidate A,0,5,10,0
+U1642,Mombasa,18-24,WhatsApp,Medium,Jobs,0.707,0.549,Candidate A,1,3,9,0
+U1643,Nairobi,35-44,WhatsApp,Medium,Jobs,0.453,0.136,Undecided,0,19,8,0
+U1644,Kiambu,45-59,Facebook,Medium,Education,0.799,0.507,Undecided,0,11,11,0
+U1645,Kiambu,45-59,WhatsApp,Medium,Healthcare,0.104,0.431,Undecided,0,1,5,0
+U1646,Nyeri,25-34,TikTok,High,Cost of Living,0.394,0.516,Undecided,0,9,4,0
+U1647,Kiambu,25-34,Facebook,High,Jobs,0.486,0.95,Candidate A,0,1,4,0
+U1648,Nakuru,60+,WhatsApp,High,Corruption,0.749,0.342,Candidate A,0,2,4,0
+U1649,Nairobi,60+,Facebook,High,Education,0.637,0.405,Candidate B,0,5,6,0
+U1650,Kisumu,45-59,YouTube,Low,Cost of Living,0.442,0.177,Undecided,0,4,6,0
+U1651,Nairobi,60+,TikTok,Medium,Cost of Living,0.408,0.108,Candidate A,0,12,5,0
+U1652,Nairobi,35-44,Facebook,Low,Jobs,0.569,0.26,Candidate C,0,6,7,0
+U1653,Kakamega,18-24,TikTok,Low,Jobs,0.461,0.133,Undecided,0,1,5,0
+U1654,Kiambu,25-34,YouTube,Medium,Jobs,0.579,0.059,Candidate C,0,5,4,0
+U1655,Nakuru,25-34,TikTok,Low,Jobs,0.55,0.356,Undecided,0,3,4,0
+U1656,Nairobi,60+,WhatsApp,Medium,Cost of Living,0.425,0.581,Candidate B,0,1,4,0
+U1657,Meru,35-44,WhatsApp,Low,Jobs,0.371,0.424,Candidate B,0,4,6,0
+U1658,Kakamega,45-59,TikTok,Medium,Cost of Living,0.26,0.461,Undecided,0,1,2,0
+U1659,Nairobi,25-34,WhatsApp,High,Jobs,0.501,0.332,Candidate A,0,12,7,0
+U1660,Meru,45-59,Facebook,Low,Corruption,0.433,0.029,Undecided,0,1,5,0
+U1661,Kakamega,18-24,Facebook,Medium,Jobs,0.284,0.166,Undecided,0,3,5,0
+U1662,Machakos,60+,Facebook,Medium,Education,0.531,0.388,Candidate B,0,3,11,0
+U1663,Nairobi,18-24,X,Low,Corruption,0.407,0.109,Candidate B,0,28,9,0
+U1664,Nairobi,35-44,X,Medium,Cost of Living,0.372,0.08,Candidate C,0,13,7,0
+U1665,Meru,60+,Facebook,Low,Jobs,0.422,0.512,Undecided,0,2,10,0
+U1666,Machakos,18-24,Facebook,Medium,Education,0.53,0.21,Candidate A,0,1,4,0
+U1667,Machakos,25-34,YouTube,Low,Cost of Living,0.169,0.105,Undecided,0,82,22,0
+U1668,Kakamega,60+,WhatsApp,Low,Cost of Living,0.583,0.289,Undecided,0,1,2,0
+U1669,Nyeri,60+,WhatsApp,Medium,Education,0.687,0.145,Undecided,0,2,3,0
+U1670,Machakos,60+,TikTok,Medium,Education,0.623,0.259,Undecided,0,2,9,0
+U1671,Mombasa,25-34,WhatsApp,High,Cost of Living,0.667,0.765,Candidate A,0,3,5,0
+U1672,Nairobi,45-59,X,Medium,Healthcare,0.763,0.067,Candidate A,0,19,9,0
+U1673,Uasin Gishu,45-59,X,Medium,Healthcare,0.459,0.14,Undecided,0,4,1,0
+U1674,Nairobi,60+,TikTok,Low,Education,0.52,0.355,Candidate B,0,4,10,0
+U1675,Meru,18-24,WhatsApp,Medium,Jobs,0.358,0.198,Candidate C,0,5,6,0
+U1676,Nairobi,45-59,Facebook,Medium,Cost of Living,0.52,0.246,Candidate B,0,5,8,0
+U1677,Nairobi,25-34,TikTok,Low,Education,0.432,0.203,Candidate A,0,3,3,0
+U1678,Mombasa,25-34,Facebook,Medium,Corruption,0.22,0.122,Undecided,0,2,5,0
+U1679,Kisumu,25-34,WhatsApp,Medium,Jobs,0.365,0.641,Candidate C,0,1,5,0
+U1680,Mombasa,18-24,TikTok,Low,Education,0.44,0.114,Undecided,0,3,5,0
+U1681,Kisumu,45-59,Facebook,Low,Cost of Living,0.271,0.077,Candidate A,0,3,6,0
+U1682,Nakuru,25-34,WhatsApp,High,Healthcare,0.761,0.187,Candidate B,0,2,4,0
+U1683,Nairobi,35-44,Facebook,Low,Healthcare,0.453,0.156,Candidate B,0,6,4,0
+U1684,Nairobi,18-24,Facebook,Medium,Cost of Living,0.521,0.599,Candidate A,0,16,4,0
+U1685,Nakuru,45-59,TikTok,Medium,Cost of Living,0.704,0.295,Undecided,1,45,16,0
+U1686,Meru,35-44,X,Low,Cost of Living,0.25,0.081,Undecided,0,22,10,0
+U1687,Mombasa,25-34,YouTube,High,Jobs,0.59,0.156,Candidate A,0,3,4,0
+U1688,Kakamega,35-44,WhatsApp,Low,Healthcare,0.239,0.176,Candidate B,0,9,7,0
+U1689,Machakos,25-34,Facebook,Low,Corruption,0.386,0.278,Candidate A,0,7,4,0
+U1690,Nairobi,60+,Facebook,High,Jobs,0.401,0.375,Candidate A,0,3,7,0
+U1691,Nairobi,45-59,WhatsApp,Low,Cost of Living,0.509,0.12,Candidate A,0,6,5,0
+U1692,Kiambu,18-24,X,Low,Corruption,0.639,0.011,Candidate A,0,4,10,0
+U1693,Nairobi,18-24,WhatsApp,Medium,Cost of Living,0.494,0.387,Candidate C,0,3,6,0
+U1694,Uasin Gishu,45-59,Facebook,Medium,Cost of Living,0.631,0.029,Candidate C,0,1,1,0
+U1695,Nairobi,45-59,Facebook,High,Corruption,0.441,0.477,Candidate A,0,1,4,0
+U1696,Nairobi,25-34,WhatsApp,Medium,Corruption,0.403,0.725,Undecided,0,3,5,0
+U1697,Uasin Gishu,18-24,Facebook,Low,Jobs,0.418,0.395,Undecided,0,3,5,0
+U1698,Kiambu,35-44,WhatsApp,High,Cost of Living,0.537,0.334,Candidate A,0,3,8,0
+U1699,Nakuru,25-34,WhatsApp,Medium,Jobs,0.81,0.265,Undecided,0,8,4,0
+U1700,Kakamega,45-59,WhatsApp,Medium,Healthcare,0.426,0.675,Undecided,0,4,16,0
+U1701,Kakamega,45-59,TikTok,High,Corruption,0.527,0.321,Undecided,0,1,2,0
+U1702,Nairobi,45-59,TikTok,High,Healthcare,0.568,0.316,Candidate A,0,5,7,0
+U1703,Kakamega,25-34,Facebook,Medium,Corruption,0.661,0.293,Undecided,0,0,6,0
+U1704,Machakos,45-59,WhatsApp,Medium,Corruption,0.527,0.931,Undecided,0,8,17,0
+U1705,Kiambu,25-34,Facebook,Medium,Cost of Living,0.359,0.414,Undecided,0,7,3,0
+U1706,Meru,18-24,Facebook,Low,Cost of Living,0.779,0.34,Undecided,0,3,3,0
+U1707,Kakamega,60+,WhatsApp,High,Healthcare,0.529,0.792,Undecided,0,4,7,0
+U1708,Nairobi,35-44,Facebook,Low,Corruption,0.431,0.064,Candidate A,0,4,5,0
+U1709,Meru,18-24,Facebook,Medium,Jobs,0.534,0.098,Undecided,0,4,5,0
+U1710,Kiambu,60+,WhatsApp,Medium,Jobs,0.524,0.106,Undecided,0,7,8,0
+U1711,Kiambu,45-59,X,High,Healthcare,0.325,0.308,Candidate A,0,3,22,0
+U1712,Meru,60+,X,High,Education,0.617,0.485,Candidate C,0,10,7,0
+U1713,Nairobi,18-24,WhatsApp,Medium,Education,0.59,0.302,Candidate A,0,2,5,0
+U1714,Nakuru,18-24,Facebook,Medium,Cost of Living,0.612,0.081,Candidate B,0,2,2,0
+U1715,Meru,35-44,X,Low,Healthcare,0.505,0.171,Candidate B,0,2,11,0
+U1716,Kakamega,25-34,WhatsApp,High,Jobs,0.609,0.637,Candidate A,0,4,4,0
+U1717,Nakuru,18-24,WhatsApp,Low,Infrastructure,0.497,0.247,Candidate C,0,24,5,0
+U1718,Uasin Gishu,18-24,X,Low,Healthcare,0.447,0.124,Candidate A,0,1,8,0
+U1719,Nairobi,35-44,WhatsApp,Low,Cost of Living,0.444,0.201,Candidate A,0,17,17,0
+U1720,Nakuru,35-44,Facebook,Medium,Infrastructure,0.421,0.192,Undecided,0,6,6,0
+U1721,Kisumu,18-24,WhatsApp,Medium,Cost of Living,0.411,0.245,Undecided,0,1,2,0
+U1722,Nairobi,45-59,WhatsApp,Medium,Jobs,0.415,0.221,Undecided,0,12,6,0
+U1723,Nairobi,35-44,YouTube,Low,Healthcare,0.32,0.155,Candidate A,0,10,9,0
+U1724,Kakamega,60+,TikTok,Low,Education,0.37,0.07,Candidate A,0,0,2,0
+U1725,Kiambu,18-24,Facebook,Low,Jobs,0.587,0.154,Candidate A,0,4,3,0
+U1726,Nairobi,60+,WhatsApp,Medium,Jobs,0.461,0.323,Candidate A,0,4,2,0
+U1727,Kakamega,45-59,WhatsApp,Medium,Jobs,0.144,0.151,Undecided,0,4,4,0
+U1728,Kakamega,35-44,WhatsApp,Low,Corruption,0.656,0.119,Candidate B,0,2,5,0
+U1729,Mombasa,25-34,Facebook,Medium,Jobs,0.711,0.208,Candidate A,0,1,4,0
+U1730,Nyeri,35-44,WhatsApp,High,Infrastructure,0.478,0.232,Candidate B,0,0,5,0
+U1731,Kakamega,35-44,YouTube,Medium,Healthcare,0.662,0.092,Candidate A,0,6,8,0
+U1732,Kisumu,45-59,Facebook,High,Jobs,0.608,0.375,Candidate A,0,9,11,0
+U1733,Nairobi,45-59,Facebook,High,Healthcare,0.441,0.298,Candidate B,0,2,8,0
+U1734,Kiambu,60+,YouTube,Medium,Education,0.505,0.139,Candidate B,0,13,10,0
+U1735,Nairobi,35-44,Facebook,Low,Healthcare,0.403,0.141,Undecided,0,9,6,0
+U1736,Mombasa,45-59,X,Medium,Infrastructure,0.148,0.093,Candidate A,0,5,5,0
+U1737,Machakos,25-34,Facebook,Low,Cost of Living,0.413,0.172,Undecided,0,1,6,0
+U1738,Meru,25-34,WhatsApp,Low,Jobs,0.343,0.452,Candidate C,0,5,7,0
+U1739,Nairobi,18-24,X,Medium,Cost of Living,0.594,0.252,Candidate B,0,11,8,0
+U1740,Nairobi,45-59,X,Medium,Healthcare,0.521,0.328,Candidate B,0,4,7,0
+U1741,Meru,35-44,WhatsApp,Medium,Cost of Living,0.47,0.155,Candidate A,0,4,3,0
+U1742,Meru,25-34,YouTube,Medium,Cost of Living,0.435,0.082,Candidate A,0,5,9,0
+U1743,Uasin Gishu,35-44,WhatsApp,Low,Cost of Living,0.487,0.168,Undecided,0,0,2,0
+U1744,Machakos,45-59,TikTok,Medium,Cost of Living,0.449,0.778,Candidate A,0,1,4,0
+U1745,Meru,60+,WhatsApp,High,Jobs,0.396,0.485,Candidate B,0,0,3,0
+U1746,Kakamega,35-44,WhatsApp,High,Jobs,0.277,0.231,Candidate B,0,0,2,0
+U1747,Nairobi,25-34,X,Medium,Jobs,0.444,0.313,Candidate A,0,0,3,0
+U1748,Mombasa,18-24,WhatsApp,Medium,Corruption,0.736,0.426,Undecided,0,1,3,0
+U1749,Nairobi,25-34,TikTok,Low,Healthcare,0.451,0.428,Candidate A,1,17,11,0
+U1750,Meru,35-44,X,Medium,Jobs,0.534,0.148,Candidate A,0,12,18,0
+U1751,Mombasa,45-59,Facebook,High,Corruption,0.385,0.619,Candidate B,0,3,5,0
+U1752,Nairobi,45-59,Facebook,Low,Infrastructure,0.583,0.163,Candidate A,0,8,5,0
+U1753,Machakos,25-34,YouTube,High,Cost of Living,0.666,0.229,Candidate A,0,6,8,0
+U1754,Uasin Gishu,35-44,WhatsApp,Medium,Cost of Living,0.301,0.205,Undecided,0,2,5,0
+U1755,Meru,35-44,Facebook,Medium,Education,0.41,0.281,Candidate B,0,4,1,0
+U1756,Meru,25-34,WhatsApp,Medium,Cost of Living,0.333,0.348,Candidate C,0,1,3,0
+U1757,Meru,18-24,Facebook,Low,Cost of Living,0.293,0.017,Candidate A,0,18,8,0
+U1758,Nairobi,35-44,WhatsApp,Medium,Cost of Living,0.758,0.151,Candidate A,0,4,4,0
+U1759,Kisumu,60+,X,Medium,Cost of Living,0.379,0.269,Candidate B,0,4,7,0
+U1760,Meru,35-44,Facebook,Low,Cost of Living,0.375,0.056,Candidate B,0,7,2,0
+U1761,Mombasa,35-44,WhatsApp,High,Education,0.617,0.95,Undecided,0,4,4,0
+U1762,Kisumu,35-44,Facebook,Medium,Cost of Living,0.532,0.343,Candidate C,0,2,6,0
+U1763,Kiambu,25-34,YouTube,Medium,Jobs,0.52,0.068,Undecided,0,50,17,0
+U1764,Nakuru,25-34,WhatsApp,Medium,Healthcare,0.614,0.19,Candidate C,1,5,8,0
+U1765,Kisumu,60+,WhatsApp,High,Jobs,0.451,0.193,Candidate C,0,6,10,0
+U1766,Nairobi,18-24,Facebook,Medium,Corruption,0.727,0.264,Candidate A,0,3,6,0
+U1767,Kiambu,25-34,Facebook,Medium,Jobs,0.617,0.329,Undecided,0,8,9,0
+U1768,Machakos,35-44,WhatsApp,Low,Cost of Living,0.344,0.071,Undecided,0,1,2,0
+U1769,Meru,25-34,WhatsApp,Low,Cost of Living,0.499,0.279,Candidate A,0,1,3,0
+U1770,Mombasa,18-24,WhatsApp,Medium,Cost of Living,0.613,0.661,Candidate B,0,1,5,0
+U1771,Kisumu,45-59,YouTube,High,Cost of Living,0.205,0.429,Undecided,0,2,7,0
+U1772,Mombasa,25-34,WhatsApp,High,Cost of Living,0.666,0.326,Candidate B,0,5,2,0
+U1773,Kakamega,45-59,X,Low,Cost of Living,0.335,0.104,Undecided,0,0,2,0
+U1774,Kakamega,45-59,WhatsApp,Medium,Infrastructure,0.583,0.266,Undecided,0,65,17,0
+U1775,Kakamega,25-34,Facebook,Low,Education,0.328,0.19,Candidate B,0,7,3,0
+U1776,Kiambu,25-34,TikTok,Medium,Education,0.61,0.18,Candidate C,0,2,13,0
+U1777,Nakuru,35-44,Facebook,Medium,Education,0.66,0.159,Candidate A,1,13,11,0
+U1778,Kisumu,25-34,Facebook,Low,Cost of Living,0.634,0.064,Candidate A,0,3,5,0
+U1779,Mombasa,18-24,Facebook,Low,Healthcare,0.066,0.26,Candidate B,0,2,3,0
+U1780,Kakamega,35-44,Facebook,Low,Jobs,0.378,0.07,Undecided,1,14,7,0
+U1781,Kakamega,35-44,X,Medium,Education,0.653,0.12,Undecided,0,8,10,0
+U1782,Machakos,25-34,TikTok,Medium,Cost of Living,0.308,0.158,Candidate A,0,7,7,0
+U1783,Nairobi,45-59,Facebook,High,Jobs,0.789,0.95,Candidate A,0,20,8,0
+U1784,Kiambu,18-24,WhatsApp,Low,Cost of Living,0.393,0.111,Candidate A,0,20,7,0
+U1785,Kisumu,35-44,YouTube,Medium,Healthcare,0.505,0.211,Candidate C,0,0,1,0
+U1786,Nakuru,45-59,Facebook,Medium,Cost of Living,0.658,0.311,Candidate C,0,4,8,0
+U1787,Kiambu,35-44,WhatsApp,Low,Cost of Living,0.377,0.145,Candidate A,0,1,6,0
+U1788,Meru,45-59,Facebook,Medium,Cost of Living,0.639,0.348,Candidate C,0,2,6,0
+U1789,Meru,25-34,TikTok,Low,Jobs,0.508,0.135,Candidate A,0,7,9,0
+U1790,Uasin Gishu,35-44,Facebook,High,Cost of Living,0.777,0.558,Candidate A,0,4,9,0
+U1791,Uasin Gishu,60+,WhatsApp,Low,Jobs,0.542,0.272,Candidate B,0,6,7,0
+U1792,Nyeri,45-59,X,Medium,Education,0.337,0.217,Undecided,0,5,4,0
+U1793,Kiambu,60+,Facebook,Low,Corruption,0.442,0.095,Candidate A,0,13,8,0
+U1794,Kisumu,18-24,Facebook,Low,Infrastructure,0.359,0.082,Undecided,0,6,2,0
+U1795,Nairobi,25-34,WhatsApp,Medium,Cost of Living,0.605,0.349,Candidate A,0,9,10,0
+U1796,Kiambu,25-34,WhatsApp,Medium,Education,0.408,0.125,Candidate A,0,3,3,0
+U1797,Kisumu,35-44,WhatsApp,Low,Healthcare,0.624,0.305,Undecided,0,4,4,0
+U1798,Machakos,25-34,X,Medium,Jobs,0.432,0.196,Candidate A,0,3,10,0
+U1799,Nakuru,35-44,Facebook,Low,Corruption,0.535,0.109,Undecided,0,2,5,0
+U1800,Nairobi,35-44,YouTube,Medium,Corruption,0.611,0.379,Candidate A,0,2,8,0
+U1801,Meru,18-24,WhatsApp,Low,Corruption,0.323,0.259,Undecided,0,6,7,0
+U1802,Kiambu,45-59,WhatsApp,Medium,Cost of Living,0.417,0.43,Undecided,1,46,16,0
+U1803,Kisumu,25-34,YouTube,Low,Cost of Living,0.406,0.074,Undecided,0,7,7,0
+U1804,Nairobi,25-34,WhatsApp,Low,Cost of Living,0.069,0.347,Candidate B,0,0,3,0
+U1805,Nairobi,60+,Facebook,Medium,Jobs,0.243,0.346,Candidate B,0,5,8,0
+U1806,Nairobi,18-24,X,Low,Education,0.217,0.095,Candidate A,0,3,7,0
+U1807,Meru,45-59,WhatsApp,Medium,Cost of Living,0.557,0.05,Candidate B,0,0,2,0
+U1808,Nakuru,35-44,TikTok,Medium,Healthcare,0.695,0.52,Undecided,0,4,4,0
+U1809,Kiambu,25-34,WhatsApp,Low,Cost of Living,0.426,0.126,Candidate B,0,12,14,0
+U1810,Machakos,25-34,WhatsApp,Medium,Corruption,0.475,0.024,Undecided,0,1,2,0
+U1811,Nakuru,60+,WhatsApp,Medium,Jobs,0.572,0.097,Candidate B,0,1,2,0
+U1812,Nairobi,35-44,TikTok,Medium,Education,0.499,0.227,Undecided,1,14,12,0
+U1813,Kiambu,25-34,WhatsApp,Low,Cost of Living,0.44,0.205,Candidate B,0,1,2,0
+U1814,Nairobi,35-44,Facebook,Medium,Jobs,0.538,0.335,Candidate A,0,9,9,0
+U1815,Nairobi,35-44,Facebook,Low,Cost of Living,0.362,0.204,Candidate A,0,0,1,0
+U1816,Mombasa,45-59,WhatsApp,Low,Cost of Living,0.337,0.119,Candidate A,0,1,4,0
+U1817,Nairobi,18-24,WhatsApp,Medium,Jobs,0.693,0.181,Candidate A,0,3,8,0
+U1818,Machakos,45-59,Facebook,Low,Corruption,0.369,0.228,Undecided,0,15,14,0
+U1819,Kakamega,25-34,WhatsApp,Medium,Education,0.199,0.785,Candidate A,0,2,6,0
+U1820,Kakamega,60+,WhatsApp,Low,Jobs,0.522,0.156,Candidate A,0,14,8,0
+U1821,Kakamega,45-59,WhatsApp,Medium,Education,0.183,0.554,Undecided,0,1,5,0
+U1822,Kisumu,60+,TikTok,Medium,Education,0.64,0.615,Candidate B,0,3,5,0
+U1823,Meru,18-24,Facebook,Low,Healthcare,0.545,0.14,Candidate A,0,5,5,0
+U1824,Kiambu,35-44,TikTok,Low,Healthcare,0.34,0.273,Candidate B,0,2,1,0
+U1825,Kiambu,60+,X,Low,Cost of Living,0.664,0.038,Undecided,0,2,8,0
+U1826,Kiambu,45-59,WhatsApp,Medium,Cost of Living,0.569,0.115,Undecided,0,13,5,0
+U1827,Kakamega,35-44,Facebook,Low,Cost of Living,0.417,0.207,Undecided,0,7,8,0
+U1828,Nairobi,18-24,Facebook,Medium,Healthcare,0.547,0.271,Candidate A,0,5,8,0
+U1829,Kakamega,18-24,WhatsApp,Medium,Healthcare,0.537,0.267,Undecided,0,1,3,0
+U1830,Nakuru,45-59,Facebook,High,Cost of Living,0.5,0.95,Candidate C,0,1,6,0
+U1831,Nakuru,25-34,Facebook,Medium,Jobs,0.56,0.429,Undecided,0,19,10,0
+U1832,Machakos,25-34,Facebook,Low,Jobs,0.303,0.332,Undecided,0,2,5,0
+U1833,Nyeri,25-34,WhatsApp,Medium,Cost of Living,0.348,0.161,Candidate C,0,1,7,0
+U1834,Nyeri,18-24,TikTok,Medium,Corruption,0.404,0.15,Undecided,0,3,9,0
+U1835,Nairobi,45-59,Facebook,Medium,Corruption,0.708,0.207,Candidate B,0,6,7,0
+U1836,Uasin Gishu,60+,X,Low,Jobs,0.586,0.073,Candidate B,0,2,3,0
+U1837,Nairobi,60+,WhatsApp,Medium,Jobs,0.562,0.95,Undecided,0,12,9,0
+U1838,Kakamega,25-34,WhatsApp,Medium,Cost of Living,0.548,0.262,Undecided,0,1,4,0
+U1839,Kiambu,35-44,TikTok,Medium,Corruption,0.441,0.249,Undecided,0,3,11,0
+U1840,Mombasa,35-44,X,High,Infrastructure,0.602,0.522,Undecided,0,1,5,0
+U1841,Kiambu,25-34,TikTok,Low,Cost of Living,0.237,0.33,Candidate B,0,3,3,0
+U1842,Nairobi,35-44,Facebook,Low,Cost of Living,0.533,0.052,Candidate A,0,1,7,0
+U1843,Nairobi,35-44,Facebook,Medium,Cost of Living,0.593,0.148,Undecided,0,20,9,0
+U1844,Mombasa,35-44,Facebook,Medium,Jobs,0.443,0.123,Undecided,0,1,2,0
+U1845,Uasin Gishu,18-24,Facebook,Low,Cost of Living,0.443,0.138,Candidate A,0,2,5,0
+U1846,Nyeri,45-59,YouTube,High,Education,0.601,0.202,Candidate B,0,5,5,0
+U1847,Kisumu,45-59,TikTok,Medium,Cost of Living,0.332,0.375,Candidate C,0,2,6,0
+U1848,Mombasa,25-34,Facebook,Medium,Jobs,0.384,0.442,Candidate A,0,12,12,0
+U1849,Kakamega,18-24,Facebook,Low,Corruption,0.306,0.334,Candidate A,0,8,13,0
+U1850,Kiambu,25-34,WhatsApp,Low,Corruption,0.337,0.143,Candidate A,0,3,3,0
+U1851,Nairobi,25-34,YouTube,Medium,Cost of Living,0.563,0.377,Candidate A,0,0,4,0
+U1852,Uasin Gishu,25-34,Facebook,Medium,Jobs,0.426,0.214,Candidate C,0,1,6,0
+U1853,Kisumu,35-44,Facebook,Medium,Education,0.434,0.332,Candidate B,0,2,6,0
+U1854,Machakos,45-59,WhatsApp,Medium,Jobs,0.613,0.121,Candidate A,0,2,4,0
+U1855,Kakamega,35-44,WhatsApp,Low,Jobs,0.581,0.1,Candidate A,0,2,1,0
+U1856,Machakos,60+,TikTok,Medium,Education,0.395,0.426,Candidate A,0,1,5,0
+U1857,Nakuru,45-59,Facebook,Medium,Jobs,0.58,0.46,Candidate B,0,0,3,0
+U1858,Kakamega,25-34,YouTube,Low,Cost of Living,0.565,0.092,Candidate A,0,1,1,0
+U1859,Machakos,25-34,Facebook,High,Cost of Living,0.577,0.933,Candidate B,0,7,2,0
+U1860,Nakuru,18-24,WhatsApp,Low,Cost of Living,0.664,0.182,Candidate B,0,1,3,0
+U1861,Kiambu,25-34,Facebook,Medium,Corruption,0.543,0.488,Undecided,0,6,1,0
+U1862,Kisumu,18-24,TikTok,Low,Cost of Living,0.502,0.254,Undecided,0,7,10,0
+U1863,Meru,35-44,WhatsApp,Low,Healthcare,0.511,0.103,Candidate A,0,2,3,0
+U1864,Nairobi,25-34,WhatsApp,Low,Jobs,0.28,0.175,Candidate A,0,8,7,0
+U1865,Kakamega,25-34,Facebook,Medium,Cost of Living,0.671,0.233,Undecided,0,3,9,0
+U1866,Kisumu,45-59,WhatsApp,Medium,Education,0.615,0.139,Undecided,0,2,5,0
+U1867,Nairobi,45-59,X,High,Healthcare,0.432,0.348,Candidate A,0,3,10,0
+U1868,Kakamega,60+,Facebook,High,Cost of Living,0.588,0.302,Undecided,0,1,5,0
+U1869,Nakuru,45-59,WhatsApp,Medium,Corruption,0.445,0.166,Candidate C,0,4,6,0
+U1870,Kiambu,25-34,WhatsApp,High,Cost of Living,0.526,0.282,Candidate C,0,3,9,0
+U1871,Machakos,45-59,WhatsApp,High,Jobs,0.656,0.277,Candidate B,0,1,4,0
+U1872,Nairobi,35-44,Facebook,High,Healthcare,0.501,0.377,Candidate A,0,7,4,0
+U1873,Meru,25-34,YouTube,Low,Jobs,0.359,0.24,Undecided,0,10,5,0
+U1874,Nairobi,60+,YouTube,Medium,Education,0.621,0.281,Candidate A,0,5,5,0
+U1875,Nairobi,25-34,Facebook,Medium,Jobs,0.319,0.286,Candidate B,0,6,8,0
+U1876,Kakamega,60+,X,High,Infrastructure,0.419,0.332,Candidate A,0,3,1,0
+U1877,Nakuru,45-59,TikTok,High,Healthcare,0.787,0.025,Candidate C,0,2,2,0
+U1878,Nakuru,35-44,Facebook,Medium,Cost of Living,0.366,0.201,Candidate C,0,2,5,0
+U1879,Nairobi,60+,WhatsApp,Low,Jobs,0.45,0.107,Candidate A,0,3,3,0
+U1880,Nairobi,18-24,Facebook,Medium,Cost of Living,0.624,0.05,Candidate A,0,7,8,0
+U1881,Machakos,25-34,Facebook,Low,Jobs,0.715,0.27,Candidate A,0,2,4,0
+U1882,Kisumu,25-34,WhatsApp,Low,Infrastructure,0.361,0.422,Candidate A,0,3,4,0
+U1883,Kakamega,25-34,WhatsApp,High,Cost of Living,0.415,0.213,Undecided,0,9,4,0
+U1884,Meru,25-34,YouTube,Low,Cost of Living,0.312,0.053,Undecided,0,3,8,0
+U1885,Kiambu,25-34,Facebook,Medium,Cost of Living,0.511,0.402,Candidate C,0,1,5,0
+U1886,Kakamega,25-34,YouTube,Medium,Cost of Living,0.452,0.09,Candidate B,0,27,7,0
+U1887,Kiambu,60+,TikTok,Medium,Education,0.527,0.583,Undecided,0,2,5,0
+U1888,Uasin Gishu,18-24,TikTok,Low,Cost of Living,0.19,0.105,Candidate A,0,10,8,0
+U1889,Uasin Gishu,18-24,Facebook,Medium,Jobs,0.218,0.247,Candidate A,0,12,5,0
+U1890,Meru,25-34,WhatsApp,High,Jobs,0.531,0.095,Undecided,0,1,6,0
+U1891,Nairobi,25-34,TikTok,Low,Cost of Living,0.716,0.077,Undecided,0,3,5,0
+U1892,Kisumu,25-34,Facebook,Low,Healthcare,0.496,0.071,Undecided,0,6,12,0
+U1893,Kisumu,35-44,Facebook,Medium,Jobs,0.246,0.377,Candidate C,0,3,5,0
+U1894,Kiambu,35-44,TikTok,High,Education,0.669,0.453,Candidate A,0,7,7,0
+U1895,Kiambu,60+,Facebook,High,Healthcare,0.507,0.379,Candidate B,0,3,5,0
+U1896,Nairobi,35-44,Facebook,Low,Corruption,0.539,0.171,Undecided,0,0,2,0
+U1897,Nairobi,25-34,Facebook,High,Jobs,0.553,0.273,Candidate A,0,2,3,0
+U1898,Nyeri,45-59,WhatsApp,High,Jobs,0.305,0.345,Candidate A,0,0,1,0
+U1899,Nairobi,25-34,Facebook,Medium,Education,0.757,0.113,Candidate A,0,3,9,0
+U1900,Nyeri,60+,WhatsApp,High,Cost of Living,0.559,0.499,Candidate C,0,7,6,0
+U1901,Nairobi,35-44,WhatsApp,Medium,Cost of Living,0.351,0.491,Candidate B,0,4,5,0
+U1902,Kakamega,60+,Facebook,Medium,Healthcare,0.379,0.099,Undecided,0,3,1,0
+U1903,Nyeri,25-34,X,Low,Cost of Living,0.433,0.227,Candidate C,0,3,3,0
+U1904,Kiambu,45-59,WhatsApp,High,Healthcare,0.633,0.806,Candidate A,0,9,6,0
+U1905,Nakuru,45-59,YouTube,High,Cost of Living,0.603,0.084,Candidate B,0,2,9,0
+U1906,Kisumu,45-59,WhatsApp,High,Cost of Living,0.67,0.776,Undecided,0,6,8,0
+U1907,Nairobi,25-34,WhatsApp,High,Jobs,0.48,0.585,Candidate A,0,1,6,0
+U1908,Kiambu,18-24,Facebook,High,Corruption,0.381,0.149,Candidate A,0,2,4,0
+U1909,Kakamega,35-44,WhatsApp,Low,Cost of Living,0.431,0.364,Undecided,0,2,6,0
+U1910,Nairobi,25-34,X,Medium,Cost of Living,0.458,0.218,Candidate A,0,0,3,0
+U1911,Nairobi,18-24,Facebook,Low,Jobs,0.672,0.117,Candidate A,0,6,14,0
+U1912,Nairobi,25-34,X,Medium,Cost of Living,0.644,0.199,Candidate A,0,6,3,0
+U1913,Kiambu,35-44,Facebook,Low,Healthcare,0.782,0.203,Undecided,0,1,2,0
+U1914,Nakuru,35-44,Facebook,Low,Healthcare,0.649,0.139,Undecided,0,2,8,0
+U1915,Kakamega,45-59,WhatsApp,Medium,Healthcare,0.655,0.144,Candidate A,0,0,2,0
+U1916,Mombasa,60+,WhatsApp,Medium,Corruption,0.518,0.626,Candidate B,0,2,4,0
+U1917,Kisumu,25-34,YouTube,Low,Jobs,0.388,0.09,Candidate A,0,3,8,0
+U1918,Nairobi,45-59,Facebook,Medium,Cost of Living,0.386,0.397,Candidate B,1,53,17,0
+U1919,Kiambu,45-59,TikTok,Medium,Cost of Living,0.421,0.181,Candidate B,0,2,2,0
+U1920,Nairobi,25-34,TikTok,Low,Education,0.16,0.296,Undecided,0,12,9,0
+U1921,Nairobi,18-24,Facebook,Low,Healthcare,0.603,0.054,Candidate A,0,8,5,0
+U1922,Meru,25-34,YouTube,Low,Cost of Living,0.514,0.082,Candidate B,0,10,4,0
+U1923,Mombasa,25-34,WhatsApp,High,Jobs,0.51,0.106,Undecided,0,1,5,0
+U1924,Nairobi,60+,TikTok,High,Cost of Living,0.543,0.696,Candidate B,0,2,6,0
+U1925,Kakamega,18-24,X,Medium,Corruption,0.63,0.099,Undecided,0,1,6,0
+U1926,Kakamega,25-34,WhatsApp,Low,Jobs,0.777,0.083,Candidate A,0,29,9,0
+U1927,Meru,35-44,Facebook,Medium,Jobs,0.585,0.313,Candidate C,0,0,4,0
+U1928,Meru,18-24,Facebook,Medium,Cost of Living,0.589,0.285,Candidate B,0,12,14,0
+U1929,Nairobi,35-44,WhatsApp,Low,Jobs,0.444,0.169,Candidate A,0,6,8,0
+U1930,Nairobi,25-34,WhatsApp,Low,Cost of Living,0.507,0.214,Candidate A,0,6,7,0
+U1931,Mombasa,35-44,WhatsApp,Low,Healthcare,0.614,0.423,Undecided,0,7,7,0
+U1932,Uasin Gishu,25-34,WhatsApp,Medium,Healthcare,0.635,0.767,Candidate B,0,6,13,0
+U1933,Nakuru,18-24,WhatsApp,High,Jobs,0.621,0.525,Candidate A,0,1,7,0
+U1934,Machakos,45-59,Facebook,Medium,Jobs,0.407,0.363,Candidate A,0,3,3,0
+U1935,Uasin Gishu,25-34,Facebook,High,Infrastructure,0.411,0.95,Candidate A,0,1,7,0
+U1936,Kisumu,60+,Facebook,Medium,Corruption,0.298,0.217,Undecided,0,2,4,0
+U1937,Nakuru,25-34,WhatsApp,Medium,Infrastructure,0.612,0.565,Candidate B,0,10,10,0
+U1938,Kiambu,25-34,Facebook,Medium,Jobs,0.641,0.299,Candidate A,0,3,8,0
+U1939,Nairobi,35-44,Facebook,Medium,Education,0.35,0.397,Candidate B,0,3,4,0
+U1940,Nairobi,25-34,WhatsApp,Medium,Cost of Living,0.221,0.883,Candidate B,1,222,61,0
+U1941,Nairobi,45-59,Facebook,Medium,Cost of Living,0.336,0.18,Candidate A,0,8,8,0
+U1942,Nairobi,35-44,TikTok,Medium,Infrastructure,0.661,0.452,Candidate A,0,0,3,0
+U1943,Mombasa,35-44,X,High,Cost of Living,0.569,0.586,Candidate A,0,0,4,0
+U1944,Machakos,25-34,X,Low,Cost of Living,0.404,0.269,Undecided,0,2,6,0
+U1945,Machakos,45-59,YouTube,High,Cost of Living,0.724,0.348,Candidate A,0,3,3,0
+U1946,Kisumu,25-34,WhatsApp,High,Jobs,0.824,0.237,Undecided,0,5,3,0
+U1947,Kiambu,45-59,YouTube,Low,Cost of Living,0.521,0.221,Candidate B,0,5,3,0
+U1948,Kakamega,35-44,WhatsApp,Low,Healthcare,0.255,0.185,Undecided,0,4,6,0
+U1949,Nairobi,60+,Facebook,Low,Healthcare,0.428,0.048,Candidate A,0,7,3,0
+U1950,Kisumu,25-34,TikTok,Medium,Cost of Living,0.345,0.234,Undecided,0,2,7,0
+U1951,Kisumu,35-44,Facebook,Medium,Healthcare,0.533,0.531,Candidate B,0,0,2,0
+U1952,Mombasa,25-34,Facebook,Medium,Cost of Living,0.424,0.238,Candidate A,0,2,3,0
+U1953,Uasin Gishu,35-44,YouTube,Medium,Healthcare,0.377,0.165,Candidate B,0,2,5,0
+U1954,Nairobi,35-44,X,Medium,Corruption,0.446,0.178,Candidate A,0,36,17,0
+U1955,Machakos,35-44,TikTok,Medium,Cost of Living,0.602,0.072,Candidate A,0,2,3,0
+U1956,Kiambu,18-24,Facebook,Medium,Jobs,0.199,0.279,Undecided,0,0,3,0
+U1957,Nairobi,35-44,Facebook,Medium,Jobs,0.531,0.168,Candidate A,0,3,6,0
+U1958,Kakamega,35-44,TikTok,Medium,Jobs,0.705,0.407,Candidate B,0,2,3,0
+U1959,Nairobi,60+,TikTok,Low,Education,0.348,0.072,Candidate B,0,11,11,0
+U1960,Nakuru,60+,TikTok,Medium,Jobs,0.382,0.254,Candidate B,0,4,5,0
+U1961,Mombasa,18-24,X,Low,Cost of Living,0.296,0.12,Undecided,0,2,5,0
+U1962,Kiambu,25-34,Facebook,Medium,Cost of Living,0.582,0.45,Undecided,0,31,10,0
+U1963,Nakuru,35-44,Facebook,Low,Healthcare,0.168,0.242,Candidate B,0,2,11,0
+U1964,Uasin Gishu,60+,Facebook,Low,Cost of Living,0.428,0.081,Undecided,0,4,7,0
+U1965,Meru,45-59,WhatsApp,High,Jobs,0.786,0.301,Candidate B,0,1,3,0
+U1966,Nairobi,45-59,TikTok,Medium,Healthcare,0.36,0.327,Candidate A,0,7,4,0
+U1967,Kiambu,25-34,YouTube,Low,Jobs,0.32,0.201,Undecided,0,2,4,0
+U1968,Kiambu,35-44,Facebook,Low,Infrastructure,0.468,0.216,Candidate A,0,6,7,0
+U1969,Nairobi,25-34,Facebook,Low,Cost of Living,0.541,0.346,Candidate B,0,0,2,0
+U1970,Nairobi,60+,Facebook,Medium,Healthcare,0.335,0.545,Undecided,0,3,4,0
+U1971,Uasin Gishu,25-34,Facebook,Low,Cost of Living,0.602,0.193,Undecided,0,17,17,0
+U1972,Kiambu,45-59,X,High,Healthcare,0.75,0.424,Undecided,0,4,5,0
+U1973,Kiambu,45-59,Facebook,Medium,Jobs,0.555,0.465,Candidate B,0,0,6,0
+U1974,Nyeri,35-44,Facebook,Medium,Healthcare,0.447,0.355,Undecided,0,5,3,0
+U1975,Kakamega,25-34,Facebook,Medium,Cost of Living,0.305,0.157,Candidate A,0,2,4,0
+U1976,Mombasa,25-34,Facebook,Medium,Cost of Living,0.596,0.556,Undecided,0,0,1,0
+U1977,Nairobi,18-24,Facebook,Low,Jobs,0.268,0.101,Candidate A,0,2,1,0
+U1978,Mombasa,35-44,WhatsApp,Medium,Cost of Living,0.17,0.064,Candidate A,0,5,6,0
+U1979,Mombasa,60+,Facebook,Medium,Cost of Living,0.354,0.327,Candidate B,0,9,6,0
+U1980,Mombasa,35-44,Facebook,Medium,Corruption,0.544,0.358,Undecided,0,1,2,0
+U1981,Kakamega,18-24,TikTok,Low,Corruption,0.543,0.094,Undecided,0,0,2,0
+U1982,Machakos,25-34,YouTube,Medium,Cost of Living,0.315,0.391,Candidate B,0,11,9,0
+U1983,Kisumu,25-34,WhatsApp,Low,Education,0.517,0.349,Candidate A,0,1,2,0
+U1984,Mombasa,25-34,YouTube,Medium,Jobs,0.495,0.185,Candidate C,0,4,6,0
+U1985,Nakuru,60+,Facebook,Medium,Jobs,0.285,0.115,Candidate A,0,14,9,0
+U1986,Kiambu,60+,Facebook,Low,Jobs,0.606,0.226,Undecided,0,2,2,0
+U1987,Nairobi,60+,TikTok,High,Cost of Living,0.847,0.819,Candidate B,0,1,2,0
+U1988,Kiambu,35-44,Facebook,Medium,Healthcare,0.669,0.362,Candidate B,0,2,4,0
+U1989,Nairobi,25-34,TikTok,High,Healthcare,0.506,0.284,Candidate A,0,3,6,0
+U1990,Meru,45-59,WhatsApp,High,Healthcare,0.353,0.399,Undecided,0,1,11,0
+U1991,Nairobi,18-24,Facebook,Medium,Corruption,0.246,0.294,Candidate B,0,1,2,0
+U1992,Kiambu,35-44,Facebook,Low,Education,0.264,0.069,Undecided,0,1,4,0
+U1993,Nairobi,35-44,Facebook,Low,Cost of Living,0.368,0.072,Candidate B,0,8,6,0
+U1994,Kisumu,18-24,Facebook,Medium,Jobs,0.52,0.41,Undecided,0,3,4,0
+U1995,Nairobi,35-44,WhatsApp,Medium,Cost of Living,0.292,0.478,Candidate A,0,4,4,0
+U1996,Kiambu,25-34,WhatsApp,Medium,Cost of Living,0.555,0.924,Candidate A,0,6,3,0
+U1997,Meru,25-34,Facebook,Low,Jobs,0.324,0.224,Candidate A,0,8,12,0
+U1998,Nakuru,35-44,WhatsApp,Medium,Cost of Living,0.526,0.402,Undecided,0,5,4,0
+U1999,Nakuru,60+,Facebook,Medium,Healthcare,0.276,0.477,Candidate A,0,5,9,0
+U2000,Nyeri,25-34,TikTok,Medium,Cost of Living,0.374,0.28,Candidate A,0,6,6,0
